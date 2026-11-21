@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T16:56:31Z",
+  "updatedAt": "2026-11-21T17:30:44Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -166,6 +166,36 @@
       "retrievedAt": "2026-11-21T16:56:31Z",
       "licence": "Licence Ouverte 1.0",
       "format": "html"
+    },
+    "src-an-amo30-2026-11-21": {
+      "title": "Députés, mandats et organes de la 17e législature (export AMO30)",
+      "publisher": "Assemblée nationale",
+      "kind": "assemblee",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/tous_acteurs_mandats_organes_xi_legislature/AMO30_tous_acteurs_tous_mandats_tous_organes_historique.json.zip",
+      "publishedOn": "2026-11-21",
+      "retrievedAt": "2026-11-21T17:17:00Z",
+      "licence": "Licence Ouverte 1.0",
+      "format": "json"
+    },
+    "src-senat-odsen-histogroupes-2026-11-21": {
+      "title": "Sénateurs : historique des groupes politiques (ODSEN_HISTOGROUPES)",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://data.senat.fr/data/senateurs/ODSEN_HISTOGROUPES.json",
+      "publishedOn": "2026-11-21",
+      "retrievedAt": "2026-11-21T17:20:00Z",
+      "licence": "Licence du Sénat (termes de la Licence Ouverte)",
+      "format": "json"
+    },
+    "src-senat-odsen-general-2026-11-21": {
+      "title": "Sénateurs : informations générales (ODSEN_GENERAL)",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://data.senat.fr/data/senateurs/ODSEN_GENERAL.json",
+      "publishedOn": "2026-11-21",
+      "retrievedAt": "2026-11-21T17:20:00Z",
+      "licence": "Licence du Sénat (termes de la Licence Ouverte)",
+      "format": "json"
     }
   }
 }

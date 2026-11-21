@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T16:56:31Z",
+  "updatedAt": "2026-11-21T17:30:44Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -98,6 +98,26 @@
         "src-cm-2026-11-04",
         "src-cm-2026-11-10",
         "src-senat-pjl26-096-ei"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-21-09",
+      "date": "2026-11-21",
+      "kind": "extraction-rejetee",
+      "target": "budget/etat-2026.json",
+      "note": "Situation mensuelle de l'État à fin septembre 2026 (dernière publiée au catalogue de data.economie.gouv.fr, vérifié à 17 h 15 UTC) : nouvel essai de téléchargement refusé par le site economie.gouv.fr (HTTP 403, https://www.economie.gouv.fr/files/files/directions_services/dgfip/media-document/SME_2026-09.pdf). Aucune extraction de la colonne execution ; aucune copie n'a été cherchée ailleurs. Nouvel essai à la prochaine exécution.",
+      "sourceIds": []
+    },
+    {
+      "id": "jrn-2026-11-21-10",
+      "date": "2026-11-21",
+      "kind": "ajout-source",
+      "target": "annonces.json",
+      "note": "Synthèse complémentaire du 21 novembre 2026 : revue des présidents des assemblées et des présidents de groupe, jamais passés en revue jusqu'ici, sur la même période que l'exécutif (22 octobre au 21 novembre 2026). Aucun changement relevé : aucune annonce, aucun chiffrage, aucune suite, aucun résumé ni rattachement ajouté. Fonctions vérifiées dans l'export AMO30 de l'Assemblée nationale et dans les fichiers ODSEN_GENERAL et ODSEN_HISTOGROUPES du Sénat. Méthode commune : comptes rendus intégraux des séances publiques de la période (36 séances à l'Assemblée nationale du 22 octobre au 20 novembre ; comptes rendus du Sénat à partir de l'index des interventions de chaque sénateur, compte rendu intégral provisoire du 19 novembre et compte rendu analytique du 20 novembre), fiches et textes déposés sur les sites des assemblées, sites officiels des groupes quand leur adresse est publiée par l'assemblée. Assemblée nationale, résultat « aucune annonce répondant aux critères » pour : Gabriel Attal (Ensemble pour la République), Yaël Braun-Pivet (présidente de l'Assemblée nationale, comptes rendus et communiqués de la présidence), Cyrielle Chatelain (Écologiste et Social), Sébastien Chenu (Rassemblement National, depuis le 28 octobre 2026), Éric Ciotti (Union des droites pour la République), Marc Fesneau (Les Démocrates), Marine Le Pen (Rassemblement National, du 22 au 27 octobre 2026), Laurent Marcangeli (Horizons & Indépendants), Christophe Naegelen (Libertés, Indépendants, Outre-mer et Territoires), Mathilde Panot (La France insoumise - Nouveau Front Populaire), Stéphane Peu (Gauche Démocrate et Républicaine), Boris Vallaud (Socialistes et apparentés), Laurent Wauquiez (Droite Républicaine). Les pages des groupes sur le site de l'Assemblée nationale ne publient pas l'adresse d'un site de groupe : aucun site de groupe n'a été consulté, pour aucun des onze groupes. Sénat, résultat « aucune annonce répondant aux critères » pour : Maryse Carrère (Groupe du RDSE), Cécile Cukierman (Groupe CRCE - Kanaky), Mathieu Darnaud (Groupe Les Républicains), Edwige Diaz (Groupe Union Nationale pour les Territoires), Xavier Iacovelli (Groupe Rassemblement des démocrates, progressistes et indépendants), Patrick Kanner (Groupe Socialiste, Écologiste et Républicain), Gérard Larcher (président du Sénat, comptes rendus et communiqués de la présidence), Claude Malhuret (Groupe Les Indépendants - République et Territoires), Hervé Marseille (Groupe Union Centriste et Indépendants), Mélanie Vogel (Groupe Écologiste - Solidarité et Territoires). Sources non lues : site du Groupe Union Nationale pour les Territoires (adresse non publiée par le Sénat) ; communiqué du Groupe Les Indépendants - République et Territoires du 9 novembre 2026, publié dans un fichier PDF non téléchargeable ; communiqué du Groupe Rassemblement des démocrates, progressistes et indépendants du 5 novembre 2026, publié sous forme d'image, sans texte lisible ; compte rendu intégral de la séance du Sénat du 20 novembre 2026, non publié ce jour. Propos écartés, selon la même règle pour tous : intentions de vote ; opinions et demandes adressées au Gouvernement ; défense ou retrait en séance d'amendements déposés avant la prise de parole ; décisions attribuées au Bureau du Sénat dans un communiqué de la présidence ; annonce d'un recours au Conseil constitutionnel dans un communiqué de groupe signé par d'autres membres que le président du groupe. Suites : aucun acte nouveau publié depuis la publication précédente du jour pour les mesures suivies.",
+      "sourceIds": [
+        "src-an-amo30-2026-11-21",
+        "src-senat-odsen-general-2026-11-21",
+        "src-senat-odsen-histogroupes-2026-11-21"
       ]
     }
   ]
