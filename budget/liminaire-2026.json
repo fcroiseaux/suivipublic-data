@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T09:57:46.577Z",
+  "year": 2026,
+  "blocks": [
+    {
+      "id": "ext-lfi26-adopte-an-ld-liminaire",
+      "lawKey": "lfi",
+      "lawTitle": "Loi de finances pour 2026",
+      "stage": "adopte-an-ld",
+      "date": "2026-02-02",
+      "sourceId": "src-lfi-2026-texte-adopte-an",
+      "columns": [
+        {
+          "year": 2024,
+          "kind": "execution",
+          "label": "Exécution 2024"
+        },
+        {
+          "year": 2025,
+          "kind": "prevision-execution",
+          "label": "Prévision d'exécution 2025"
+        },
+        {
+          "year": 2026,
+          "kind": "prevision",
+          "label": "Prévision 2026"
+        },
+        {
+          "year": 2026,
+          "kind": "programmation",
+          "label": "Loi de programmation des finances publiques, 2026"
+        }
+      ],
+      "lines": [
+        {
+          "key": "solde-structurel",
+          "label": "Solde structurel (en points de PIB potentiel)",
+          "unit": "PT_PIB_POTENTIEL",
+          "values": [
+            -5.8,
+            -5.1,
+            -4.6,
+            -2.9
+          ]
+        },
+        {
+          "key": "solde-conjoncturel",
+          "label": "Solde conjoncturel",
+          "unit": "PT_PIB",
+          "values": [
+            0,
+            -0.2,
+            -0.4,
+            -0.2
+          ]
+        },
+        {
+          "key": "mesures-ponctuelles",
+          "label": "Solde des mesures ponctuelles et temporaires (en points de PIB potentiel)",
+          "unit": "PT_PIB_POTENTIEL",
+          "values": [
+            -0.1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "solde-effectif",
+          "label": "Solde effectif",
+          "unit": "PT_PIB",
+          "values": [
+            -5.8,
+            -5.4,
+            -5,
+            -2.7
+          ]
+        },
+        {
+          "key": "dette-maastricht",
+          "label": "Dette au sens de Maastricht",
+          "unit": "PT_PIB",
+          "values": [
+            113.2,
+            115.9,
+            118.2,
+            109.6
+          ]
+        }
+      ],
+      "check": {
+        "rule": "Solde effectif = solde structurel + solde conjoncturel + mesures ponctuelles et temporaires (identité publiée), sur les trois colonnes de la loi",
+        "maxGap": 0.1,
+        "tolerance": 0.2,
+        "status": "ok",
+        "notes": [
+          "Dans la colonne de la loi de programmation, reprise telle que publiée, le solde effectif diffère de 0,4 point de la somme de ses composantes."
+        ]
+      },
+      "extractedAt": "2026-11-21T09:57:46.577Z"
+    }
+  ]
+}

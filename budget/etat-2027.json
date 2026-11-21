@@ -1,0 +1,4793 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T09:15:17.340Z",
+  "year": 2027,
+  "regime": [],
+  "laws": [
+    {
+      "key": "plf",
+      "kind": "plf",
+      "title": "Projet de loi de finances pour 2027",
+      "refs": {
+        "anDossier": "DLR5L17N54629",
+        "anDocument": "PRJLANR5L17B3210",
+        "senatDossier": "pjlf2027"
+      },
+      "sourceIds": [
+        "src-plf-2027-depot-an"
+      ]
+    }
+  ],
+  "nomenclature": {
+    "missions": [
+      {
+        "code": "AA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "action-exterieure-de-l-etat",
+        "name": "Action extérieure de l’État",
+        "programmes": [
+          {
+            "key": "action-de-la-france-en-europe-et-dans-le-monde",
+            "code": "105",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Action de la France en Europe et dans le monde",
+            "evaluative": false
+          },
+          {
+            "key": "diplomatie-culturelle-et-d-influence",
+            "code": "185",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Diplomatie culturelle et d’influence",
+            "evaluative": false
+          },
+          {
+            "key": "francais-a-l-etranger-et-affaires-consulaires",
+            "code": "151",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Français à l’étranger et affaires consulaires",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "AB",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "administration-generale-et-territoriale-de-l-etat",
+        "name": "Administration générale et territoriale de l’État",
+        "programmes": [
+          {
+            "key": "administration-territoriale-de-l-etat",
+            "code": "354",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Administration territoriale de l’État",
+            "evaluative": false
+          },
+          {
+            "key": "vie-politique",
+            "code": "232",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Vie politique",
+            "evaluative": false
+          },
+          {
+            "key": "conduite-et-pilotage-des-politiques-de-l-interieur",
+            "code": "216",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Conduite et pilotage des politiques de l’intérieur",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "AC",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "agriculture-et-alimentation",
+        "name": "Agriculture et alimentation",
+        "programmes": [
+          {
+            "key": "competitivite-et-durabilite-de-l-agriculture-et-de-l-agroalimentaire",
+            "code": "149",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Compétitivité et durabilité de l’agriculture et de l’agroalimentaire",
+            "evaluative": false
+          },
+          {
+            "key": "securite-et-qualite-sanitaires-de-l-alimentation",
+            "code": "206",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Sécurité et qualité sanitaires de l’alimentation",
+            "evaluative": false
+          },
+          {
+            "key": "conduite-et-pilotage-des-politiques-de-l-agriculture",
+            "code": "215",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Conduite et pilotage des politiques de l’agriculture",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "AD",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination"
+        ],
+        "key": "aide-publique-au-developpement",
+        "name": "Aide publique au développement",
+        "programmes": [
+          {
+            "key": "aide-economique-et-financiere-au-developpement",
+            "code": "110",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Aide économique et financière au développement",
+            "evaluative": false
+          },
+          {
+            "key": "renforcement-des-fonds-propres-de-l-agence-francaise-de-developpement",
+            "code": "365",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Renforcement des fonds propres de l’Agence française de développement",
+            "evaluative": false
+          },
+          {
+            "key": "solidarite-a-l-egard-des-pays-en-developpement",
+            "code": "209",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Solidarité à l’égard des pays en développement",
+            "evaluative": false
+          },
+          {
+            "key": "restitution-des-biens-mal-acquis",
+            "code": "370",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination"
+            ],
+            "name": "Restitution des « biens mal acquis »",
+            "evaluative": false
+          },
+          {
+            "key": "fonds-de-solidarite-pour-le-developpement",
+            "code": "384",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Fonds de solidarité pour le développement",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "VA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "cohesion-des-territoires",
+        "name": "Cohésion des territoires",
+        "programmes": [
+          {
+            "key": "hebergement-parcours-vers-le-logement-et-insertion-des-personnes-vulnerables",
+            "code": "177",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Hébergement, parcours vers le logement et insertion des personnes vulnérables",
+            "evaluative": false
+          },
+          {
+            "key": "aide-a-l-acces-au-logement",
+            "code": "109",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Aide à l’accès au logement",
+            "evaluative": false
+          },
+          {
+            "key": "urbanisme-territoires-et-amelioration-de-l-habitat",
+            "code": "135",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Urbanisme, territoires et amélioration de l’habitat",
+            "evaluative": false
+          },
+          {
+            "key": "impulsion-et-coordination-de-la-politique-d-amenagement-du-territoire",
+            "code": "112",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Impulsion et coordination de la politique d’aménagement du territoire",
+            "evaluative": false
+          },
+          {
+            "key": "politique-de-la-ville",
+            "code": "147",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Politique de la ville",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "CA",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination"
+        ],
+        "key": "conseil-et-controle-de-l-etat",
+        "name": "Conseil et contrôle de l’État",
+        "programmes": [
+          {
+            "key": "conseil-d-etat-et-autres-juridictions-administratives",
+            "code": "165",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Conseil d’État et autres juridictions administratives",
+            "evaluative": false
+          },
+          {
+            "key": "conseil-economique-social-et-environnemental",
+            "code": "126",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Conseil économique, social et environnemental",
+            "evaluative": false
+          },
+          {
+            "key": "cour-des-comptes-et-autres-juridictions-financieres",
+            "code": "164",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination"
+            ],
+            "name": "Cour des comptes et autres juridictions financières",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "PC",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination"
+        ],
+        "key": "credits-non-repartis",
+        "name": "Crédits non répartis",
+        "programmes": [
+          {
+            "key": "provision-relative-aux-remunerations-publiques",
+            "code": "551",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Provision relative aux rémunérations publiques",
+            "evaluative": false
+          },
+          {
+            "key": "depenses-accidentelles-et-imprevisibles",
+            "code": "552",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Dépenses accidentelles et imprévisibles",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "CB",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "culture",
+        "name": "Culture",
+        "programmes": [
+          {
+            "key": "patrimoines",
+            "code": "175",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Patrimoines",
+            "evaluative": false
+          },
+          {
+            "key": "creation",
+            "code": "131",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Création",
+            "evaluative": false
+          },
+          {
+            "key": "transmission-des-savoirs-et-democratisation-de-la-culture",
+            "code": "361",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Transmission des savoirs et démocratisation de la culture",
+            "evaluative": false
+          },
+          {
+            "key": "soutien-aux-politiques-du-ministere-de-la-culture",
+            "code": "224",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Soutien aux politiques du ministère de la culture",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "DA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "defense",
+        "name": "Défense",
+        "programmes": [
+          {
+            "key": "environnement-et-prospective-de-la-politique-de-defense",
+            "code": "144",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Environnement et prospective de la politique de défense",
+            "evaluative": false
+          },
+          {
+            "key": "preparation-et-emploi-des-forces",
+            "code": "178",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Préparation et emploi des forces",
+            "evaluative": false
+          },
+          {
+            "key": "soutien-de-la-politique-de-la-defense",
+            "code": "212",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Soutien de la politique de la défense",
+            "evaluative": false
+          },
+          {
+            "key": "equipement-des-forces",
+            "code": "146",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Équipement des forces",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "DC",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "direction-de-l-action-du-gouvernement",
+        "name": "Direction de l’action du Gouvernement",
+        "programmes": [
+          {
+            "key": "coordination-du-travail-gouvernemental",
+            "code": "129",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Coordination du travail gouvernemental",
+            "evaluative": false
+          },
+          {
+            "key": "protection-des-droits-et-libertes",
+            "code": "308",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Protection des droits et libertés",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "TA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "ecologie-developpement-et-mobilite-durables",
+        "name": "Écologie, développement et mobilité durables",
+        "programmes": [
+          {
+            "key": "infrastructures-et-services-de-transports",
+            "code": "203",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Infrastructures et services de transports",
+            "evaluative": false
+          },
+          {
+            "key": "mer-peche-et-aquaculture",
+            "code": "205",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Mer, pêche et aquaculture",
+            "evaluative": false
+          },
+          {
+            "key": "paysages-eau-et-biodiversite",
+            "code": "113",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Paysages, eau et biodiversité",
+            "evaluative": false
+          },
+          {
+            "key": "expertise-information-geographique-et-meteorologie",
+            "code": "159",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Expertise, information géographique et météorologie",
+            "evaluative": false
+          },
+          {
+            "key": "prevention-des-risques",
+            "code": "181",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Prévention des risques",
+            "evaluative": false
+          },
+          {
+            "key": "energie-climat-et-apres-mines",
+            "code": "174",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Énergie, climat et après-mines",
+            "evaluative": false
+          },
+          {
+            "key": "service-public-de-l-energie",
+            "code": "345",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Service public de l’énergie",
+            "evaluative": false
+          },
+          {
+            "key": "conduite-et-pilotage-des-politiques-de-l-ecologie-du-developpement-et-de-la-mobi",
+            "code": "217",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Conduite et pilotage des politiques de l’écologie, du développement et de la mobilité durables",
+            "evaluative": false
+          },
+          {
+            "key": "fonds-d-acceleration-de-la-transition-ecologique-dans-les-territoires",
+            "code": "380",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Fonds d’accélération de la transition écologique dans les territoires",
+            "evaluative": false
+          },
+          {
+            "key": "surete-nucleaire-et-radioprotection",
+            "code": "235",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Sûreté nucléaire et radioprotection",
+            "evaluative": false
+          },
+          {
+            "key": "ecologie-mise-en-extinction-du-plan-de-relance",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Ecologie – mise en extinction du plan de relance",
+            "evaluative": false
+          },
+          {
+            "key": "foret",
+            "code": "386",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Forêt",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "DB",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "economie",
+        "name": "Économie",
+        "programmes": [
+          {
+            "key": "developpement-des-entreprises-et-regulations",
+            "code": "134",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Développement des entreprises et régulations",
+            "evaluative": false
+          },
+          {
+            "key": "plan-france-tres-haut-debit",
+            "code": "343",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Plan France Très haut débit",
+            "evaluative": false
+          },
+          {
+            "key": "statistiques-et-etudes-economiques",
+            "code": "220",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Statistiques et études économiques",
+            "evaluative": false
+          },
+          {
+            "key": "strategies-economiques",
+            "code": "305",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Stratégies économiques",
+            "evaluative": false
+          },
+          {
+            "key": "financement-des-operations-patrimoniales-en-2027-sur-le-compte-d-affectation-spe",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Financement des opérations patrimoniales en 2027 sur le compte d’affectation spéciale « Participations financières de l’État »",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "EB",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination"
+        ],
+        "key": "engagements-financiers-de-l-etat",
+        "name": "Engagements financiers de l’État",
+        "programmes": [
+          {
+            "key": "charge-de-la-dette-et-tresorerie-de-l-etat",
+            "code": "117",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination"
+            ],
+            "name": "Charge de la dette et trésorerie de l’État",
+            "evaluative": true
+          },
+          {
+            "key": "charge-de-la-dette-de-sncf-reseau-reprise-par-l-etat",
+            "code": "355",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination"
+            ],
+            "name": "Charge de la dette de SNCF Réseau reprise par l’État",
+            "evaluative": true
+          },
+          {
+            "key": "appels-en-garantie-de-l-etat",
+            "code": "114",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Appels en garantie de l’État",
+            "evaluative": true
+          },
+          {
+            "key": "epargne",
+            "code": "145",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Épargne",
+            "evaluative": false
+          },
+          {
+            "key": "fonds-de-soutien-relatif-aux-prets-et-contrats-financiers-structures-a-risque",
+            "code": "344",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Fonds de soutien relatif aux prêts et contrats financiers structurés à risque",
+            "evaluative": false
+          },
+          {
+            "key": "soutien-financier-au-nouveau-nucleaire-francais",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Soutien financier au nouveau nucléaire français",
+            "evaluative": false
+          },
+          {
+            "key": "dotation-du-mecanisme-europeen-de-stabilite",
+            "code": "336",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Dotation du Mécanisme européen de stabilité",
+            "evaluative": false
+          },
+          {
+            "key": "augmentation-de-capital-de-la-banque-europeenne-d-investissement",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Augmentation de capital de la Banque européenne d’investissement",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "EC",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "enseignement-scolaire",
+        "name": "Enseignement scolaire",
+        "programmes": [
+          {
+            "key": "enseignement-scolaire-public-du-premier-degre",
+            "code": "140",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Enseignement scolaire public du premier degré",
+            "evaluative": false
+          },
+          {
+            "key": "enseignement-scolaire-public-du-second-degre",
+            "code": "141",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Enseignement scolaire public du second degré",
+            "evaluative": false
+          },
+          {
+            "key": "vie-de-l-eleve",
+            "code": "230",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Vie de l’élève",
+            "evaluative": false
+          },
+          {
+            "key": "enseignement-prive-du-premier-et-du-second-degres",
+            "code": "139",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Enseignement privé du premier et du second degrés",
+            "evaluative": false
+          },
+          {
+            "key": "conduite-et-soutien-des-politiques-de-l-enseignement-de-la-recherche-de-la-jeune",
+            "code": "214",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Conduite et soutien des politiques de l’enseignement, de la recherche, de la jeunesse, de la vie associative et des sports",
+            "evaluative": false
+          },
+          {
+            "key": "enseignement-technique-agricole",
+            "code": "143",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Enseignement technique agricole",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "codeStatus": "sans-numero",
+        "codeSourceIds": [],
+        "key": "gestion-des-finances-publiques-et-lutte-contre-les-fraudes",
+        "name": "Gestion des finances publiques et lutte contre les fraudes",
+        "programmes": [
+          {
+            "key": "gestion-fiscale-et-financiere-de-l-etat-et-du-secteur-public-local",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Gestion fiscale et financière de l’État et du secteur public local",
+            "evaluative": false
+          },
+          {
+            "key": "conduite-et-pilotage-des-politiques-economiques-et-financieres",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Conduite et pilotage des politiques économiques et financières",
+            "evaluative": false
+          },
+          {
+            "key": "facilitation-et-securisation-des-echanges",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Facilitation et sécurisation des échanges",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "IA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "immigration-asile-et-integration",
+        "name": "Immigration, asile et intégration",
+        "programmes": [
+          {
+            "key": "immigration-et-asile",
+            "code": "303",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Immigration et asile",
+            "evaluative": false
+          },
+          {
+            "key": "integration-et-acces-a-la-nationalite-francaise",
+            "code": "104",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Intégration et accès à la nationalité française",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "AV",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination"
+        ],
+        "key": "investir-pour-la-france-de-2030",
+        "name": "Investir pour la France de 2030",
+        "programmes": [
+          {
+            "key": "soutien-des-progres-de-l-enseignement-et-de-la-recherche",
+            "code": "421",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Soutien des progrès de l’enseignement et de la recherche",
+            "evaluative": false
+          },
+          {
+            "key": "valorisation-de-la-recherche",
+            "code": "422",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Valorisation de la recherche",
+            "evaluative": false
+          },
+          {
+            "key": "acceleration-de-la-modernisation-des-entreprises",
+            "code": "423",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Accélération de la modernisation des entreprises",
+            "evaluative": false
+          },
+          {
+            "key": "financement-des-investissements-strategiques",
+            "code": "424",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Financement des investissements stratégiques",
+            "evaluative": false
+          },
+          {
+            "key": "financement-structurel-des-ecosystemes-d-innovation",
+            "code": "425",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Financement structurel des écosystèmes d’innovation",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "JA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "justice",
+        "name": "Justice",
+        "programmes": [
+          {
+            "key": "justice-judiciaire",
+            "code": "166",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Justice judiciaire",
+            "evaluative": false
+          },
+          {
+            "key": "administration-penitentiaire",
+            "code": "107",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Administration pénitentiaire",
+            "evaluative": false
+          },
+          {
+            "key": "protection-judiciaire-de-la-jeunesse",
+            "code": "182",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Protection judiciaire de la jeunesse",
+            "evaluative": false
+          },
+          {
+            "key": "acces-au-droit-et-a-la-justice",
+            "code": "101",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Accès au droit et à la justice",
+            "evaluative": false
+          },
+          {
+            "key": "conduite-et-pilotage-de-la-politique-de-la-justice",
+            "code": "310",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Conduite et pilotage de la politique de la justice",
+            "evaluative": false
+          },
+          {
+            "key": "conseil-superieur-de-la-magistrature",
+            "code": "335",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Conseil supérieur de la magistrature",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "MA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "medias-livre-et-industries-culturelles",
+        "name": "Médias, livre et industries culturelles",
+        "programmes": [
+          {
+            "key": "presse-et-medias",
+            "code": "180",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Presse et médias",
+            "evaluative": false
+          },
+          {
+            "key": "livre-et-industries-culturelles",
+            "code": "334",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Livre et industries culturelles",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "MB",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "monde-combattant-memoire-et-liens-avec-la-nation",
+        "name": "Monde combattant, mémoire et liens avec la Nation",
+        "programmes": [
+          {
+            "key": "reconnaissance-et-reparation-en-faveur-du-monde-combattant-memoire-et-liens-avec",
+            "code": "169",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Reconnaissance et réparation en faveur du monde combattant, mémoire et liens avec la Nation",
+            "evaluative": false
+          },
+          {
+            "key": "indemnisation-des-victimes-des-persecutions-antisemites-et-des-actes-de-barbarie",
+            "code": "158",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "OA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "outre-mer",
+        "name": "Outre-mer",
+        "programmes": [
+          {
+            "key": "emploi-outre-mer",
+            "code": "138",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Emploi outre-mer",
+            "evaluative": false
+          },
+          {
+            "key": "conditions-de-vie-outre-mer",
+            "code": "123",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Conditions de vie outre-mer",
+            "evaluative": false
+          },
+          {
+            "key": "interventions-territoriales-de-l-etat",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Interventions territoriales de l’État",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "PB",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination"
+        ],
+        "key": "pouvoirs-publics",
+        "name": "Pouvoirs publics",
+        "programmes": [
+          {
+            "key": "presidence-de-la-republique",
+            "code": "501",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Présidence de la République",
+            "evaluative": false
+          },
+          {
+            "key": "assemblee-nationale",
+            "code": "511",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Assemblée nationale",
+            "evaluative": false
+          },
+          {
+            "key": "senat",
+            "code": "521",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Sénat",
+            "evaluative": false
+          },
+          {
+            "key": "la-chaine-parlementaire",
+            "code": "541",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "La Chaîne parlementaire",
+            "evaluative": false
+          },
+          {
+            "key": "indemnites-des-representants-francais-au-parlement-europeen",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Indemnités des représentants français au Parlement européen",
+            "evaluative": false
+          },
+          {
+            "key": "conseil-constitutionnel",
+            "code": "531",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Conseil constitutionnel",
+            "evaluative": false
+          },
+          {
+            "key": "haute-cour",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Haute Cour",
+            "evaluative": false
+          },
+          {
+            "key": "cour-de-justice-de-la-republique",
+            "code": "533",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Cour de justice de la République",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "RA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "recherche-et-enseignement-superieur",
+        "name": "Recherche et enseignement supérieur",
+        "programmes": [
+          {
+            "key": "formations-superieures-et-recherche-universitaire",
+            "code": "150",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Formations supérieures et recherche universitaire",
+            "evaluative": false
+          },
+          {
+            "key": "vie-etudiante",
+            "code": "231",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Vie étudiante",
+            "evaluative": false
+          },
+          {
+            "key": "recherches-scientifiques-et-technologiques-pluridisciplinaires",
+            "code": "172",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Recherches scientifiques et technologiques pluridisciplinaires",
+            "evaluative": false
+          },
+          {
+            "key": "recherche-spatiale",
+            "code": "193",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Recherche spatiale",
+            "evaluative": false
+          },
+          {
+            "key": "recherche-dans-les-domaines-de-l-energie-du-developpement-et-de-la-mobilite-dura",
+            "code": "190",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Recherche dans les domaines de l’énergie, du développement et de la mobilité durables",
+            "evaluative": false
+          },
+          {
+            "key": "recherche-et-enseignement-superieur-en-matiere-economique-et-industrielle",
+            "code": "192",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Recherche et enseignement supérieur en matière économique et industrielle",
+            "evaluative": false
+          },
+          {
+            "key": "enseignement-superieur-et-recherche-agricoles",
+            "code": "142",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Enseignement supérieur et recherche agricoles",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "RB",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "regimes-sociaux-et-de-retraite",
+        "name": "Régimes sociaux et de retraite",
+        "programmes": [
+          {
+            "key": "regimes-sociaux-et-de-retraite-des-transports-terrestres",
+            "code": "198",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Régimes sociaux et de retraite des transports terrestres",
+            "evaluative": false
+          },
+          {
+            "key": "regimes-de-retraite-et-de-securite-sociale-des-marins",
+            "code": "197",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Régimes de retraite et de sécurité sociale des marins",
+            "evaluative": false
+          },
+          {
+            "key": "regimes-de-retraite-des-mines-de-la-seita-et-divers",
+            "code": "195",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Régimes de retraite des mines, de la SEITA, et divers",
+            "evaluative": false
+          },
+          {
+            "key": "compensation-des-exonerations-relatives-au-taux-de-contribution-employeur-du-cas",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Compensation des exonérations relatives au taux de contribution employeur du CAS « Pensions »",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "RC",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination"
+        ],
+        "key": "relations-avec-les-collectivites-territoriales",
+        "name": "Relations avec les collectivités territoriales",
+        "programmes": [
+          {
+            "key": "concours-financiers-aux-collectivites-territoriales-et-a-leurs-groupements",
+            "code": "119",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Concours financiers aux collectivités territoriales et à leurs groupements",
+            "evaluative": false
+          },
+          {
+            "key": "concours-specifiques-et-administration",
+            "code": "122",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Concours spécifiques et administration",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "RD",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination"
+        ],
+        "key": "remboursements-et-degrevements",
+        "name": "Remboursements et dégrèvements",
+        "programmes": [
+          {
+            "key": "remboursements-et-degrevements-d-impots-d-etat",
+            "code": "200",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination"
+            ],
+            "name": "Remboursements et dégrèvements d’impôts d’État",
+            "evaluative": true
+          },
+          {
+            "key": "remboursements-et-degrevements-d-impots-locaux",
+            "code": "201",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination"
+            ],
+            "name": "Remboursements et dégrèvements d’impôts locaux",
+            "evaluative": true
+          }
+        ]
+      },
+      {
+        "code": "SA",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "sante",
+        "name": "Santé",
+        "programmes": [
+          {
+            "key": "prevention-securite-sanitaire-et-offre-de-soins",
+            "code": "204",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Prévention, sécurité sanitaire et offre de soins",
+            "evaluative": false
+          },
+          {
+            "key": "protection-maladie",
+            "code": "183",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Protection maladie",
+            "evaluative": false
+          },
+          {
+            "key": "reversement-a-la-securite-sociale-des-recettes-de-la-facilite-pour-la-relance-et",
+            "code": "379",
+            "codeStatus": "source-unique",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination"
+            ],
+            "name": "Reversement à la sécurité sociale des recettes de la Facilité pour la Relance et la Résilience (FRR) européenne au titre du volet « Ségur investissement » du plan national de relance et de résilience (PNRR)",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "SB",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "securites",
+        "name": "Sécurités",
+        "programmes": [
+          {
+            "key": "police-nationale",
+            "code": "176",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Police nationale",
+            "evaluative": false
+          },
+          {
+            "key": "gendarmerie-nationale",
+            "code": "152",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Gendarmerie nationale",
+            "evaluative": false
+          },
+          {
+            "key": "securite-et-education-routieres",
+            "code": "207",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Sécurité et éducation routières",
+            "evaluative": false
+          },
+          {
+            "key": "securite-civile",
+            "code": "161",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Sécurité civile",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "SE",
+        "codeStatus": "source-unique",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination"
+        ],
+        "key": "solidarite-insertion-et-egalite-des-chances",
+        "name": "Solidarité, insertion et égalité des chances",
+        "programmes": [
+          {
+            "key": "inclusion-sociale-et-protection-des-personnes",
+            "code": "304",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Inclusion sociale et protection des personnes",
+            "evaluative": false
+          },
+          {
+            "key": "handicap-et-dependance",
+            "code": "157",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Handicap et dépendance",
+            "evaluative": false
+          },
+          {
+            "key": "egalite-entre-les-femmes-et-les-hommes",
+            "code": "137",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Égalité entre les femmes et les hommes",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "SF",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "sport-jeunesse-et-vie-associative",
+        "name": "Sport, jeunesse et vie associative",
+        "programmes": [
+          {
+            "key": "sport",
+            "code": "219",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Sport",
+            "evaluative": false
+          },
+          {
+            "key": "jeunesse-et-vie-associative",
+            "code": "163",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Jeunesse et vie associative",
+            "evaluative": false
+          },
+          {
+            "key": "jeux-olympiques-et-paralympiques-d-hiver-2030",
+            "code": "385",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Jeux olympiques et paralympiques d’hiver 2030",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "TR",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "transformation-et-fonction-publiques",
+        "name": "Transformation et fonction publiques",
+        "programmes": [
+          {
+            "key": "performance-et-resilience-des-batiments-de-l-etat-et-de-ses-operateurs",
+            "code": "348",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert"
+            ],
+            "name": "Performance et résilience des bâtiments de l’État et de ses opérateurs",
+            "evaluative": false
+          },
+          {
+            "key": "acces-qualite-et-transformation-des-services-publics",
+            "codeStatus": "sans-numero",
+            "codeSourceIds": [],
+            "name": "Accès, qualité et transformation des services publics",
+            "evaluative": false
+          },
+          {
+            "key": "fonction-publique",
+            "code": "148",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Fonction publique",
+            "evaluative": false
+          }
+        ]
+      },
+      {
+        "code": "TB",
+        "codeStatus": "confirme",
+        "codeSourceIds": [
+          "src-bercy-plf25-destination",
+          "src-bercy-plf27-operateurs"
+        ],
+        "key": "travail-emploi-et-administration-des-ministeres-sociaux",
+        "name": "Travail, emploi et administration des ministères sociaux",
+        "programmes": [
+          {
+            "key": "acces-et-retour-a-l-emploi",
+            "code": "102",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Accès et retour à l’emploi",
+            "evaluative": false
+          },
+          {
+            "key": "accompagnement-des-mutations-economiques-et-developpement-de-l-emploi",
+            "code": "103",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Accompagnement des mutations économiques et développement de l’emploi",
+            "evaluative": false
+          },
+          {
+            "key": "amelioration-de-la-qualite-de-l-emploi-et-des-relations-du-travail",
+            "code": "111",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Amélioration de la qualité de l’emploi et des relations du travail",
+            "evaluative": false
+          },
+          {
+            "key": "soutien-des-ministeres-sociaux",
+            "code": "155",
+            "codeStatus": "confirme",
+            "codeSourceIds": [
+              "src-bercy-plf25-destination",
+              "src-bercy-plf26-budget-vert",
+              "src-bercy-plf27-operateurs"
+            ],
+            "name": "Soutien des ministères sociaux",
+            "evaluative": false
+          }
+        ]
+      }
+    ],
+    "sourceIds": [
+      "src-plf-2027-depot-an",
+      "src-bercy-plf25-destination",
+      "src-bercy-plf26-budget-vert",
+      "src-bercy-plf27-operateurs"
+    ]
+  },
+  "credits": [
+    {
+      "id": "ext-plf27-depot-etat-b-ae",
+      "stage": "depot",
+      "lawKey": "plf",
+      "date": "2026-10-01",
+      "level": "programme",
+      "nature": "AE",
+      "lines": [
+        {
+          "mission": "AA",
+          "programme": "105",
+          "label": "Action de la France en Europe et dans le monde",
+          "amount": {
+            "value": 2681809076,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1393024599,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AA",
+          "programme": "185",
+          "label": "Diplomatie culturelle et d’influence",
+          "amount": {
+            "value": 606126220,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AA",
+          "programme": "151",
+          "label": "Français à l’étranger et affaires consulaires",
+          "amount": {
+            "value": 166473620,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AB",
+          "programme": "354",
+          "label": "Administration territoriale de l’État",
+          "amount": {
+            "value": 2867343824,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 2151382178,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AB",
+          "programme": "232",
+          "label": "Vie politique",
+          "amount": {
+            "value": 587023619,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 46695568,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AB",
+          "programme": "216",
+          "label": "Conduite et pilotage des politiques de l’intérieur",
+          "amount": {
+            "value": 1768767371,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 909619807,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AC",
+          "programme": "149",
+          "label": "Compétitivité et durabilité de l’agriculture et de l’agroalimentaire",
+          "amount": {
+            "value": 2057056982,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AC",
+          "programme": "206",
+          "label": "Sécurité et qualité sanitaires de l’alimentation",
+          "amount": {
+            "value": 822700202,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 376024122,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AC",
+          "programme": "215",
+          "label": "Conduite et pilotage des politiques de l’agriculture",
+          "amount": {
+            "value": 637989867,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 563897853,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "110",
+          "label": "Aide économique et financière au développement",
+          "amount": {
+            "value": 678408758,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "365",
+          "label": "Renforcement des fonds propres de l’Agence française de développement",
+          "amount": {
+            "value": 115000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "209",
+          "label": "Solidarité à l’égard des pays en développement",
+          "amount": {
+            "value": 769194672,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "370",
+          "label": "Restitution des « biens mal acquis »",
+          "amount": {
+            "value": 22000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "384",
+          "label": "Fonds de solidarité pour le développement",
+          "amount": {
+            "value": 887151885,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "177",
+          "label": "Hébergement, parcours vers le logement et insertion des personnes vulnérables",
+          "amount": {
+            "value": 3255255007,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "109",
+          "label": "Aide à l’accès au logement",
+          "amount": {
+            "value": 16520517313,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "135",
+          "label": "Urbanisme, territoires et amélioration de l’habitat",
+          "amount": {
+            "value": 5835051779,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "112",
+          "label": "Impulsion et coordination de la politique d’aménagement du territoire",
+          "amount": {
+            "value": 343971782,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 12107239,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "147",
+          "label": "Politique de la ville",
+          "amount": {
+            "value": 619066960,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 19143320,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CA",
+          "programme": "165",
+          "label": "Conseil d’État et autres juridictions administratives",
+          "amount": {
+            "value": 567031730,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 470644957,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CA",
+          "programme": "126",
+          "label": "Conseil économique, social et environnemental",
+          "amount": {
+            "value": 33956438,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 27647255,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CA",
+          "programme": "164",
+          "label": "Cour des comptes et autres juridictions financières",
+          "amount": {
+            "value": 267149258,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 239526286,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PC",
+          "programme": "551",
+          "label": "Provision relative aux rémunérations publiques",
+          "amount": {
+            "value": 60000000,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 60000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PC",
+          "programme": "552",
+          "label": "Dépenses accidentelles et imprévisibles",
+          "amount": {
+            "value": 425000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "programme": "175",
+          "label": "Patrimoines",
+          "amount": {
+            "value": 1089308081,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "programme": "131",
+          "label": "Création",
+          "amount": {
+            "value": 1019231644,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "programme": "361",
+          "label": "Transmission des savoirs et démocratisation de la culture",
+          "amount": {
+            "value": 721933265,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "programme": "224",
+          "label": "Soutien aux politiques du ministère de la culture",
+          "amount": {
+            "value": 859069696,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 755501772,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "programme": "144",
+          "label": "Environnement et prospective de la politique de défense",
+          "amount": {
+            "value": 2812721242,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "programme": "178",
+          "label": "Préparation et emploi des forces",
+          "amount": {
+            "value": 18792071475,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "programme": "212",
+          "label": "Soutien de la politique de la défense",
+          "amount": {
+            "value": 27214237167,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 24194766472,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "programme": "146",
+          "label": "Équipement des forces",
+          "amount": {
+            "value": 39602221697,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DC",
+          "programme": "129",
+          "label": "Coordination du travail gouvernemental",
+          "amount": {
+            "value": 814256761,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 309288438,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DC",
+          "programme": "308",
+          "label": "Protection des droits et libertés",
+          "amount": {
+            "value": 138446803,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 70662168,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "203",
+          "label": "Infrastructures et services de transports",
+          "amount": {
+            "value": 4525120211,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "205",
+          "label": "Mer, pêche et aquaculture",
+          "amount": {
+            "value": 331699766,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "113",
+          "label": "Paysages, eau et biodiversité",
+          "amount": {
+            "value": 369839583,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "159",
+          "label": "Expertise, information géographique et météorologie",
+          "amount": {
+            "value": 641851542,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "181",
+          "label": "Prévention des risques",
+          "amount": {
+            "value": 2225328812,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "174",
+          "label": "Énergie, climat et après-mines",
+          "amount": {
+            "value": 1251260465,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "345",
+          "label": "Service public de l’énergie",
+          "amount": {
+            "value": 10749607515,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "217",
+          "label": "Conduite et pilotage des politiques de l’écologie, du développement et de la mobilité durables",
+          "amount": {
+            "value": 3142628296,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 2908197728,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "380",
+          "label": "Fonds d’accélération de la transition écologique dans les territoires",
+          "amount": {
+            "value": 984600000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "235",
+          "label": "Sûreté nucléaire et radioprotection",
+          "amount": {
+            "value": 337015633,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 231088826,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "ecologie-mise-en-extinction-du-plan-de-relance",
+          "label": "Ecologie – mise en extinction du plan de relance",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "386",
+          "label": "Forêt",
+          "amount": {
+            "value": 417043794,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "134",
+          "label": "Développement des entreprises et régulations",
+          "amount": {
+            "value": 2321923611,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 434012540,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "343",
+          "label": "Plan France Très haut débit",
+          "amount": {
+            "value": 3135000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "220",
+          "label": "Statistiques et études économiques",
+          "amount": {
+            "value": 494213338,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 411576630,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "305",
+          "label": "Stratégies économiques",
+          "amount": {
+            "value": 654208580,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 152572129,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "financement-des-operations-patrimoniales-en-2027-sur-le-compte-d-affectation-spe",
+          "label": "Financement des opérations patrimoniales en 2027 sur le compte d’affectation spéciale « Participations financières de l’État »",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "117",
+          "label": "Charge de la dette et trésorerie de l’État (crédits évaluatifs)",
+          "amount": {
+            "value": 72373000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "355",
+          "label": "Charge de la dette de SNCF Réseau reprise par l’État (crédits évaluatifs)",
+          "amount": {
+            "value": 561000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "114",
+          "label": "Appels en garantie de l’État (crédits évaluatifs)",
+          "amount": {
+            "value": 1120547282,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "145",
+          "label": "Épargne",
+          "amount": {
+            "value": 84112341,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "344",
+          "label": "Fonds de soutien relatif aux prêts et contrats financiers structurés à risque",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "soutien-financier-au-nouveau-nucleaire-francais",
+          "label": "Soutien financier au nouveau nucléaire français",
+          "amount": {
+            "value": 137820000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "336",
+          "label": "Dotation du Mécanisme européen de stabilité",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "augmentation-de-capital-de-la-banque-europeenne-d-investissement",
+          "label": "Augmentation de capital de la Banque européenne d’investissement",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "140",
+          "label": "Enseignement scolaire public du premier degré",
+          "amount": {
+            "value": 28524973930,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 28469740041,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "141",
+          "label": "Enseignement scolaire public du second degré",
+          "amount": {
+            "value": 40283734388,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 39942061326,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "230",
+          "label": "Vie de l’élève",
+          "amount": {
+            "value": 8245177340,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 5873622329,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "139",
+          "label": "Enseignement privé du premier et du second degrés",
+          "amount": {
+            "value": 8939683705,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 8060647420,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "214",
+          "label": "Conduite et soutien des politiques de l’enseignement, de la recherche, de la jeunesse, de la vie associative et des sports",
+          "amount": {
+            "value": 2984463261,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 2252762118,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "143",
+          "label": "Enseignement technique agricole",
+          "amount": {
+            "value": 1772643788,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1159084447,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "gestion-des-finances-publiques-et-lutte-contre-les-fraudes",
+          "programme": "gestion-fiscale-et-financiere-de-l-etat-et-du-secteur-public-local",
+          "label": "Gestion fiscale et financière de l’État et du secteur public local",
+          "amount": {
+            "value": 8207808301,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 6950589613,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "gestion-des-finances-publiques-et-lutte-contre-les-fraudes",
+          "programme": "conduite-et-pilotage-des-politiques-economiques-et-financieres",
+          "label": "Conduite et pilotage des politiques économiques et financières",
+          "amount": {
+            "value": 1021623875,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 588086825,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "gestion-des-finances-publiques-et-lutte-contre-les-fraudes",
+          "programme": "facilitation-et-securisation-des-echanges",
+          "label": "Facilitation et sécurisation des échanges",
+          "amount": {
+            "value": 1869168041,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1397891266,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "IA",
+          "programme": "303",
+          "label": "Immigration et asile",
+          "amount": {
+            "value": 1897971865,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "IA",
+          "programme": "104",
+          "label": "Intégration et accès à la nationalité française",
+          "amount": {
+            "value": 363974858,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "421",
+          "label": "Soutien des progrès de l’enseignement et de la recherche",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "422",
+          "label": "Valorisation de la recherche",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "423",
+          "label": "Accélération de la modernisation des entreprises",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "424",
+          "label": "Financement des investissements stratégiques",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "425",
+          "label": "Financement structurel des écosystèmes d’innovation",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "166",
+          "label": "Justice judiciaire",
+          "amount": {
+            "value": 4761866801,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 3311159651,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "107",
+          "label": "Administration pénitentiaire",
+          "amount": {
+            "value": 5030867512,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 3653929610,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "182",
+          "label": "Protection judiciaire de la jeunesse",
+          "amount": {
+            "value": 1195031764,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 728284568,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "101",
+          "label": "Accès au droit et à la justice",
+          "amount": {
+            "value": 832771821,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "310",
+          "label": "Conduite et pilotage de la politique de la justice",
+          "amount": {
+            "value": 886358448,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 286490788,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "335",
+          "label": "Conseil supérieur de la magistrature",
+          "amount": {
+            "value": 5441208,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 3860818,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "MA",
+          "programme": "180",
+          "label": "Presse et médias",
+          "amount": {
+            "value": 363312610,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "MA",
+          "programme": "334",
+          "label": "Livre et industries culturelles",
+          "amount": {
+            "value": 338621270,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "MB",
+          "programme": "169",
+          "label": "Reconnaissance et réparation en faveur du monde combattant, mémoire et liens avec la Nation",
+          "amount": {
+            "value": 1528492345,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "MB",
+          "programme": "158",
+          "label": "Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale",
+          "amount": {
+            "value": 74044710,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1594473,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "OA",
+          "programme": "138",
+          "label": "Emploi outre-mer",
+          "amount": {
+            "value": 2284077387,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 210157849,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "OA",
+          "programme": "123",
+          "label": "Conditions de vie outre-mer",
+          "amount": {
+            "value": 1007697822,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "OA",
+          "programme": "interventions-territoriales-de-l-etat",
+          "label": "Interventions territoriales de l’État",
+          "amount": {
+            "value": 330671803,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "501",
+          "label": "Présidence de la République",
+          "amount": {
+            "value": 122563852,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "511",
+          "label": "Assemblée nationale",
+          "amount": {
+            "value": 619800520,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "521",
+          "label": "Sénat",
+          "amount": {
+            "value": 360540300,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "541",
+          "label": "La Chaîne parlementaire",
+          "amount": {
+            "value": 35596900,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "indemnites-des-representants-francais-au-parlement-europeen",
+          "label": "Indemnités des représentants français au Parlement européen",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "531",
+          "label": "Conseil constitutionnel",
+          "amount": {
+            "value": 20000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "haute-cour",
+          "label": "Haute Cour",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "533",
+          "label": "Cour de justice de la République",
+          "amount": {
+            "value": 5480000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "150",
+          "label": "Formations supérieures et recherche universitaire",
+          "amount": {
+            "value": 15643093575,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 456113658,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "231",
+          "label": "Vie étudiante",
+          "amount": {
+            "value": 3361217042,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "172",
+          "label": "Recherches scientifiques et technologiques pluridisciplinaires",
+          "amount": {
+            "value": 8556290955,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "193",
+          "label": "Recherche spatiale",
+          "amount": {
+            "value": 1963820579,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "190",
+          "label": "Recherche dans les domaines de l’énergie, du développement et de la mobilité durables",
+          "amount": {
+            "value": 1490796157,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "192",
+          "label": "Recherche et enseignement supérieur en matière économique et industrielle",
+          "amount": {
+            "value": 580921736,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "142",
+          "label": "Enseignement supérieur et recherche agricoles",
+          "amount": {
+            "value": 443441538,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 268438120,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "programme": "198",
+          "label": "Régimes sociaux et de retraite des transports terrestres",
+          "amount": {
+            "value": 3856323110,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "programme": "197",
+          "label": "Régimes de retraite et de sécurité sociale des marins",
+          "amount": {
+            "value": 786911970,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "programme": "195",
+          "label": "Régimes de retraite des mines, de la SEITA, et divers",
+          "amount": {
+            "value": 998980968,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "programme": "compensation-des-exonerations-relatives-au-taux-de-contribution-employeur-du-cas",
+          "label": "Compensation des exonérations relatives au taux de contribution employeur du CAS « Pensions »",
+          "amount": {
+            "value": 630877815,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RC",
+          "programme": "119",
+          "label": "Concours financiers aux collectivités territoriales et à leurs groupements",
+          "amount": {
+            "value": 3722284595,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RC",
+          "programme": "122",
+          "label": "Concours spécifiques et administration",
+          "amount": {
+            "value": 399591261,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RD",
+          "programme": "200",
+          "label": "Remboursements et dégrèvements d’impôts d’État (crédits évaluatifs)",
+          "amount": {
+            "value": 140193417535,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RD",
+          "programme": "201",
+          "label": "Remboursements et dégrèvements d’impôts locaux (crédits évaluatifs)",
+          "amount": {
+            "value": 4312420666,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SA",
+          "programme": "204",
+          "label": "Prévention, sécurité sanitaire et offre de soins",
+          "amount": {
+            "value": 309333278,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1300000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SA",
+          "programme": "183",
+          "label": "Protection maladie",
+          "amount": {
+            "value": 1216300000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SA",
+          "programme": "379",
+          "label": "Reversement à la sécurité sociale des recettes de la Facilité pour la Relance et la Résilience (FRR) européenne au titre du volet « Ségur investissement » du plan national de relance et de résilience (PNRR)",
+          "amount": {
+            "value": 242000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "programme": "176",
+          "label": "Police nationale",
+          "amount": {
+            "value": 14485360764,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 12364003153,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "programme": "152",
+          "label": "Gendarmerie nationale",
+          "amount": {
+            "value": 12451940379,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 9322902249,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "programme": "207",
+          "label": "Sécurité et éducation routières",
+          "amount": {
+            "value": 78622634,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "programme": "161",
+          "label": "Sécurité civile",
+          "amount": {
+            "value": 2062286568,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 265877568,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SE",
+          "programme": "304",
+          "label": "Inclusion sociale et protection des personnes",
+          "amount": {
+            "value": 14782780574,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 2651704,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SE",
+          "programme": "157",
+          "label": "Handicap et dépendance",
+          "amount": {
+            "value": 17297262506,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SE",
+          "programme": "137",
+          "label": "Égalité entre les femmes et les hommes",
+          "amount": {
+            "value": 106279485,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SF",
+          "programme": "219",
+          "label": "Sport",
+          "amount": {
+            "value": 484448932,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 130111244,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SF",
+          "programme": "163",
+          "label": "Jeunesse et vie associative",
+          "amount": {
+            "value": 637938336,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SF",
+          "programme": "385",
+          "label": "Jeux olympiques et paralympiques d’hiver 2030",
+          "amount": {
+            "value": 61600000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TR",
+          "programme": "348",
+          "label": "Performance et résilience des bâtiments de l’État et de ses opérateurs",
+          "amount": {
+            "value": 57141756,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TR",
+          "programme": "acces-qualite-et-transformation-des-services-publics",
+          "label": "Accès, qualité et transformation des services publics",
+          "amount": {
+            "value": 44856031,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 22886031,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TR",
+          "programme": "148",
+          "label": "Fonction publique",
+          "amount": {
+            "value": 225146712,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 290000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "programme": "102",
+          "label": "Accès et retour à l’emploi",
+          "amount": {
+            "value": 6456723359,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "programme": "103",
+          "label": "Accompagnement des mutations économiques et développement de l’emploi",
+          "amount": {
+            "value": 10537359273,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "programme": "111",
+          "label": "Amélioration de la qualité de l’emploi et des relations du travail",
+          "amount": {
+            "value": 82663545,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "programme": "155",
+          "label": "Soutien des ministères sociaux",
+          "amount": {
+            "value": 2010427106,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1095717556,
+            "unit": "EUR"
+          }
+        }
+      ],
+      "origin": "texte-html",
+      "extraction": {
+        "id": "ext-plf27-depot-etat-b-ae",
+        "sourceId": "src-plf-2027-depot-an",
+        "table": "État B : répartition, par mission et programme, des crédits du budget général",
+        "columns": [
+          "Autorisationsd’engagement"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": 632868821128,
+            "unit": "EUR"
+          },
+          "linesSum": {
+            "value": 632868821128,
+            "unit": "EUR"
+          },
+          "tolerance": {
+            "value": 0,
+            "unit": "EUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Double lecture (style du tableau et arithmétique) concordante.",
+            "Chaque mission est égale à la somme de ses programmes, à l'euro près.",
+            "Total égal au montant de l'article 58 du projet de loi.",
+            "Programme à zéro « Financement des opérations patrimoniales en 2027 sur le compte d’affectation spéciale « Participations financières de l’État » » : rattaché par le style à la mission « Économie », la lecture arithmétique ne peut pas trancher.",
+            "Programme à zéro « Dotation du Mécanisme européen de stabilité » : rattaché par le style à la mission « Engagements financiers de l’État », la lecture arithmétique ne peut pas trancher.",
+            "Programme à zéro « Augmentation de capital de la Banque européenne d’investissement » : rattaché par le style à la mission « Engagements financiers de l’État », la lecture arithmétique ne peut pas trancher."
+          ]
+        },
+        "extractedAt": "2026-11-21T09:15:17.340Z"
+      }
+    },
+    {
+      "id": "ext-plf27-depot-etat-b-cp",
+      "stage": "depot",
+      "lawKey": "plf",
+      "date": "2026-10-01",
+      "level": "programme",
+      "nature": "CP",
+      "lines": [
+        {
+          "mission": "AA",
+          "programme": "105",
+          "label": "Action de la France en Europe et dans le monde",
+          "amount": {
+            "value": 2691569457,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1393024599,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AA",
+          "programme": "185",
+          "label": "Diplomatie culturelle et d’influence",
+          "amount": {
+            "value": 606126220,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AA",
+          "programme": "151",
+          "label": "Français à l’étranger et affaires consulaires",
+          "amount": {
+            "value": 166684620,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AB",
+          "programme": "354",
+          "label": "Administration territoriale de l’État",
+          "amount": {
+            "value": 2754602290,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 2151382178,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AB",
+          "programme": "232",
+          "label": "Vie politique",
+          "amount": {
+            "value": 587980174,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 46695568,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AB",
+          "programme": "216",
+          "label": "Conduite et pilotage des politiques de l’intérieur",
+          "amount": {
+            "value": 2174119829,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 909619807,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AC",
+          "programme": "149",
+          "label": "Compétitivité et durabilité de l’agriculture et de l’agroalimentaire",
+          "amount": {
+            "value": 2111239345,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AC",
+          "programme": "206",
+          "label": "Sécurité et qualité sanitaires de l’alimentation",
+          "amount": {
+            "value": 819608657,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 376024122,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AC",
+          "programme": "215",
+          "label": "Conduite et pilotage des politiques de l’agriculture",
+          "amount": {
+            "value": 653940810,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 563897853,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "110",
+          "label": "Aide économique et financière au développement",
+          "amount": {
+            "value": 1090913775,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "365",
+          "label": "Renforcement des fonds propres de l’Agence française de développement",
+          "amount": {
+            "value": 115000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "209",
+          "label": "Solidarité à l’égard des pays en développement",
+          "amount": {
+            "value": 1226866646,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "370",
+          "label": "Restitution des « biens mal acquis »",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "programme": "384",
+          "label": "Fonds de solidarité pour le développement",
+          "amount": {
+            "value": 738000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "177",
+          "label": "Hébergement, parcours vers le logement et insertion des personnes vulnérables",
+          "amount": {
+            "value": 3261443368,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "109",
+          "label": "Aide à l’accès au logement",
+          "amount": {
+            "value": 16520517313,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "135",
+          "label": "Urbanisme, territoires et amélioration de l’habitat",
+          "amount": {
+            "value": 1793940209,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "112",
+          "label": "Impulsion et coordination de la politique d’aménagement du territoire",
+          "amount": {
+            "value": 319784139,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 12107239,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "programme": "147",
+          "label": "Politique de la ville",
+          "amount": {
+            "value": 619066960,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 19143320,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CA",
+          "programme": "165",
+          "label": "Conseil d’État et autres juridictions administratives",
+          "amount": {
+            "value": 560765599,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 470644957,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CA",
+          "programme": "126",
+          "label": "Conseil économique, social et environnemental",
+          "amount": {
+            "value": 34002566,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 27647255,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CA",
+          "programme": "164",
+          "label": "Cour des comptes et autres juridictions financières",
+          "amount": {
+            "value": 263804959,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 239526286,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PC",
+          "programme": "551",
+          "label": "Provision relative aux rémunérations publiques",
+          "amount": {
+            "value": 60000000,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 60000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PC",
+          "programme": "552",
+          "label": "Dépenses accidentelles et imprévisibles",
+          "amount": {
+            "value": 125000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "programme": "175",
+          "label": "Patrimoines",
+          "amount": {
+            "value": 1116268560,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "programme": "131",
+          "label": "Création",
+          "amount": {
+            "value": 962958529,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "programme": "361",
+          "label": "Transmission des savoirs et démocratisation de la culture",
+          "amount": {
+            "value": 712039934,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "programme": "224",
+          "label": "Soutien aux politiques du ministère de la culture",
+          "amount": {
+            "value": 857929871,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 755501772,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "programme": "144",
+          "label": "Environnement et prospective de la politique de défense",
+          "amount": {
+            "value": 2633211519,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "programme": "178",
+          "label": "Préparation et emploi des forces",
+          "amount": {
+            "value": 17407123018,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "programme": "212",
+          "label": "Soutien de la politique de la défense",
+          "amount": {
+            "value": 26158231408,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 24194766472,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "programme": "146",
+          "label": "Équipement des forces",
+          "amount": {
+            "value": 26954874852,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DC",
+          "programme": "129",
+          "label": "Coordination du travail gouvernemental",
+          "amount": {
+            "value": 826556672,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 309288438,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DC",
+          "programme": "308",
+          "label": "Protection des droits et libertés",
+          "amount": {
+            "value": 139887697,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 70662168,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "203",
+          "label": "Infrastructures et services de transports",
+          "amount": {
+            "value": 4835605550,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "205",
+          "label": "Mer, pêche et aquaculture",
+          "amount": {
+            "value": 324780568,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "113",
+          "label": "Paysages, eau et biodiversité",
+          "amount": {
+            "value": 388186306,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "159",
+          "label": "Expertise, information géographique et météorologie",
+          "amount": {
+            "value": 641851542,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "181",
+          "label": "Prévention des risques",
+          "amount": {
+            "value": 1575599011,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "174",
+          "label": "Énergie, climat et après-mines",
+          "amount": {
+            "value": 1227419465,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "345",
+          "label": "Service public de l’énergie",
+          "amount": {
+            "value": 9491607515,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "217",
+          "label": "Conduite et pilotage des politiques de l’écologie, du développement et de la mobilité durables",
+          "amount": {
+            "value": 3198232258,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 2908197728,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "380",
+          "label": "Fonds d’accélération de la transition écologique dans les territoires",
+          "amount": {
+            "value": 981383852,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "235",
+          "label": "Sûreté nucléaire et radioprotection",
+          "amount": {
+            "value": 343625159,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 231088826,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "ecologie-mise-en-extinction-du-plan-de-relance",
+          "label": "Ecologie – mise en extinction du plan de relance",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "programme": "386",
+          "label": "Forêt",
+          "amount": {
+            "value": 405131982,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "134",
+          "label": "Développement des entreprises et régulations",
+          "amount": {
+            "value": 2157968666,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 434012540,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "343",
+          "label": "Plan France Très haut débit",
+          "amount": {
+            "value": 192013496,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "220",
+          "label": "Statistiques et études économiques",
+          "amount": {
+            "value": 491980558,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 411576630,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "305",
+          "label": "Stratégies économiques",
+          "amount": {
+            "value": 656208759,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 152572129,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "programme": "financement-des-operations-patrimoniales-en-2027-sur-le-compte-d-affectation-spe",
+          "label": "Financement des opérations patrimoniales en 2027 sur le compte d’affectation spéciale « Participations financières de l’État »",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "117",
+          "label": "Charge de la dette et trésorerie de l’État (crédits évaluatifs)",
+          "amount": {
+            "value": 72373000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "355",
+          "label": "Charge de la dette de SNCF Réseau reprise par l’État (crédits évaluatifs)",
+          "amount": {
+            "value": 561000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "114",
+          "label": "Appels en garantie de l’État (crédits évaluatifs)",
+          "amount": {
+            "value": 1120547282,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "145",
+          "label": "Épargne",
+          "amount": {
+            "value": 84112341,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "344",
+          "label": "Fonds de soutien relatif aux prêts et contrats financiers structurés à risque",
+          "amount": {
+            "value": 175490116,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "soutien-financier-au-nouveau-nucleaire-francais",
+          "label": "Soutien financier au nouveau nucléaire français",
+          "amount": {
+            "value": 137820000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "336",
+          "label": "Dotation du Mécanisme européen de stabilité",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "programme": "augmentation-de-capital-de-la-banque-europeenne-d-investissement",
+          "label": "Augmentation de capital de la Banque européenne d’investissement",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "140",
+          "label": "Enseignement scolaire public du premier degré",
+          "amount": {
+            "value": 28524973930,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 28469740041,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "141",
+          "label": "Enseignement scolaire public du second degré",
+          "amount": {
+            "value": 40283677823,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 39942061326,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "230",
+          "label": "Vie de l’élève",
+          "amount": {
+            "value": 8252517134,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 5873622329,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "139",
+          "label": "Enseignement privé du premier et du second degrés",
+          "amount": {
+            "value": 8939648669,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 8060647420,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "214",
+          "label": "Conduite et soutien des politiques de l’enseignement, de la recherche, de la jeunesse, de la vie associative et des sports",
+          "amount": {
+            "value": 3087222108,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 2252762118,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "programme": "143",
+          "label": "Enseignement technique agricole",
+          "amount": {
+            "value": 1771859532,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1159084447,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "gestion-des-finances-publiques-et-lutte-contre-les-fraudes",
+          "programme": "gestion-fiscale-et-financiere-de-l-etat-et-du-secteur-public-local",
+          "label": "Gestion fiscale et financière de l’État et du secteur public local",
+          "amount": {
+            "value": 8203334692,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 6950589613,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "gestion-des-finances-publiques-et-lutte-contre-les-fraudes",
+          "programme": "conduite-et-pilotage-des-politiques-economiques-et-financieres",
+          "label": "Conduite et pilotage des politiques économiques et financières",
+          "amount": {
+            "value": 1039794663,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 588086825,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "gestion-des-finances-publiques-et-lutte-contre-les-fraudes",
+          "programme": "facilitation-et-securisation-des-echanges",
+          "label": "Facilitation et sécurisation des échanges",
+          "amount": {
+            "value": 1841541081,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1397891266,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "IA",
+          "programme": "303",
+          "label": "Immigration et asile",
+          "amount": {
+            "value": 1723707422,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "IA",
+          "programme": "104",
+          "label": "Intégration et accès à la nationalité française",
+          "amount": {
+            "value": 363889193,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "421",
+          "label": "Soutien des progrès de l’enseignement et de la recherche",
+          "amount": {
+            "value": 81000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "422",
+          "label": "Valorisation de la recherche",
+          "amount": {
+            "value": 25200000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "423",
+          "label": "Accélération de la modernisation des entreprises",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "424",
+          "label": "Financement des investissements stratégiques",
+          "amount": {
+            "value": 3238670000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "programme": "425",
+          "label": "Financement structurel des écosystèmes d’innovation",
+          "amount": {
+            "value": 655000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "166",
+          "label": "Justice judiciaire",
+          "amount": {
+            "value": 4813406204,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 3311159651,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "107",
+          "label": "Administration pénitentiaire",
+          "amount": {
+            "value": 5790230570,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 3653929610,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "182",
+          "label": "Protection judiciaire de la jeunesse",
+          "amount": {
+            "value": 1173355630,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 728284568,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "101",
+          "label": "Accès au droit et à la justice",
+          "amount": {
+            "value": 832851612,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "310",
+          "label": "Conduite et pilotage de la politique de la justice",
+          "amount": {
+            "value": 815572013,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 286490788,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "programme": "335",
+          "label": "Conseil supérieur de la magistrature",
+          "amount": {
+            "value": 6382776,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 3860818,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "MA",
+          "programme": "180",
+          "label": "Presse et médias",
+          "amount": {
+            "value": 362329698,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "MA",
+          "programme": "334",
+          "label": "Livre et industries culturelles",
+          "amount": {
+            "value": 350196403,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "MB",
+          "programme": "169",
+          "label": "Reconnaissance et réparation en faveur du monde combattant, mémoire et liens avec la Nation",
+          "amount": {
+            "value": 1528492345,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "MB",
+          "programme": "158",
+          "label": "Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale",
+          "amount": {
+            "value": 74044710,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1594473,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "OA",
+          "programme": "138",
+          "label": "Emploi outre-mer",
+          "amount": {
+            "value": 2264741612,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 210157849,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "OA",
+          "programme": "123",
+          "label": "Conditions de vie outre-mer",
+          "amount": {
+            "value": 1191748579,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "OA",
+          "programme": "interventions-territoriales-de-l-etat",
+          "label": "Interventions territoriales de l’État",
+          "amount": {
+            "value": 283298781,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "501",
+          "label": "Présidence de la République",
+          "amount": {
+            "value": 122563852,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "511",
+          "label": "Assemblée nationale",
+          "amount": {
+            "value": 619800520,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "521",
+          "label": "Sénat",
+          "amount": {
+            "value": 360540300,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "541",
+          "label": "La Chaîne parlementaire",
+          "amount": {
+            "value": 35596900,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "indemnites-des-representants-francais-au-parlement-europeen",
+          "label": "Indemnités des représentants français au Parlement européen",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "531",
+          "label": "Conseil constitutionnel",
+          "amount": {
+            "value": 20000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "haute-cour",
+          "label": "Haute Cour",
+          "amount": {
+            "value": 0,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "programme": "533",
+          "label": "Cour de justice de la République",
+          "amount": {
+            "value": 880000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "150",
+          "label": "Formations supérieures et recherche universitaire",
+          "amount": {
+            "value": 15786054527,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 456113658,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "231",
+          "label": "Vie étudiante",
+          "amount": {
+            "value": 3330717209,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "172",
+          "label": "Recherches scientifiques et technologiques pluridisciplinaires",
+          "amount": {
+            "value": 8431090298,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "193",
+          "label": "Recherche spatiale",
+          "amount": {
+            "value": 1963820579,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "190",
+          "label": "Recherche dans les domaines de l’énergie, du développement et de la mobilité durables",
+          "amount": {
+            "value": 1535011256,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "192",
+          "label": "Recherche et enseignement supérieur en matière économique et industrielle",
+          "amount": {
+            "value": 580921736,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "programme": "142",
+          "label": "Enseignement supérieur et recherche agricoles",
+          "amount": {
+            "value": 426890820,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 268438120,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "programme": "198",
+          "label": "Régimes sociaux et de retraite des transports terrestres",
+          "amount": {
+            "value": 3856323110,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "programme": "197",
+          "label": "Régimes de retraite et de sécurité sociale des marins",
+          "amount": {
+            "value": 786911970,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "programme": "195",
+          "label": "Régimes de retraite des mines, de la SEITA, et divers",
+          "amount": {
+            "value": 998980968,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "programme": "compensation-des-exonerations-relatives-au-taux-de-contribution-employeur-du-cas",
+          "label": "Compensation des exonérations relatives au taux de contribution employeur du CAS « Pensions »",
+          "amount": {
+            "value": 630877815,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RC",
+          "programme": "119",
+          "label": "Concours financiers aux collectivités territoriales et à leurs groupements",
+          "amount": {
+            "value": 3602082392,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RC",
+          "programme": "122",
+          "label": "Concours spécifiques et administration",
+          "amount": {
+            "value": 389159647,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RD",
+          "programme": "200",
+          "label": "Remboursements et dégrèvements d’impôts d’État (crédits évaluatifs)",
+          "amount": {
+            "value": 140193417535,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "RD",
+          "programme": "201",
+          "label": "Remboursements et dégrèvements d’impôts locaux (crédits évaluatifs)",
+          "amount": {
+            "value": 4312420666,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SA",
+          "programme": "204",
+          "label": "Prévention, sécurité sanitaire et offre de soins",
+          "amount": {
+            "value": 310733258,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1300000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SA",
+          "programme": "183",
+          "label": "Protection maladie",
+          "amount": {
+            "value": 1216300000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SA",
+          "programme": "379",
+          "label": "Reversement à la sécurité sociale des recettes de la Facilité pour la Relance et la Résilience (FRR) européenne au titre du volet « Ségur investissement » du plan national de relance et de résilience (PNRR)",
+          "amount": {
+            "value": 242000000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "programme": "176",
+          "label": "Police nationale",
+          "amount": {
+            "value": 14145443750,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 12364003153,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "programme": "152",
+          "label": "Gendarmerie nationale",
+          "amount": {
+            "value": 11314541261,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 9322902249,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "programme": "207",
+          "label": "Sécurité et éducation routières",
+          "amount": {
+            "value": 77115152,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "programme": "161",
+          "label": "Sécurité civile",
+          "amount": {
+            "value": 1098278791,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 265877568,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SE",
+          "programme": "304",
+          "label": "Inclusion sociale et protection des personnes",
+          "amount": {
+            "value": 14783380574,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 2651704,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SE",
+          "programme": "157",
+          "label": "Handicap et dépendance",
+          "amount": {
+            "value": 17296002573,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SE",
+          "programme": "137",
+          "label": "Égalité entre les femmes et les hommes",
+          "amount": {
+            "value": 106279485,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SF",
+          "programme": "219",
+          "label": "Sport",
+          "amount": {
+            "value": 500807155,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 130111244,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SF",
+          "programme": "163",
+          "label": "Jeunesse et vie associative",
+          "amount": {
+            "value": 637938336,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "SF",
+          "programme": "385",
+          "label": "Jeux olympiques et paralympiques d’hiver 2030",
+          "amount": {
+            "value": 112300000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TR",
+          "programme": "348",
+          "label": "Performance et résilience des bâtiments de l’État et de ses opérateurs",
+          "amount": {
+            "value": 237026648,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TR",
+          "programme": "acces-qualite-et-transformation-des-services-publics",
+          "label": "Accès, qualité et transformation des services publics",
+          "amount": {
+            "value": 52519031,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 22886031,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TR",
+          "programme": "148",
+          "label": "Fonction publique",
+          "amount": {
+            "value": 226847712,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 290000,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "programme": "102",
+          "label": "Accès et retour à l’emploi",
+          "amount": {
+            "value": 6479147409,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "programme": "103",
+          "label": "Accompagnement des mutations économiques et développement de l’emploi",
+          "amount": {
+            "value": 10234834400,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "programme": "111",
+          "label": "Amélioration de la qualité de l’emploi et des relations du travail",
+          "amount": {
+            "value": 82140463,
+            "unit": "EUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "programme": "155",
+          "label": "Soutien des ministères sociaux",
+          "amount": {
+            "value": 2055866633,
+            "unit": "EUR"
+          },
+          "dontTitre2": {
+            "value": 1095717556,
+            "unit": "EUR"
+          }
+        }
+      ],
+      "origin": "texte-html",
+      "extraction": {
+        "id": "ext-plf27-depot-etat-b-cp",
+        "sourceId": "src-plf-2027-depot-an",
+        "table": "État B : répartition, par mission et programme, des crédits du budget général",
+        "columns": [
+          "Créditsde paiement"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": 615139875333,
+            "unit": "EUR"
+          },
+          "linesSum": {
+            "value": 615139875333,
+            "unit": "EUR"
+          },
+          "tolerance": {
+            "value": 0,
+            "unit": "EUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Double lecture (style du tableau et arithmétique) concordante.",
+            "Chaque mission est égale à la somme de ses programmes, à l'euro près.",
+            "Total égal au montant de l'article 58 du projet de loi.",
+            "Programme à zéro « Financement des opérations patrimoniales en 2027 sur le compte d’affectation spéciale « Participations financières de l’État » » : rattaché par le style à la mission « Économie », la lecture arithmétique ne peut pas trancher.",
+            "Programme à zéro « Dotation du Mécanisme européen de stabilité » : rattaché par le style à la mission « Engagements financiers de l’État », la lecture arithmétique ne peut pas trancher.",
+            "Programme à zéro « Augmentation de capital de la Banque européenne d’investissement » : rattaché par le style à la mission « Engagements financiers de l’État », la lecture arithmétique ne peut pas trancher."
+          ]
+        },
+        "extractedAt": "2026-11-21T09:15:17.340Z"
+      }
+    }
+  ],
+  "movements": [],
+  "execution": [],
+  "revenues": [],
+  "balance": [
+    {
+      "lawKey": "plf",
+      "stage": "depot",
+      "label": "Solde général",
+      "amount": {
+        "value": -156394,
+        "unit": "MEUR"
+      },
+      "origin": "texte-html",
+      "extraction": {
+        "id": "ext-plf27-depot-article-equilibre",
+        "sourceId": "src-plf-2027-depot-an",
+        "table": "Article 57 : ressources, charges et équilibre général",
+        "columns": [
+          "Ressources (1)",
+          "Charges (1)",
+          "Solde"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": -156394,
+            "unit": "MEUR"
+          },
+          "linesSum": {
+            "value": -156394,
+            "unit": "MEUR"
+          },
+          "tolerance": {
+            "value": 2,
+            "unit": "MEUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Recettes totales égales aux recettes fiscales et non fiscales ; montants nets égaux aux recettes totales moins les prélèvements sur recettes ; solde du budget général égal aux ressources nettes moins les charges nettes ; solde général égal à la somme des soldes du budget général, des budgets annexes et des comptes spéciaux.",
+            "Écart d'arrondi maximal constaté : 1 M€ (le tableau est arrondi au million d'euros)."
+          ]
+        },
+        "extractedAt": "2026-11-21T09:15:17.340Z"
+      }
+    }
+  ],
+  "equilibrium": [
+    {
+      "id": "ext-plf27-depot-article-equilibre",
+      "lawKey": "plf",
+      "stage": "depot",
+      "lines": [
+        {
+          "key": "recettes-fiscales",
+          "label": "Recettes fiscales** / dépenses***",
+          "resources": {
+            "value": 375688,
+            "unit": "MEUR"
+          },
+          "charges": {
+            "value": 474946,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "key": "recettes-non-fiscales",
+          "label": "Recettes non fiscales",
+          "resources": {
+            "value": 16678,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "key": "recettes-totales",
+          "label": "Recettes totales / dépenses totales",
+          "resources": {
+            "value": 392367,
+            "unit": "MEUR"
+          },
+          "charges": {
+            "value": 474946,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "key": "prelevements-sur-recettes",
+          "label": "À déduire : Prélèvements sur recettes au profit des collectivités territoriales et de l’Union européenne",
+          "resources": {
+            "value": 74002,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "key": "montants-nets",
+          "label": "Montants nets pour le budget général",
+          "resources": {
+            "value": 318365,
+            "unit": "MEUR"
+          },
+          "charges": {
+            "value": 474946,
+            "unit": "MEUR"
+          }
+        }
+      ],
+      "balanceNetBudgetGeneral": {
+        "value": -156582,
+        "unit": "MEUR"
+      },
+      "notes": [],
+      "origin": "texte-html",
+      "extraction": {
+        "id": "ext-plf27-depot-article-equilibre",
+        "sourceId": "src-plf-2027-depot-an",
+        "table": "Article 57 : ressources, charges et équilibre général",
+        "columns": [
+          "Ressources (1)",
+          "Charges (1)",
+          "Solde"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": -156394,
+            "unit": "MEUR"
+          },
+          "linesSum": {
+            "value": -156394,
+            "unit": "MEUR"
+          },
+          "tolerance": {
+            "value": 2,
+            "unit": "MEUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Recettes totales égales aux recettes fiscales et non fiscales ; montants nets égaux aux recettes totales moins les prélèvements sur recettes ; solde du budget général égal aux ressources nettes moins les charges nettes ; solde général égal à la somme des soldes du budget général, des budgets annexes et des comptes spéciaux.",
+            "Écart d'arrondi maximal constaté : 1 M€ (le tableau est arrondi au million d'euros)."
+          ]
+        },
+        "extractedAt": "2026-11-21T09:15:17.340Z"
+      }
+    }
+  ]
+}

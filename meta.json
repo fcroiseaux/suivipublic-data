@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T09:57:49.836Z",
+  "themes": [
+    {
+      "key": "eco",
+      "name": "Économie et pouvoir d'achat"
+    },
+    {
+      "key": "ent",
+      "name": "Entreprises, travail et emploi"
+    },
+    {
+      "key": "fis",
+      "name": "Fiscalité"
+    },
+    {
+      "key": "fin",
+      "name": "Finances publiques et dette"
+    },
+    {
+      "key": "ret",
+      "name": "Retraites et protection sociale"
+    },
+    {
+      "key": "edu",
+      "name": "Éducation et enseignement supérieur"
+    },
+    {
+      "key": "san",
+      "name": "Santé"
+    },
+    {
+      "key": "def",
+      "name": "Défense"
+    },
+    {
+      "key": "eur",
+      "name": "Europe"
+    },
+    {
+      "key": "etr",
+      "name": "Politique étrangère"
+    },
+    {
+      "key": "imm",
+      "name": "Immigration"
+    },
+    {
+      "key": "sec",
+      "name": "Sécurité et justice"
+    },
+    {
+      "key": "ecol",
+      "name": "Écologie et énergie"
+    },
+    {
+      "key": "inst",
+      "name": "Institutions et démocratie"
+    },
+    {
+      "key": "num",
+      "name": "Numérique, IA et souveraineté technologique"
+    },
+    {
+      "key": "log",
+      "name": "Logement et territoires"
+    },
+    {
+      "key": "agr",
+      "name": "Agriculture et alimentation"
+    }
+  ],
+  "lolfTitles": [
+    {
+      "code": "T1",
+      "name": "Dotations des pouvoirs publics"
+    },
+    {
+      "code": "T2",
+      "name": "Dépenses de personnel"
+    },
+    {
+      "code": "T3",
+      "name": "Dépenses de fonctionnement"
+    },
+    {
+      "code": "T4",
+      "name": "Charges de la dette de l'État"
+    },
+    {
+      "code": "T5",
+      "name": "Dépenses d'investissement"
+    },
+    {
+      "code": "T6",
+      "name": "Dépenses d'intervention"
+    },
+    {
+      "code": "T7",
+      "name": "Dépenses d'opérations financières"
+    }
+  ],
+  "revenueLines": [
+    {
+      "key": "ir",
+      "name": "Impôt sur le revenu"
+    },
+    {
+      "key": "is",
+      "name": "Impôt sur les sociétés"
+    },
+    {
+      "key": "tva",
+      "name": "Taxe sur la valeur ajoutée"
+    },
+    {
+      "key": "ticpe",
+      "name": "Taxe intérieure de consommation sur les produits énergétiques"
+    },
+    {
+      "key": "autres-fiscales",
+      "name": "Autres recettes fiscales"
+    },
+    {
+      "key": "non-fiscales",
+      "name": "Recettes non fiscales"
+    },
+    {
+      "key": "prs-collectivites",
+      "name": "Prélèvements sur recettes au profit des collectivités territoriales"
+    },
+    {
+      "key": "prs-ue",
+      "name": "Prélèvement sur recettes au profit de l'Union européenne"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T09:44:01.677Z",
+  "year": 2026,
+  "laws": [
+    {
+      "key": "lfss",
+      "kind": "lfss",
+      "title": "Loi de financement de la sécurité sociale pour 2026",
+      "refs": {
+        "anDossier": "DLR5L17N52922",
+        "anDocument": "PRJLANR5L17BTA0199"
+      },
+      "sourceIds": [
+        "src-lfss-2026-adopte-an-ld-an"
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "id": "ext-lfss26-adopte-an-ld-objectifs-branches",
+      "stage": "adopte-an-ld",
+      "lawKey": "lfss",
+      "date": "2025-12-16",
+      "group": "branches",
+      "lines": [
+        {
+          "key": "maladie",
+          "label": "Maladie, maternité, invalidité et décès",
+          "amount": {
+            "value": 271.4,
+            "unit": "MDEUR"
+          },
+          "article": "108"
+        },
+        {
+          "key": "at-mp",
+          "label": "Accidents du travail et maladies professionnelles",
+          "amount": {
+            "value": 18,
+            "unit": "MDEUR"
+          },
+          "article": "111"
+        },
+        {
+          "key": "vieillesse",
+          "label": "Vieillesse",
+          "amount": {
+            "value": 310.4,
+            "unit": "MDEUR"
+          },
+          "article": "112"
+        },
+        {
+          "key": "famille",
+          "label": "Famille",
+          "amount": {
+            "value": 59.7,
+            "unit": "MDEUR"
+          },
+          "article": "113"
+        },
+        {
+          "key": "autonomie",
+          "label": "Autonomie",
+          "amount": {
+            "value": 43.6,
+            "unit": "MDEUR"
+          },
+          "article": "114"
+        }
+      ],
+      "origin": "texte-html",
+      "extraction": {
+        "id": "ext-lfss26-adopte-an-ld-objectifs-branches",
+        "sourceId": "src-lfss-2026-adopte-an-ld-an",
+        "table": "Objectifs de dépenses des branches",
+        "columns": [
+          "Objectif de dépenses"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": 703.1,
+            "unit": "MDEUR"
+          },
+          "linesSum": {
+            "value": 703.1,
+            "unit": "MDEUR"
+          },
+          "tolerance": {
+            "value": 0,
+            "unit": "MDEUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Un objectif lu par branche, dans la phrase de l'article qui le fixe ; les cinq branches sont présentes."
+          ]
+        },
+        "extractedAt": "2026-11-21T09:44:01.677Z"
+      }
+    },
+    {
+      "id": "ext-lfss26-adopte-an-ld-ondam",
+      "stage": "adopte-an-ld",
+      "lawKey": "lfss",
+      "date": "2025-12-16",
+      "group": "ondam",
+      "lines": [
+        {
+          "key": "depenses-de-soins-de-ville",
+          "label": "Dépenses de soins de ville",
+          "amount": {
+            "value": 117.5,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "depenses-relatives-aux-etablissements-de-sante",
+          "label": "Dépenses relatives aux établissements de santé",
+          "amount": {
+            "value": 112.8,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "depenses-relatives-aux-etablissements-et-services-pour-personnes-agees",
+          "label": "Dépenses relatives aux établissements et services pour personnes âgées",
+          "amount": {
+            "value": 18.3,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "depenses-relatives-aux-etablissements-et-services-pour-personnes-handicapees",
+          "label": "Dépenses relatives aux établissements et services pour personnes handicapées",
+          "amount": {
+            "value": 16,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "depenses-relatives-au-fonds-d-intervention-regional-et-soutien-national-a-l-inve",
+          "label": "Dépenses relatives au fonds d’intervention régional et soutien national à l’investissement",
+          "amount": {
+            "value": 6.4,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "autres-prises-en-charge",
+          "label": "Autres prises en charge",
+          "amount": {
+            "value": 3.3,
+            "unit": "MDEUR"
+          }
+        }
+      ],
+      "total": {
+        "value": 274.4,
+        "unit": "MDEUR"
+      },
+      "origin": "texte-html",
+      "extraction": {
+        "id": "ext-lfss26-adopte-an-ld-ondam",
+        "sourceId": "src-lfss-2026-adopte-an-ld-an",
+        "table": "Objectif national de dépenses d'assurance maladie et sous-objectifs",
+        "columns": [
+          "Objectif de dépenses"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": 274.4,
+            "unit": "MDEUR"
+          },
+          "linesSum": {
+            "value": 274.3,
+            "unit": "MDEUR"
+          },
+          "tolerance": {
+            "value": 0.3,
+            "unit": "MDEUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Total égal à la somme des sous-objectifs, à l'arrondi près (écart 0.1 Md€, montants publiés à une décimale)."
+          ]
+        },
+        "extractedAt": "2026-11-21T09:44:01.677Z"
+      }
+    }
+  ],
+  "execution": []
+}

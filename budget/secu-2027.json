@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T09:44:02.492Z",
+  "year": 2027,
+  "laws": [
+    {
+      "key": "plfss",
+      "kind": "plfss",
+      "title": "Projet de loi de financement de la sécurité sociale pour 2027",
+      "refs": {
+        "anDossier": "DLR5L17N54951",
+        "anDocument": "PRJLANR5L17B3211"
+      },
+      "sourceIds": [
+        "src-plfss-2027-depot-an"
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "id": "ext-plfss27-depot-objectifs-branches",
+      "stage": "depot",
+      "lawKey": "plfss",
+      "date": "2026-10-01",
+      "group": "branches",
+      "lines": [
+        {
+          "key": "maladie",
+          "label": "Maladie, maternité, invalidité et décès",
+          "amount": {
+            "value": 277.1,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "at-mp",
+          "label": "Accidents du travail et maladies professionnelles",
+          "amount": {
+            "value": 19.5,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "vieillesse",
+          "label": "Vieillesse",
+          "amount": {
+            "value": 316.2,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "famille",
+          "label": "Famille",
+          "amount": {
+            "value": 60.2,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "autonomie",
+          "label": "Autonomie",
+          "amount": {
+            "value": 44.4,
+            "unit": "MDEUR"
+          }
+        }
+      ],
+      "origin": "texte-html",
+      "extraction": {
+        "id": "ext-plfss27-depot-objectifs-branches",
+        "sourceId": "src-plfss-2027-depot-an",
+        "table": "Objectifs de dépenses des branches",
+        "columns": [
+          "Objectif de dépenses"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": 717.4,
+            "unit": "MDEUR"
+          },
+          "linesSum": {
+            "value": 717.4,
+            "unit": "MDEUR"
+          },
+          "tolerance": {
+            "value": 0,
+            "unit": "MDEUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Un objectif lu par branche, dans la phrase de l'article qui le fixe ; les cinq branches sont présentes."
+          ]
+        },
+        "extractedAt": "2026-11-21T09:44:02.492Z"
+      }
+    },
+    {
+      "id": "ext-plfss27-depot-ondam",
+      "stage": "depot",
+      "lawKey": "plfss",
+      "date": "2026-10-01",
+      "group": "ondam",
+      "lines": [
+        {
+          "key": "depenses-de-soins-de-ville",
+          "label": "Dépenses de soins de ville",
+          "amount": {
+            "value": 118.3,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "depenses-relatives-aux-etablissements-de-sante",
+          "label": "Dépenses relatives aux établissements de santé",
+          "amount": {
+            "value": 116,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "depenses-relatives-aux-etablissements-et-services-pour-personnes-agees",
+          "label": "Dépenses relatives aux établissements et services pour personnes âgées",
+          "amount": {
+            "value": 18.8,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "depenses-relatives-aux-etablissements-et-services-pour-personnes-handicapees",
+          "label": "Dépenses relatives aux établissements et services pour personnes handicapées",
+          "amount": {
+            "value": 16.3,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "depenses-relatives-au-fonds-d-intervention-regional-et-soutien-a-l-investissemen",
+          "label": "Dépenses relatives au Fonds d’intervention régional et soutien à l’investissement",
+          "amount": {
+            "value": 5.9,
+            "unit": "MDEUR"
+          }
+        },
+        {
+          "key": "autres-prises-en-charge",
+          "label": "Autres prises en charge",
+          "amount": {
+            "value": 3.4,
+            "unit": "MDEUR"
+          }
+        }
+      ],
+      "total": {
+        "value": 278.7,
+        "unit": "MDEUR"
+      },
+      "origin": "texte-html",
+      "extraction": {
+        "id": "ext-plfss27-depot-ondam",
+        "sourceId": "src-plfss-2027-depot-an",
+        "table": "Objectif national de dépenses d'assurance maladie et sous-objectifs",
+        "columns": [
+          "Objectif de dépenses"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": 278.7,
+            "unit": "MDEUR"
+          },
+          "linesSum": {
+            "value": 278.7,
+            "unit": "MDEUR"
+          },
+          "tolerance": {
+            "value": 0.3,
+            "unit": "MDEUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Total égal à la somme des sous-objectifs, à l'arrondi près (écart 0 Md€, montants publiés à une décimale)."
+          ]
+        },
+        "extractedAt": "2026-11-21T09:44:02.492Z"
+      }
+    }
+  ],
+  "execution": []
+}

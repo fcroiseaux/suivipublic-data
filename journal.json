@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T09:57:49.836Z",
+  "entries": [
+    {
+      "id": "jrn-2026-11-20-01",
+      "date": "2026-11-20",
+      "kind": "ajout-source",
+      "target": "budget/etat-2026.json",
+      "note": "Ajout de l'état B et de l'article d'équilibre de la loi de finances pour 2026, extraits du texte adopté en lecture définitive publié par l'Assemblée nationale, et de la numérotation des programmes recoupée avec trois jeux du ministère de l'Économie.",
+      "sourceIds": [
+        "src-lfi-2026-texte-adopte-an",
+        "src-bercy-plf25-destination",
+        "src-bercy-plf26-budget-vert",
+        "src-bercy-plf27-operateurs"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-21-01",
+      "date": "2026-11-21",
+      "kind": "ajout-source",
+      "target": "budget/etat-2027.json",
+      "note": "Ajout de l'état B et de l'article d'équilibre du projet de loi de finances pour 2027, extraits du texte du Gouvernement déposé à l'Assemblée nationale publié par l'Assemblée nationale, et de la numérotation des programmes recoupée avec trois jeux du ministère de l'Économie.",
+      "sourceIds": [
+        "src-plf-2027-depot-an",
+        "src-bercy-plf25-destination",
+        "src-bercy-plf26-budget-vert",
+        "src-bercy-plf27-operateurs"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-21-02",
+      "date": "2026-11-21",
+      "kind": "ajout-source",
+      "target": "budget/secu-2026.json",
+      "note": "Ajout des objectifs de dépenses par branche et de l'objectif national de dépenses d'assurance maladie de la loi de financement de la sécurité sociale pour 2026, extraits du texte adopté en lecture définitive par l'Assemblée nationale.",
+      "sourceIds": [
+        "src-lfss-2026-adopte-an-ld-an"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-21-03",
+      "date": "2026-11-21",
+      "kind": "ajout-source",
+      "target": "budget/secu-2027.json",
+      "note": "Ajout des objectifs de dépenses par branche et de l'objectif national de dépenses d'assurance maladie du projet de loi de financement de la sécurité sociale pour 2027, extraits du texte du Gouvernement déposé à l'Assemblée nationale.",
+      "sourceIds": [
+        "src-plfss-2027-depot-an"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-21-04",
+      "date": "2026-11-21",
+      "kind": "ajout-source",
+      "target": "budget/liminaire-2026.json",
+      "note": "Ajout des prévisions de solde et de dette publics de l'article liminaire de la loi de finances pour 2026, extraites du texte adopté en lecture définitive par l'Assemblée nationale.",
+      "sourceIds": [
+        "src-lfi-2026-texte-adopte-an"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-21-05",
+      "date": "2026-11-21",
+      "kind": "ajout-source",
+      "target": "budget/liminaire-2027.json",
+      "note": "Ajout des prévisions de solde et de dette publics de l'article liminaire du projet de loi de finances pour 2027, extraites du texte du Gouvernement déposé à l'Assemblée nationale.",
+      "sourceIds": [
+        "src-plf-2027-depot-an"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T09:44:04.933Z",
+  "sources": {
+    "src-lfi-2026-texte-adopte-an": {
+      "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
+      "publisher": "Assemblée nationale",
+      "kind": "assemblee",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17BTA0227.html",
+      "publishedOn": "2026-02-02",
+      "retrievedAt": "2026-11-21T09:44:04.933Z",
+      "licence": "Licence Ouverte 1.0",
+      "format": "html"
+    },
+    "src-bercy-plf25-destination": {
+      "title": "PLF 2025 - Dépenses 2025 selon destination",
+      "publisher": "Ministère de l'Économie et des Finances",
+      "kind": "budget",
+      "url": "https://data.economie.gouv.fr/explore/dataset/plf25-depenses-2025-selon-destination/",
+      "publishedOn": "2024-10-11",
+      "retrievedAt": "2026-11-21T09:44:04.933Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "json"
+    },
+    "src-bercy-plf26-budget-vert": {
+      "title": "PLF 2026 - Budget vert",
+      "publisher": "Ministère de l'Économie et des Finances",
+      "kind": "budget",
+      "url": "https://data.economie.gouv.fr/explore/dataset/plf-2026-budget-vert/",
+      "publishedOn": "2025-11-13",
+      "retrievedAt": "2026-11-21T09:44:04.933Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "json"
+    },
+    "src-bercy-plf27-operateurs": {
+      "title": "PLF 2027 - Liste d'opérateurs par programme et ministère",
+      "publisher": "Ministère de l'Économie et des Finances",
+      "kind": "budget",
+      "url": "https://data.economie.gouv.fr/explore/dataset/plf-2027-liste-d-operateurs-par-programme-et-ministere/",
+      "publishedOn": "2026-11-09",
+      "retrievedAt": "2026-11-21T09:44:04.933Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "json"
+    },
+    "src-plf-2027-depot-an": {
+      "title": "Projet de loi de finances pour 2027 : texte du Gouvernement déposé à l'Assemblée nationale (PRJLANR5L17B3210)",
+      "publisher": "Assemblée nationale",
+      "kind": "assemblee",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B3210.html",
+      "publishedOn": "2026-10-01",
+      "retrievedAt": "2026-11-21T09:15:17.340Z",
+      "licence": "Licence Ouverte 1.0",
+      "format": "html"
+    },
+    "src-lfss-2026-adopte-an-ld-an": {
+      "title": "Loi de financement de la sécurité sociale pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0199)",
+      "publisher": "Assemblée nationale",
+      "kind": "assemblee",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17BTA0199.html",
+      "publishedOn": "2025-12-16",
+      "retrievedAt": "2026-11-21T09:44:01.677Z",
+      "licence": "Licence Ouverte 1.0",
+      "format": "html"
+    },
+    "src-plfss-2027-depot-an": {
+      "title": "Projet de loi de financement de la sécurité sociale pour 2027 : texte du Gouvernement déposé à l'Assemblée nationale (PRJLANR5L17B3211)",
+      "publisher": "Assemblée nationale",
+      "kind": "assemblee",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B3211.html",
+      "publishedOn": "2026-10-01",
+      "retrievedAt": "2026-11-21T09:44:02.492Z",
+      "licence": "Licence Ouverte 1.0",
+      "format": "html"
+    }
+  }
+}
