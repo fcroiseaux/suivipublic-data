@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T16:56:31Z",
+  "actors": [
+    {
+      "id": "act-amiel-david",
+      "firstName": "David",
+      "lastName": "Amiel",
+      "sortName": "Amiel, David",
+      "roles": [
+        {
+          "kind": "membre-gouvernement",
+          "label": "Ministre de l'action et des comptes publics",
+          "from": "2026-02-26",
+          "sourceIds": [
+            "src-dila-protocole-2026-04-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-barrot-jean-noel",
+      "firstName": "Jean-Noël",
+      "lastName": "Barrot",
+      "sortName": "Barrot, Jean-Noël",
+      "roles": [
+        {
+          "kind": "membre-gouvernement",
+          "label": "Ministre de l’Europe et des affaires étrangères",
+          "from": "2026-02-26",
+          "sourceIds": [
+            "src-dila-protocole-2026-04-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-lecornu-sebastien",
+      "firstName": "Sébastien",
+      "lastName": "Lecornu",
+      "sortName": "Lecornu, Sébastien",
+      "roles": [
+        {
+          "kind": "premier-ministre",
+          "label": "Premier ministre",
+          "from": "2026-02-26",
+          "sourceIds": [
+            "src-dila-protocole-2026-04-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-lescure-roland",
+      "firstName": "Roland",
+      "lastName": "Lescure",
+      "sortName": "Lescure, Roland",
+      "roles": [
+        {
+          "kind": "membre-gouvernement",
+          "label": "Ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+          "from": "2026-02-26",
+          "sourceIds": [
+            "src-dila-protocole-2026-04-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-pegard-catherine",
+      "firstName": "Catherine",
+      "lastName": "Pégard",
+      "sortName": "Pégard, Catherine",
+      "roles": [
+        {
+          "kind": "membre-gouvernement",
+          "label": "Ministre de la culture",
+          "from": "2026-02-26",
+          "sourceIds": [
+            "src-dila-protocole-2026-04-16"
+          ]
+        }
+      ]
+    }
+  ],
+  "measures": [
+    {
+      "id": "mes-pjl-accord-france-fidji-defense",
+      "title": "Dépôt d'un projet de loi autorisant l'approbation de l'accord entre la France et les Fidji concernant la coopération en matière de défense et le statut des forces",
+      "themeKey": "def",
+      "announcementIds": [
+        "ann-2026-10-22-barrot-accord-fidji"
+      ]
+    },
+    {
+      "id": "mes-pjl-convention-france-interpol-siege-lyon",
+      "title": "Dépôt d'un projet de loi autorisant l'approbation de la convention de partenariat entre la France et INTERPOL relative au programme immobilier du siège d'INTERPOL à Lyon",
+      "themeKey": "sec",
+      "announcementIds": [
+        "ann-2026-10-22-barrot-convention-interpol"
+      ]
+    },
+    {
+      "id": "mes-plfg-2026",
+      "title": "Dépôt du projet de loi de finances de fin de gestion pour 2026",
+      "themeKey": "fin",
+      "announcementIds": [
+        "ann-2026-11-04-lescure-plfg-2026",
+        "ann-2026-11-04-amiel-plfg-2026"
+      ]
+    },
+    {
+      "id": "mes-pjl-integrite-publique",
+      "title": "Dépôt d'un projet de loi et d'un projet de loi organique portant diverses dispositions relatives à l'intégrité publique",
+      "themeKey": "inst",
+      "announcementIds": [
+        "ann-2026-11-10-lecornu-integrite-publique"
+      ]
+    },
+    {
+      "id": "mes-pjl-investissement-publicitaire-presse-en-ligne",
+      "title": "Dépôt d'un projet de loi visant à renforcer l'investissement publicitaire dans les services de presse en ligne d'information politique et générale",
+      "themeKey": "ent",
+      "announcementIds": [
+        "ann-2026-11-10-pegard-presse-en-ligne"
+      ]
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-2026-10-22-barrot-accord-fidji",
+      "actorId": "act-barrot-jean-noel",
+      "roleLabel": "Ministre de l’Europe et des affaires étrangères",
+      "date": "2026-10-22",
+      "place": "Paris, Conseil des ministres",
+      "channel": "conseil-des-ministres",
+      "quote": "Le ministre de l’Europe et des affaires étrangères a présenté un projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République des Fidji concernant la coopération en matière de défense et le statut des forces.",
+      "nature": "legislative",
+      "themeKey": "def",
+      "measureId": "mes-pjl-accord-france-fidji-defense",
+      "texts": [
+        {
+          "anDossier": "DLR5L17N55153",
+          "senatDossier": "pjl26-098"
+        }
+      ],
+      "sourceIds": [
+        "src-cm-2026-10-22"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "ann-2026-10-22-barrot-convention-interpol",
+      "actorId": "act-barrot-jean-noel",
+      "roleLabel": "Ministre de l’Europe et des affaires étrangères",
+      "date": "2026-10-22",
+      "place": "Paris, Conseil des ministres",
+      "channel": "conseil-des-ministres",
+      "quote": "Le ministre de l’Europe et des affaires étrangères a présenté un projet de loi autorisant l’approbation de la convention de partenariat entre le Gouvernement de la République française et l’Organisation internationale de police criminelle – INTERPOL (OIPC-INTERPOL) relative aux modalités de réalisation du Programme Immobilier Global du siège d’INTERPOL à Lyon et aux engagements et responsabilités du Gouvernement de la République française et d’INTERPOL, signée à Marrakech le 27 novembre 2025 et à Lyon le 15 décembre 2025.",
+      "nature": "legislative",
+      "themeKey": "sec",
+      "measureId": "mes-pjl-convention-france-interpol-siege-lyon",
+      "texts": [
+        {
+          "anDossier": "DLR5L17N55154",
+          "senatDossier": "pjl26-096"
+        }
+      ],
+      "sourceIds": [
+        "src-cm-2026-10-22"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "ann-2026-11-04-lescure-plfg-2026",
+      "actorId": "act-lescure-roland",
+      "roleLabel": "Ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "date": "2026-11-04",
+      "place": "Paris, Conseil des ministres",
+      "channel": "conseil-des-ministres",
+      "quote": "Le ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique et le ministre de l’action et des comptes publics ont présenté le projet de loi de finances de fin de gestion (PLFG) pour 2026.",
+      "nature": "budgetaire",
+      "themeKey": "fin",
+      "measureId": "mes-plfg-2026",
+      "texts": [
+        {
+          "anDossier": "DLR5L17N55223"
+        }
+      ],
+      "sourceIds": [
+        "src-cm-2026-11-04"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "ann-2026-11-04-amiel-plfg-2026",
+      "actorId": "act-amiel-david",
+      "roleLabel": "Ministre de l’action et des comptes publics",
+      "date": "2026-11-04",
+      "place": "Paris, Conseil des ministres",
+      "channel": "conseil-des-ministres",
+      "quote": "Le ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique et le ministre de l’action et des comptes publics ont présenté le projet de loi de finances de fin de gestion (PLFG) pour 2026.",
+      "nature": "budgetaire",
+      "themeKey": "fin",
+      "measureId": "mes-plfg-2026",
+      "texts": [
+        {
+          "anDossier": "DLR5L17N55223"
+        }
+      ],
+      "sourceIds": [
+        "src-cm-2026-11-04"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "ann-2026-11-10-lecornu-integrite-publique",
+      "actorId": "act-lecornu-sebastien",
+      "roleLabel": "Premier ministre",
+      "date": "2026-11-10",
+      "place": "Paris, Conseil des ministres",
+      "channel": "conseil-des-ministres",
+      "quote": "Le Premier ministre et le ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement, ont présenté un projet de loi portant diverses dispositions relatives à l’intégrité publique, ainsi qu’un projet de loi organique ayant le même objet.",
+      "nature": "legislative",
+      "themeKey": "inst",
+      "measureId": "mes-pjl-integrite-publique",
+      "texts": [
+        {
+          "anDossier": "DLR5L17N55254",
+          "senatDossier": "pjl26-163"
+        },
+        {
+          "anDossier": "DLR5L17N55253",
+          "senatDossier": "pjl26-164"
+        }
+      ],
+      "sourceIds": [
+        "src-cm-2026-11-10"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "ann-2026-11-10-pegard-presse-en-ligne",
+      "actorId": "act-pegard-catherine",
+      "roleLabel": "Ministre de la culture",
+      "date": "2026-11-10",
+      "place": "Paris, Conseil des ministres",
+      "channel": "conseil-des-ministres",
+      "quote": "La ministre de la culture a présenté un projet de loi visant à renforcer l’investissement publicitaire dans les services de presse en ligne d’information politique et générale.",
+      "nature": "legislative",
+      "themeKey": "ent",
+      "measureId": "mes-pjl-investissement-publicitaire-presse-en-ligne",
+      "sourceIds": [
+        "src-cm-2026-11-10"
+      ],
+      "origin": "redaction"
+    }
+  ],
+  "followUps": [
+    {
+      "id": "sui-2026-10-22-depot-pjl-accord-france-fidji",
+      "measureId": "mes-pjl-accord-france-fidji-defense",
+      "date": "2026-10-22",
+      "kind": "projet-loi-depose",
+      "description": "Dépôt du projet de loi au Sénat (texte n° 98, 2026-2027).",
+      "refs": {
+        "anDossier": "DLR5L17N55153",
+        "senatDossier": "pjl26-098",
+        "anDocument": "PRJLSNR5S499B0098"
+      },
+      "sourceIds": [
+        "src-senat-dossier-pjl26-098"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "sui-2026-10-22-depot-pjl-convention-interpol",
+      "measureId": "mes-pjl-convention-france-interpol-siege-lyon",
+      "date": "2026-10-22",
+      "kind": "projet-loi-depose",
+      "description": "Dépôt du projet de loi au Sénat (texte n° 96, 2026-2027).",
+      "refs": {
+        "anDossier": "DLR5L17N55154",
+        "senatDossier": "pjl26-096",
+        "anDocument": "PRJLSNR5S499B0096"
+      },
+      "sourceIds": [
+        "src-senat-dossier-pjl26-096"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "sui-2026-11-04-depot-plfg-2026",
+      "measureId": "mes-plfg-2026",
+      "date": "2026-11-04",
+      "kind": "projet-loi-depose",
+      "description": "Dépôt du projet de loi à l'Assemblée nationale (n° 3434).",
+      "refs": {
+        "anDossier": "DLR5L17N55223",
+        "anDocument": "PRJLANR5L17B3434"
+      },
+      "sourceIds": [
+        "src-an-dossier-plffg-2026"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "sui-2026-11-10-depot-pjl-integrite-publique",
+      "measureId": "mes-pjl-integrite-publique",
+      "date": "2026-11-10",
+      "kind": "projet-loi-depose",
+      "description": "Dépôt du projet de loi au Sénat (texte n° 163, 2026-2027).",
+      "refs": {
+        "anDossier": "DLR5L17N55254",
+        "senatDossier": "pjl26-163",
+        "anDocument": "PRJLSNR5S499B0163"
+      },
+      "sourceIds": [
+        "src-senat-dossier-pjl26-163"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "sui-2026-11-10-depot-pjlo-integrite-publique",
+      "measureId": "mes-pjl-integrite-publique",
+      "date": "2026-11-10",
+      "kind": "projet-loi-depose",
+      "description": "Dépôt du projet de loi organique au Sénat (texte n° 164, 2026-2027).",
+      "refs": {
+        "anDossier": "DLR5L17N55253",
+        "senatDossier": "pjl26-164",
+        "anDocument": "PRJLSNR5S499B0164"
+      },
+      "sourceIds": [
+        "src-senat-dossier-pjl26-164"
+      ],
+      "origin": "redaction"
+    }
+  ]
+}

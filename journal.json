@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T09:57:49.836Z",
+  "updatedAt": "2026-11-21T16:56:31Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -66,6 +66,38 @@
       "note": "Ajout des prévisions de solde et de dette publics de l'article liminaire du projet de loi de finances pour 2027, extraites du texte du Gouvernement déposé à l'Assemblée nationale.",
       "sourceIds": [
         "src-plf-2027-depot-an"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-21-06",
+      "date": "2026-11-21",
+      "kind": "extraction-rejetee",
+      "target": "budget/etat-2026.json",
+      "note": "Situation mensuelle de l'État à fin septembre 2026 (dernière publiée au catalogue de data.economie.gouv.fr) : le téléchargement du PDF a été refusé par le site economie.gouv.fr (HTTP 403, https://www.economie.gouv.fr/files/files/directions_services/dgfip/media-document/SME_2026-09.pdf). Aucune extraction de la colonne execution ; aucune copie n'a été cherchée ailleurs. Nouvel essai à la prochaine exécution.",
+      "sourceIds": []
+    },
+    {
+      "id": "jrn-2026-11-21-07",
+      "date": "2026-11-21",
+      "kind": "ajout-source",
+      "target": "annonces.json",
+      "note": "Fonctions des membres du Gouvernement : la date de début retenue (26 février 2026) est celle du Gouvernement publié dans le protocole de la DILA, première date vérifiée pour chaque fonction ; elle ne désigne pas la date de nomination. L'annonce du ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement, qui a présenté avec le Premier ministre le projet de loi relatif à l'intégrité publique, n'est pas enregistrée : le compte rendu ne donne pas son nom, et sa fonction n'a pas été vérifiée dans une source officielle lisible ce jour.",
+      "sourceIds": [
+        "src-dila-protocole-2026-04-16",
+        "src-cm-2026-11-10"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-21-08",
+      "date": "2026-11-21",
+      "kind": "ajout-source",
+      "target": "annonces.json",
+      "note": "Synthèse du 21 novembre 2026 (période de recherche : 22 octobre au 21 novembre 2026, faute d'annonces et de chiffrages publiés auparavant). Tableaux extraits : aucun. Chiffrages ajoutés : 1, étude d'impact du projet de loi autorisant l'approbation de la convention de partenariat entre la France et INTERPOL (texte n° 96 du Sénat). Annonces ajoutées, par acteur : David Amiel (1), Jean-Noël Barrot (2), Sébastien Lecornu (1), Roland Lescure (1), Catherine Pégard (1), toutes tirées des comptes rendus du Conseil des ministres. Suites ajoutées : 5 dépôts de projets de loi. Résumés ajoutés : aucun. Rattachements : aucun. Sources consultées : comptes rendus du Conseil des ministres des 22 et 28 octobre et des 4 et 10 novembre 2026, publications de la Présidence de la République du 10 au 20 novembre 2026, index des discours publics de la DILA, dossiers législatifs du Sénat et de l'Assemblée nationale. Sources inaccessibles : vie-publique.fr (contrôle d'accès automatisé), economie.gouv.fr (HTTP 403), info.gouv.fr (HTTP 403) ; les discours, conférences de presse et communiqués listés par l'index de la DILA sans autre publication lisible n'ont pas été lus, et aucune annonce n'en est tirée. Aucun entretien n'est repris, le panel de médias n'étant pas publié. Présidents des assemblées et présidents de groupe passés en revue : aucun ce jour ; la revue des 11 groupes de l'Assemblée nationale et des 9 groupes du Sénat reste à faire.",
+      "sourceIds": [
+        "src-cm-2026-10-22",
+        "src-cm-2026-11-04",
+        "src-cm-2026-11-10",
+        "src-senat-pjl26-096-ei"
       ]
     }
   ]

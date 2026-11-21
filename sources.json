@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T09:44:04.933Z",
+  "updatedAt": "2026-11-21T16:56:31Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -69,6 +69,101 @@
       "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B3211.html",
       "publishedOn": "2026-10-01",
       "retrievedAt": "2026-11-21T09:44:02.492Z",
+      "licence": "Licence Ouverte 1.0",
+      "format": "html"
+    },
+    "src-cm-2026-10-22": {
+      "title": "Compte rendu du Conseil des ministres du 22 octobre 2026",
+      "publisher": "Présidence de la République",
+      "kind": "presidence",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/10/22/compte-rendu-du-conseil-des-ministres-du-22-octobre-2026",
+      "publishedOn": "2026-10-22",
+      "retrievedAt": "2026-11-21T16:56:31Z",
+      "licence": "Conditions de réutilisation du site elysee.fr non vérifiées",
+      "format": "html"
+    },
+    "src-cm-2026-11-04": {
+      "title": "Compte rendu du Conseil des ministres du 4 novembre 2026",
+      "publisher": "Présidence de la République",
+      "kind": "presidence",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/11/04/compte-rendu-du-conseil-des-ministres-du-4-novembre-2026",
+      "publishedOn": "2026-11-04",
+      "retrievedAt": "2026-11-21T16:56:31Z",
+      "licence": "Conditions de réutilisation du site elysee.fr non vérifiées",
+      "format": "html"
+    },
+    "src-cm-2026-11-10": {
+      "title": "Compte rendu du Conseil des ministres du 10 novembre 2026",
+      "publisher": "Présidence de la République",
+      "kind": "presidence",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/11/10/compte-rendu-du-conseil-des-ministres-du-10-novembre-2026",
+      "publishedOn": "2026-11-10",
+      "retrievedAt": "2026-11-21T16:56:31Z",
+      "licence": "Conditions de réutilisation du site elysee.fr non vérifiées",
+      "format": "html"
+    },
+    "src-dila-protocole-2026-04-16": {
+      "title": "Protocole du Gouvernement (Gouvernement de Monsieur Sébastien LECORNU du 26/02/2026)",
+      "publisher": "Direction de l'information légale et administrative (DILA)",
+      "kind": "gouvernement",
+      "url": "https://echanges.dila.gouv.fr/OPENDATA/Protocole_du_Gouvernement/DILA-Gouvernement_protocole-20260416.xml",
+      "publishedOn": "2026-04-16",
+      "retrievedAt": "2026-11-21T16:56:31Z",
+      "licence": "Licence Ouverte",
+      "format": "xml"
+    },
+    "src-senat-pjl26-096-ei": {
+      "title": "Étude d'impact du projet de loi autorisant l'approbation de la convention de partenariat entre la France et INTERPOL (texte n° 96, 2026-2027)",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://www.senat.fr/leg/etudes-impact/pjl26-096-ei/pjl26-096-ei.html",
+      "publishedOn": "2026-10-22",
+      "retrievedAt": "2026-11-21T16:56:31Z",
+      "licence": "Licence du Sénat",
+      "format": "html"
+    },
+    "src-senat-dossier-pjl26-096": {
+      "title": "Dossier législatif : Accord France - INTERPOL",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl26-096.html",
+      "retrievedAt": "2026-11-21T16:56:31Z",
+      "licence": "Licence du Sénat",
+      "format": "html"
+    },
+    "src-senat-dossier-pjl26-098": {
+      "title": "Dossier législatif : Accord France - Fidji",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl26-098.html",
+      "retrievedAt": "2026-11-21T16:56:31Z",
+      "licence": "Licence du Sénat",
+      "format": "html"
+    },
+    "src-senat-dossier-pjl26-163": {
+      "title": "Dossier législatif : Diverses dispositions relatives à l'intégrité publique (PJL)",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl26-163.html",
+      "retrievedAt": "2026-11-21T16:56:31Z",
+      "licence": "Licence du Sénat",
+      "format": "html"
+    },
+    "src-senat-dossier-pjl26-164": {
+      "title": "Dossier législatif : Diverses dispositions relatives à l'intégrité publique (PJLO)",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl26-164.html",
+      "retrievedAt": "2026-11-21T16:56:31Z",
+      "licence": "Licence du Sénat",
+      "format": "html"
+    },
+    "src-an-dossier-plffg-2026": {
+      "title": "Dossier législatif : Projet de loi de finances de fin de gestion pour 2026",
+      "publisher": "Assemblée nationale",
+      "kind": "assemblee",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFFG_2026",
+      "retrievedAt": "2026-11-21T16:56:31Z",
       "licence": "Licence Ouverte 1.0",
       "format": "html"
     }

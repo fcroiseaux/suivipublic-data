@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T16:56:31Z",
+  "estimates": [
+    {
+      "id": "chf-dlr5l17n55154-ei-interpol",
+      "text": {
+        "anDossier": "DLR5L17N55154",
+        "senatDossier": "pjl26-096"
+      },
+      "textVersion": {
+        "label": "Projet de loi déposé au Sénat",
+        "refs": {
+          "anDocument": "PRJLSNR5S499B0096"
+        },
+        "date": "2026-10-22"
+      },
+      "authorKind": "gouvernement",
+      "documentKind": "etude-impact",
+      "author": "Gouvernement",
+      "date": "2026-10-22",
+      "effects": [
+        {
+          "effect": "depense",
+          "administration": "etat",
+          "amount": {
+            "value": 43.2,
+            "unit": "MEUR"
+          },
+          "horizon": {
+            "kind": "non-precise"
+          },
+          "postes": [
+            {
+              "mission": "SB",
+              "programme": "176"
+            }
+          ],
+          "quote": "La participation financière totale de la France s'élève à 61,2 millions d'euros TTC, imputée pour 43,2 millions d'euros sur le programme budgétaire 176 « Police nationale », pour 9 millions d'euros à la Métropole de Lyon et pour 9 millions d'euros au Conseil régional Auvergne-Rhône-Alpes."
+        },
+        {
+          "effect": "depense",
+          "administration": "collectivites",
+          "amount": {
+            "value": 9,
+            "unit": "MEUR"
+          },
+          "horizon": {
+            "kind": "non-precise"
+          },
+          "quote": "La participation financière totale de la France s'élève à 61,2 millions d'euros TTC, imputée pour 43,2 millions d'euros sur le programme budgétaire 176 « Police nationale », pour 9 millions d'euros à la Métropole de Lyon et pour 9 millions d'euros au Conseil régional Auvergne-Rhône-Alpes."
+        },
+        {
+          "effect": "depense",
+          "administration": "collectivites",
+          "amount": {
+            "value": 9,
+            "unit": "MEUR"
+          },
+          "horizon": {
+            "kind": "non-precise"
+          },
+          "quote": "La participation financière totale de la France s'élève à 61,2 millions d'euros TTC, imputée pour 43,2 millions d'euros sur le programme budgétaire 176 « Police nationale », pour 9 millions d'euros à la Métropole de Lyon et pour 9 millions d'euros au Conseil régional Auvergne-Rhône-Alpes."
+        }
+      ],
+      "sourceIds": [
+        "src-senat-pjl26-096-ei"
+      ],
+      "origin": "texte-html",
+      "extraction": {
+        "sourceId": "src-senat-pjl26-096-ei",
+        "table": "2. Conséquences financières",
+        "check": {
+          "status": "ok",
+          "method": "Citation exacte de la phrase qui contient les montants"
+        }
+      }
+    }
+  ],
+  "pledges": []
+}
