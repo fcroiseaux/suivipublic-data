@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T18:10:56Z",
+  "updatedAt": "2026-11-22T19:17:53Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -1433,6 +1433,1766 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051142009",
       "publishedOn": "2025-02-07",
       "retrievedAt": "2026-11-22T18:10:51Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051070387": {
+      "title": "Arrêté du 28 janvier 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051070387",
+      "publishedOn": "2025-01-31",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051070397": {
+      "title": "Arrêté du 28 janvier 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051070397",
+      "publishedOn": "2025-01-31",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051142170": {
+      "title": "Arrêté du 4 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051142170",
+      "publishedOn": "2025-02-07",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051142249": {
+      "title": "Arrêté du 5 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051142249",
+      "publishedOn": "2025-02-07",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051142264": {
+      "title": "Arrêté du 5 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051142264",
+      "publishedOn": "2025-02-07",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051142280": {
+      "title": "Arrêté du 5 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051142280",
+      "publishedOn": "2025-02-07",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051142295": {
+      "title": "Arrêté du 5 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051142295",
+      "publishedOn": "2025-02-07",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051142310": {
+      "title": "Arrêté du 5 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051142310",
+      "publishedOn": "2025-02-07",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051142325": {
+      "title": "Arrêté du 5 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051142325",
+      "publishedOn": "2025-02-07",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051156814": {
+      "title": "Arrêté du 6 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051156814",
+      "publishedOn": "2025-02-13",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051156845": {
+      "title": "Arrêté du 10 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051156845",
+      "publishedOn": "2025-02-13",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051156861": {
+      "title": "Arrêté du 10 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051156861",
+      "publishedOn": "2025-02-13",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051156876": {
+      "title": "Arrêté du 10 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051156876",
+      "publishedOn": "2025-02-13",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051156899": {
+      "title": "Arrêté du 11 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051156899",
+      "publishedOn": "2025-02-13",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051194835": {
+      "title": "Arrêté du 17 février 2025 modifiant l'arrêté du 5 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051194835",
+      "publishedOn": "2025-02-19",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051194845": {
+      "title": "Arrêté du 17 février 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051194845",
+      "publishedOn": "2025-02-19",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051194852": {
+      "title": "Arrêté du 17 février 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051194852",
+      "publishedOn": "2025-02-19",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051207012": {
+      "title": "Arrêté du 17 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051207012",
+      "publishedOn": "2025-02-20",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051234301": {
+      "title": "Arrêté du 19 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051234301",
+      "publishedOn": "2025-02-22",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051234313": {
+      "title": "Arrêté du 19 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051234313",
+      "publishedOn": "2025-02-22",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051234325": {
+      "title": "Arrêté du 19 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051234325",
+      "publishedOn": "2025-02-22",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051234337": {
+      "title": "Arrêté du 19 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051234337",
+      "publishedOn": "2025-02-22",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051234352": {
+      "title": "Arrêté du 20 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051234352",
+      "publishedOn": "2025-02-22",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051249686": {
+      "title": "Arrêté du 24 février 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051249686",
+      "publishedOn": "2025-02-26",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051249693": {
+      "title": "Arrêté du 24 février 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051249693",
+      "publishedOn": "2025-02-26",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051254104": {
+      "title": "Arrêté du 25 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051254104",
+      "publishedOn": "2025-02-27",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051261266": {
+      "title": "Arrêté du 26 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051261266",
+      "publishedOn": "2025-02-28",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051270914": {
+      "title": "Arrêté du 26 février 2025 modifiant l'arrêté du 5 février 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051270914",
+      "publishedOn": "2025-03-01",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051292754": {
+      "title": "Arrêté du 3 mars 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051292754",
+      "publishedOn": "2025-03-05",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051292761": {
+      "title": "Arrêté du 3 mars 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051292761",
+      "publishedOn": "2025-03-05",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051324452": {
+      "title": "Arrêté du 7 mars 2025 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051324452",
+      "publishedOn": "2025-03-14",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051324638": {
+      "title": "Arrêté du 10 mars 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051324638",
+      "publishedOn": "2025-03-14",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051324645": {
+      "title": "Arrêté du 10 mars 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051324645",
+      "publishedOn": "2025-03-14",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051430225": {
+      "title": "Arrêté du 1er avril 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051430225",
+      "publishedOn": "2025-04-06",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051430232": {
+      "title": "Arrêté du 1er avril 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051430232",
+      "publishedOn": "2025-04-06",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051447932": {
+      "title": "Arrêté du 7 avril 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051447932",
+      "publishedOn": "2025-04-11",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051447939": {
+      "title": "Arrêté du 7 avril 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051447939",
+      "publishedOn": "2025-04-11",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051492908": {
+      "title": "Arrêté du 14 avril 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051492908",
+      "publishedOn": "2025-04-20",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051492915": {
+      "title": "Arrêté du 14 avril 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051492915",
+      "publishedOn": "2025-04-20",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051507960": {
+      "title": "Arrêté du 22 avril 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051507960",
+      "publishedOn": "2025-04-24",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051507967": {
+      "title": "Arrêté du 22 avril 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051507967",
+      "publishedOn": "2025-04-24",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051533494": {
+      "title": "Arrêté du 28 avril 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051533494",
+      "publishedOn": "2025-04-30",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051533510": {
+      "title": "Arrêté du 28 avril 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051533510",
+      "publishedOn": "2025-04-30",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051563969": {
+      "title": "Arrêté du 5 mai 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051563969",
+      "publishedOn": "2025-05-06",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051563976": {
+      "title": "Arrêté du 5 mai 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051563976",
+      "publishedOn": "2025-05-06",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051598142": {
+      "title": "Arrêté du 13 mai 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051598142",
+      "publishedOn": "2025-05-16",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051598149": {
+      "title": "Arrêté du 13 mai 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051598149",
+      "publishedOn": "2025-05-16",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051618376": {
+      "title": "Arrêté du 19 mai 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051618376",
+      "publishedOn": "2025-05-20",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051618383": {
+      "title": "Arrêté du 19 mai 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051618383",
+      "publishedOn": "2025-05-20",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051672774": {
+      "title": "Arrêté du 26 mai 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051672774",
+      "publishedOn": "2025-05-31",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051672781": {
+      "title": "Arrêté du 26 mai 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051672781",
+      "publishedOn": "2025-05-31",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051685162": {
+      "title": "Arrêté du 2 juin 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051685162",
+      "publishedOn": "2025-06-04",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051685169": {
+      "title": "Arrêté du 2 juin 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051685169",
+      "publishedOn": "2025-06-04",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051709818": {
+      "title": "Arrêté du 10 juin 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051709818",
+      "publishedOn": "2025-06-11",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051709825": {
+      "title": "Arrêté du 10 juin 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051709825",
+      "publishedOn": "2025-06-11",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051800718": {
+      "title": "Arrêté du 23 juin 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051800718",
+      "publishedOn": "2025-06-27",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051800724": {
+      "title": "Arrêté du 23 juin 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051800724",
+      "publishedOn": "2025-06-27",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051884086": {
+      "title": "Arrêté du 30 juin 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051884086",
+      "publishedOn": "2025-07-12",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051884092": {
+      "title": "Arrêté du 30 juin 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051884092",
+      "publishedOn": "2025-07-12",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051884109": {
+      "title": "Arrêté du 7 juillet 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051884109",
+      "publishedOn": "2025-07-12",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051884115": {
+      "title": "Arrêté du 7 juillet 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051884115",
+      "publishedOn": "2025-07-12",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051942205": {
+      "title": "Arrêté du 21 juillet 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051942205",
+      "publishedOn": "2025-07-23",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000051942211": {
+      "title": "Arrêté du 21 juillet 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051942211",
+      "publishedOn": "2025-07-23",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052044881": {
+      "title": "Arrêté du 4 août 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052044881",
+      "publishedOn": "2025-08-05",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052044887": {
+      "title": "Arrêté du 4 août 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052044887",
+      "publishedOn": "2025-08-05",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052115062": {
+      "title": "Arrêté du 12 août 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052115062",
+      "publishedOn": "2025-08-19",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052115068": {
+      "title": "Arrêté du 12 août 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052115068",
+      "publishedOn": "2025-08-19",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052134558": {
+      "title": "Arrêté du 19 août 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052134558",
+      "publishedOn": "2025-08-26",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052134564": {
+      "title": "Arrêté du 19 août 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052134564",
+      "publishedOn": "2025-08-26",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052156890": {
+      "title": "Arrêté du 28 août 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052156890",
+      "publishedOn": "2025-08-30",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052156896": {
+      "title": "Arrêté du 28 août 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052156896",
+      "publishedOn": "2025-08-30",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052180395": {
+      "title": "Arrêté du 1er septembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052180395",
+      "publishedOn": "2025-09-03",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052180401": {
+      "title": "Arrêté du 1er septembre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052180401",
+      "publishedOn": "2025-09-03",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052212649": {
+      "title": "Arrêté du 8 septembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052212649",
+      "publishedOn": "2025-09-09",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052212655": {
+      "title": "Arrêté du 8 septembre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052212655",
+      "publishedOn": "2025-09-09",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052256436": {
+      "title": "Arrêté du 15 septembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052256436",
+      "publishedOn": "2025-09-18",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052256442": {
+      "title": "Arrêté du 15 septembre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052256442",
+      "publishedOn": "2025-09-18",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052345408": {
+      "title": "Arrêté du 29 septembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052345408",
+      "publishedOn": "2025-10-03",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052345414": {
+      "title": "Arrêté du 29 septembre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052345414",
+      "publishedOn": "2025-10-03",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052376103": {
+      "title": "Arrêté du 7 octobre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052376103",
+      "publishedOn": "2025-10-09",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052376109": {
+      "title": "Arrêté du 7 octobre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052376109",
+      "publishedOn": "2025-10-09",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052407654": {
+      "title": "Arrêté du 21 octobre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052407654",
+      "publishedOn": "2025-10-22",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052407660": {
+      "title": "Arrêté du 21 octobre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052407660",
+      "publishedOn": "2025-10-22",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052499046": {
+      "title": "Arrêté du 3 novembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052499046",
+      "publishedOn": "2025-11-05",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052499052": {
+      "title": "Arrêté du 3 novembre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052499052",
+      "publishedOn": "2025-11-05",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052565775": {
+      "title": "Arrêté du 12 novembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052565775",
+      "publishedOn": "2025-11-13",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052565781": {
+      "title": "Arrêté du 12 novembre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052565781",
+      "publishedOn": "2025-11-13",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052598085": {
+      "title": "Arrêté du 17 novembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052598085",
+      "publishedOn": "2025-11-19",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052598091": {
+      "title": "Arrêté du 17 novembre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052598091",
+      "publishedOn": "2025-11-19",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052820471": {
+      "title": "Arrêté du 20 novembre 2025 modifiant l'arrêté du 17 novembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052820471",
+      "publishedOn": "2025-11-22",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052836204": {
+      "title": "Arrêté du 24 novembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052836204",
+      "publishedOn": "2025-11-25",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052836210": {
+      "title": "Arrêté du 24 novembre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052836210",
+      "publishedOn": "2025-11-25",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052983488": {
+      "title": "Arrêté du 1er décembre 2025 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052983488",
+      "publishedOn": "2025-12-03",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000052983494": {
+      "title": "Arrêté du 1er décembre 2025 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052983494",
+      "publishedOn": "2025-12-03",
+      "retrievedAt": "2026-11-22T19:16:58Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053423127": {
+      "title": "Arrêté du 29 janvier 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053423127",
+      "publishedOn": "2026-01-31",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053423136": {
+      "title": "Arrêté du 29 janvier 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053423136",
+      "publishedOn": "2026-01-31",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053430682": {
+      "title": "Arrêté du 29 janvier 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053430682",
+      "publishedOn": "2026-02-03",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053430696": {
+      "title": "Arrêté du 2 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053430696",
+      "publishedOn": "2026-02-03",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053435157": {
+      "title": "Arrêté du 2 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053435157",
+      "publishedOn": "2026-02-04",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053435172": {
+      "title": "Arrêté du 2 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053435172",
+      "publishedOn": "2026-02-04",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053435186": {
+      "title": "Arrêté du 3 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053435186",
+      "publishedOn": "2026-02-04",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053443907": {
+      "title": "Arrêté du 5 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053443907",
+      "publishedOn": "2026-02-06",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447535": {
+      "title": "Arrêté du 4 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447535",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447550": {
+      "title": "Arrêté du 4 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447550",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447565": {
+      "title": "Arrêté du 4 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447565",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447578": {
+      "title": "Arrêté du 4 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447578",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447592": {
+      "title": "Arrêté du 5 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447592",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447605": {
+      "title": "Arrêté du 5 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447605",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447618": {
+      "title": "Arrêté du 6 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447618",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447632": {
+      "title": "Arrêté du 6 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447632",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447647": {
+      "title": "Arrêté du 6 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447647",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053447678": {
+      "title": "Arrêté du 6 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053447678",
+      "publishedOn": "2026-02-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053456425": {
+      "title": "Arrêté du 9 février 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053456425",
+      "publishedOn": "2026-02-11",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053456433": {
+      "title": "Arrêté du 9 février 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053456433",
+      "publishedOn": "2026-02-11",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053456443": {
+      "title": "Arrêté du 10 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053456443",
+      "publishedOn": "2026-02-11",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053482875": {
+      "title": "Arrêté du 13 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053482875",
+      "publishedOn": "2026-02-14",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053499351": {
+      "title": "Arrêté du 16 février 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053499351",
+      "publishedOn": "2026-02-18",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053499358": {
+      "title": "Arrêté du 16 février 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053499358",
+      "publishedOn": "2026-02-18",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053505611": {
+      "title": "Arrêté du 17 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053505611",
+      "publishedOn": "2026-02-19",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053510259": {
+      "title": "Arrêté du 19 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053510259",
+      "publishedOn": "2026-02-20",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053510274": {
+      "title": "Arrêté du 19 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053510274",
+      "publishedOn": "2026-02-20",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053510289": {
+      "title": "Arrêté du 19 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053510289",
+      "publishedOn": "2026-02-20",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053594328": {
+      "title": "Arrêté du 25 février 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053594328",
+      "publishedOn": "2026-02-28",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053594335": {
+      "title": "Arrêté du 25 février 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053594335",
+      "publishedOn": "2026-02-28",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053619197": {
+      "title": "Arrêté du 26 février 2026 modifiant l'arrêté du 17 février 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053619197",
+      "publishedOn": "2026-03-05",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053653015": {
+      "title": "Arrêté du 9 mars 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053653015",
+      "publishedOn": "2026-03-12",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053653022": {
+      "title": "Arrêté du 9 mars 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053653022",
+      "publishedOn": "2026-03-12",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053653097": {
+      "title": "Arrêté du 10 mars 2026 portant report de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053653097",
+      "publishedOn": "2026-03-12",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053711609": {
+      "title": "Arrêté du 23 mars 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053711609",
+      "publishedOn": "2026-03-24",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053711616": {
+      "title": "Arrêté du 23 mars 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053711616",
+      "publishedOn": "2026-03-24",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053773460": {
+      "title": "Arrêté du 7 avril 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053773460",
+      "publishedOn": "2026-04-08",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053773467": {
+      "title": "Arrêté du 7 avril 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053773467",
+      "publishedOn": "2026-04-08",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053935062": {
+      "title": "Arrêté du 20 avril 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053935062",
+      "publishedOn": "2026-04-24",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053935069": {
+      "title": "Arrêté du 20 avril 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053935069",
+      "publishedOn": "2026-04-24",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053981469": {
+      "title": "Arrêté du 27 avril 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053981469",
+      "publishedOn": "2026-04-30",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000053981476": {
+      "title": "Arrêté du 27 avril 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053981476",
+      "publishedOn": "2026-04-30",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054048404": {
+      "title": "Arrêté du 6 mai 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054048404",
+      "publishedOn": "2026-05-08",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054048411": {
+      "title": "Arrêté du 6 mai 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054048411",
+      "publishedOn": "2026-05-08",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054101124": {
+      "title": "Arrêté du 12 mai 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054101124",
+      "publishedOn": "2026-05-14",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054101131": {
+      "title": "Arrêté du 12 mai 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054101131",
+      "publishedOn": "2026-05-14",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054152240": {
+      "title": "Arrêté du 26 mai 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054152240",
+      "publishedOn": "2026-05-30",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054152247": {
+      "title": "Arrêté du 26 mai 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054152247",
+      "publishedOn": "2026-05-30",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054223827": {
+      "title": "Arrêté du 2 juin 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054223827",
+      "publishedOn": "2026-06-10",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054223834": {
+      "title": "Arrêté du 2 juin 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054223834",
+      "publishedOn": "2026-06-10",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054224123": {
+      "title": "Arrêté du 8 juin 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054224123",
+      "publishedOn": "2026-06-10",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054224130": {
+      "title": "Arrêté du 8 juin 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054224130",
+      "publishedOn": "2026-06-10",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054268809": {
+      "title": "Arrêté du 16 juin 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268809",
+      "publishedOn": "2026-06-18",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054268816": {
+      "title": "Arrêté du 16 juin 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268816",
+      "publishedOn": "2026-06-18",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054408344": {
+      "title": "Arrêté du 30 juin 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054408344",
+      "publishedOn": "2026-07-10",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054408351": {
+      "title": "Arrêté du 30 juin 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054408351",
+      "publishedOn": "2026-07-10",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054436394": {
+      "title": "Arrêté du 15 juillet 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054436394",
+      "publishedOn": "2026-07-17",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054436401": {
+      "title": "Arrêté du 15 juillet 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054436401",
+      "publishedOn": "2026-07-17",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054451195": {
+      "title": "Arrêté du 20 juillet 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054451195",
+      "publishedOn": "2026-07-22",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054451202": {
+      "title": "Arrêté du 20 juillet 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054451202",
+      "publishedOn": "2026-07-22",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054621874": {
+      "title": "Arrêté du 3 août 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054621874",
+      "publishedOn": "2026-08-06",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054621881": {
+      "title": "Arrêté du 3 août 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054621881",
+      "publishedOn": "2026-08-06",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054733637": {
+      "title": "Arrêté du 18 août 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054733637",
+      "publishedOn": "2026-08-22",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054733644": {
+      "title": "Arrêté du 18 août 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054733644",
+      "publishedOn": "2026-08-22",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054796886": {
+      "title": "Arrêté du 1er septembre 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054796886",
+      "publishedOn": "2026-09-05",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054796893": {
+      "title": "Arrêté du 1er septembre 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054796893",
+      "publishedOn": "2026-09-05",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054842712": {
+      "title": "Arrêté du 14 septembre 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842712",
+      "publishedOn": "2026-09-16",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054842719": {
+      "title": "Arrêté du 14 septembre 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842719",
+      "publishedOn": "2026-09-16",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054883473": {
+      "title": "Arrêté du 21 septembre 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054883473",
+      "publishedOn": "2026-09-23",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054883480": {
+      "title": "Arrêté du 21 septembre 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054883480",
+      "publishedOn": "2026-09-23",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054953372": {
+      "title": "Arrêté du 5 octobre 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054953372",
+      "publishedOn": "2026-10-06",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054956527": {
+      "title": "Arrêté du 1er octobre 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054956527",
+      "publishedOn": "2026-10-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054956534": {
+      "title": "Arrêté du 1er octobre 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054956534",
+      "publishedOn": "2026-10-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000054956541": {
+      "title": "Arrêté du 5 octobre 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054956541",
+      "publishedOn": "2026-10-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000055009541": {
+      "title": "Arrêté du 19 octobre 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009541",
+      "publishedOn": "2026-10-23",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000055009548": {
+      "title": "Arrêté du 20 octobre 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009548",
+      "publishedOn": "2026-10-23",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000055023963": {
+      "title": "Arrêté du 28 octobre 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023963",
+      "publishedOn": "2026-10-29",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000055023970": {
+      "title": "Arrêté du 28 octobre 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023970",
+      "publishedOn": "2026-10-29",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000055069656": {
+      "title": "Arrêté du 3 novembre 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069656",
+      "publishedOn": "2026-11-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000055069663": {
+      "title": "Arrêté du 3 novembre 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069663",
+      "publishedOn": "2026-11-07",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000055098733": {
+      "title": "Arrêté du 17 novembre 2026 portant ouverture de crédits d'attributions de produits",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055098733",
+      "publishedOn": "2026-11-18",
+      "retrievedAt": "2026-11-22T19:17:53Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-jorf-jorftext000055098740": {
+      "title": "Arrêté du 17 novembre 2026 portant ouverture de crédits de fonds de concours",
+      "publisher": "Journal officiel de la République française (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055098740",
+      "publishedOn": "2026-11-18",
+      "retrievedAt": "2026-11-22T19:17:53Z",
       "licence": "Licence Ouverte 2.0",
       "format": "html"
     }
