@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T15:14:18Z",
+  "updatedAt": "2026-11-22T18:10:51Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -214,6 +214,96 @@
         "src-jorf-jorftext000054570262",
         "src-jorf-jorftext000054826958",
         "src-jorf-jorftext000054983503"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-22-05",
+      "date": "2026-11-22",
+      "kind": "ajout-source",
+      "target": "budget/etat-2025.json",
+      "note": "Ajout de l'état B de la loi de finances pour 2025, extrait du Journal officiel, pour calculer le taux d'exécution de l'année précédente.",
+      "sourceIds": [
+        "src-lfi-2025-jorf",
+        "src-bercy-plf25-destination"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-22-06",
+      "date": "2026-11-22",
+      "kind": "ajout-source",
+      "target": "budget/etat-2025.json",
+      "note": "Mouvements de crédits de 2025 publiés au Journal officiel : 0 décret d'avance, 3 décret d'annulation, 4 décret de virement, 4 décret de transfert, 49 arrêté de report. Les fonds de concours et attributions de produits ne sont pas repris (méthodologie §6). Chaque tableau est recoupé avec ses sous-totaux, son total et le montant de l'article.",
+      "sourceIds": [
+        "src-jorf-jorftext000051141944",
+        "src-jorf-jorftext000051141960",
+        "src-jorf-jorftext000051141977",
+        "src-jorf-jorftext000051141993",
+        "src-jorf-jorftext000051142025",
+        "src-jorf-jorftext000051142041",
+        "src-jorf-jorftext000051142057",
+        "src-jorf-jorftext000051142073",
+        "src-jorf-jorftext000051142089",
+        "src-jorf-jorftext000051142106",
+        "src-jorf-jorftext000051142122",
+        "src-jorf-jorftext000051142138",
+        "src-jorf-jorftext000051142154",
+        "src-jorf-jorftext000051142200",
+        "src-jorf-jorftext000051142216",
+        "src-jorf-jorftext000051142233",
+        "src-jorf-jorftext000051170277",
+        "src-jorf-jorftext000051194793",
+        "src-jorf-jorftext000051223873",
+        "src-jorf-jorftext000051324412",
+        "src-jorf-jorftext000051324425",
+        "src-jorf-jorftext000051324439",
+        "src-jorf-jorftext000051324464",
+        "src-jorf-jorftext000051324477",
+        "src-jorf-jorftext000051324491",
+        "src-jorf-jorftext000051324504",
+        "src-jorf-jorftext000051324518",
+        "src-jorf-jorftext000051324531",
+        "src-jorf-jorftext000051324545",
+        "src-jorf-jorftext000051324559",
+        "src-jorf-jorftext000051324572",
+        "src-jorf-jorftext000051324585",
+        "src-jorf-jorftext000051324599",
+        "src-jorf-jorftext000051324612",
+        "src-jorf-jorftext000051324625",
+        "src-jorf-jorftext000051324652",
+        "src-jorf-jorftext000051324665",
+        "src-jorf-jorftext000051324679",
+        "src-jorf-jorftext000051324692",
+        "src-jorf-jorftext000051324717",
+        "src-jorf-jorftext000051324730",
+        "src-jorf-jorftext000051324743",
+        "src-jorf-jorftext000051324756",
+        "src-jorf-jorftext000051324769",
+        "src-jorf-jorftext000051324782",
+        "src-jorf-jorftext000051324795",
+        "src-jorf-jorftext000051324809",
+        "src-jorf-jorftext000051324822",
+        "src-jorf-jorftext000051324835",
+        "src-jorf-jorftext000051430139",
+        "src-jorf-jorftext000051520782",
+        "src-jorf-jorftext000051871802",
+        "src-jorf-jorftext000051871815",
+        "src-jorf-jorftext000051884080",
+        "src-jorf-jorftext000051911867",
+        "src-jorf-jorftext000052450772",
+        "src-jorf-jorftext000052843150",
+        "src-jorf-jorftext000052987578",
+        "src-jorf-jorftext000052987570",
+        "src-jorf-jorftext000052995087"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-22-07",
+      "date": "2026-11-22",
+      "kind": "ajout-source",
+      "target": "budget/etat-2025.json",
+      "note": "Mouvements de crédits de 2025 publiés au Journal officiel : 0 décret d'avance, 3 décret d'annulation, 4 décret de virement, 4 décret de transfert, 50 arrêté de report. Les fonds de concours et attributions de produits ne sont pas repris (méthodologie §6). Chaque tableau est recoupé avec ses sous-totaux, son total et le montant de l'article.",
+      "sourceIds": [
+        "src-jorf-jorftext000052995087"
       ]
     }
   ]
