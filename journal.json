@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T06:10:38Z",
+  "updatedAt": "2026-11-22T12:37:26Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -135,6 +135,16 @@
       "target": "annonces.json",
       "note": "Synthèse du 22 novembre 2026 (période de recherche : depuis le 21 novembre 2026, date de la dernière entrée du journal). Aucun changement relevé : aucun tableau extrait, aucun chiffrage, aucune annonce, aucune suite, aucun résumé ni rattachement ajouté. Exécutif : index des discours publics de la DILA (fichier du 22 novembre 2026, aucune entrée mise en ligne après le 20 novembre 2026), flux de la Présidence de la République (dernière publication le 20 novembre 2026, aucun compte rendu de Conseil des ministres publié depuis celui du 10 novembre 2026). Suites : dossiers législatifs des cinq mesures suivies, aucun acte nouveau publié depuis le 21 novembre 2026 ; les conclusions de la commission mixte paritaire sur le projet de loi de finances de fin de gestion pour 2026 sont inscrites à l'ordre du jour du 24 novembre 2026. Chiffrages : aucun projet de loi déposé depuis le 21 novembre 2026. Présidents des assemblées et présidents de groupe : les 2 présidents d'assemblée et les 20 présidents de groupe (11 à l'Assemblée nationale, 9 au Sénat) ont été passés en revue le 21 novembre 2026 ; prochaine revue au plus tard le 28 novembre 2026. Aucune séance publique postérieure à cette revue n'est publiée : dernière séance de l'Assemblée nationale le 20 novembre 2026, lue le 21 novembre 2026 ; au Sénat, seul le compte rendu analytique du 20 novembre 2026, lu le 21 novembre 2026, est publié ; le compte rendu intégral n'est pas publié ce jour. Sources inaccessibles : vie-publique.fr (contrôle d'accès automatisé), economie.gouv.fr (HTTP 403).",
       "sourceIds": []
+    },
+    {
+      "id": "jrn-2026-11-22-03",
+      "date": "2026-11-22",
+      "kind": "ajout-source",
+      "target": "budget/etat-2026.json",
+      "note": "Situation mensuelle de l'État à fin septembre 2026 : tableau « Dépenses du budget général par mission et programme » (pages 9 à 11), cumul des AE et des CP consommés pour les 32 missions de 2026. Le site du ministère refusant les téléchargements automatiques, le PDF a été téléchargé par l'éditeur de SuiviPublic depuis son navigateur (empreinte SHA-256 f07be0aef5607a6d5a1ac5bc92c0253ac4f293036c1a5841cafb0f1da322414f). Double lecture concordante, totaux recoupés : CP 461 067 M€ pour 461 066 M€ publiés, AE 471 067 M€ pour 471 064 M€ publiés, écarts d'arrondi. Les lignes Audiovisuel public et Plan de relance, sans mission en 2026 et à 0 pour 2026, ne sont pas reprises.",
+      "sourceIds": [
+        "src-sme-2026-09"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T22:47:48.297Z",
+  "updatedAt": "2026-11-22T12:37:26Z",
   "year": 2026,
   "regime": [
     {
@@ -4703,7 +4703,600 @@
     }
   ],
   "movements": [],
-  "execution": [],
+  "execution": [
+    {
+      "id": "ext-sme-2026-09-depenses-mission-cp",
+      "asOf": "2026-09-30",
+      "level": "mission",
+      "nature": "CP",
+      "lines": [
+        {
+          "mission": "AA",
+          "label": "ACTION EXTERIEURE DE L'ETAT",
+          "executed": {
+            "value": 2493,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "AB",
+          "label": "ADMINISTRATION GENERALE ET TERRITORIALE DE L'ETAT",
+          "executed": {
+            "value": 3494,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "AC",
+          "label": "AGRICULTURE, ALIMENTATION, FORÊT ET AFFAIRES RURALES",
+          "executed": {
+            "value": 2028,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "label": "AIDE PUBLIQUE AU DEVELOPPEMENT",
+          "executed": {
+            "value": 2487,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "label": "COHESION DES TERRITOIRES",
+          "executed": {
+            "value": 18026,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "CA",
+          "label": "CONSEIL ET CONTRÔLE DE L'ETAT",
+          "executed": {
+            "value": 633,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "PC",
+          "label": "CREDITS NON REPARTIS",
+          "executed": {
+            "value": 0,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "label": "CULTURE",
+          "executed": {
+            "value": 2725,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "label": "DEFENSE",
+          "executed": {
+            "value": 51605,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "DC",
+          "label": "DIRECTION DE L'ACTION DU GOUVERNEMENT",
+          "executed": {
+            "value": 754,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "label": "ECOLOGIE, DEVELOPPEMENT ET MOBILITE DURABLES",
+          "executed": {
+            "value": 20203,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "label": "ECONOMIE",
+          "executed": {
+            "value": 3191,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "label": "ENGAGEMENTS FINANCIERS DE L'ETAT",
+          "executed": {
+            "value": 49011,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "label": "ENSEIGNEMENT SCOLAIRE",
+          "executed": {
+            "value": 67209,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "GA",
+          "label": "GESTION DES FINANCES PUBLIQUES",
+          "executed": {
+            "value": 7966,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "IA",
+          "label": "IMMIGRATION, ASILE ET INTEGRATION",
+          "executed": {
+            "value": 1306,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "label": "INVESTIR POUR LA FRANCE DE 2030",
+          "executed": {
+            "value": 1947,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "label": "JUSTICE",
+          "executed": {
+            "value": 9582,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "MA",
+          "label": "MEDIAS, LIVRE ET INDUSTRIES CULTURELLES",
+          "executed": {
+            "value": 440,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "MB",
+          "label": "MONDE COMBATTANT, MEMOIRE ET LIENS AVEC LA NATION",
+          "executed": {
+            "value": 1337,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "OA",
+          "label": "OUTRE-MER",
+          "executed": {
+            "value": 2105,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "label": "POUVOIRS PUBLICS",
+          "executed": {
+            "value": 1140,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "label": "RECHERCHE ET ENSEIGNEMENT SUPERIEUR",
+          "executed": {
+            "value": 24403,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "label": "REGIMES SOCIAUX ET DE RETRAITE",
+          "executed": {
+            "value": 5032,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "RC",
+          "label": "RELATIONS AVEC LES COLLECTIVITES TERRITORIALES",
+          "executed": {
+            "value": 3177,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "RD",
+          "label": "REMBOURSEMENTS ET DEGREVEMENTS",
+          "executed": {
+            "value": 116154,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "SA",
+          "label": "SANTE",
+          "executed": {
+            "value": 1520,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "label": "SECURITES",
+          "executed": {
+            "value": 19361,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "SE",
+          "label": "SOLIDARITE, INSERTION ET EGALITE DES CHANCES",
+          "executed": {
+            "value": 25443,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "SF",
+          "label": "SPORT, JEUNESSE ET VIE ASSOCIATIVE",
+          "executed": {
+            "value": 1002,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "TR",
+          "label": "TRANSFORMATION ET FONCTION PUBLIQUES",
+          "executed": {
+            "value": 328,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "label": "TRAVAIL, EMPLOI ET ADMINISTRATION DES MINISTERES SOCIAUX",
+          "executed": {
+            "value": 14965,
+            "unit": "MEUR"
+          }
+        }
+      ],
+      "origin": "pdf",
+      "extraction": {
+        "id": "ext-sme-2026-09-depenses-mission-cp",
+        "sourceId": "src-sme-2026-09",
+        "page": 9,
+        "table": "Dépenses du budget général par mission et programme",
+        "columns": [
+          "Cumul à fin septembre 2026 : CP consommés"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": 461066,
+            "unit": "MEUR"
+          },
+          "linesSum": {
+            "value": 461067,
+            "unit": "MEUR"
+          },
+          "tolerance": {
+            "value": 32,
+            "unit": "MEUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Deux lectures indépendantes du PDF (texte mis en page et coordonnées des mots) concordent sur les 174 lignes du tableau.",
+            "Les lignes « AUDIOVISUEL PUBLIC » et « PLAN DE RELANCE », absentes de la nomenclature 2026, valent 0 dans toutes les colonnes de 2026 et ne sont pas reprises ; le total n'en dépend pas.",
+            "La mission « RÉGIMES SOCIAUX ET DE RETRAITE » n'a pas de ligne par programme dans ce tableau : son montant est repris au niveau de la mission.",
+            "Le total publié est celui des dépenses brutes du budget général ; le total net du même tableau (348 194 M€) concorde avec la série ouverte de la situation mensuelle."
+          ]
+        },
+        "extractedAt": "2026-11-22T12:37:26Z"
+      }
+    },
+    {
+      "id": "ext-sme-2026-09-depenses-mission-ae",
+      "asOf": "2026-09-30",
+      "level": "mission",
+      "nature": "AE",
+      "lines": [
+        {
+          "mission": "AA",
+          "label": "ACTION EXTERIEURE DE L'ETAT",
+          "executed": {
+            "value": 2577,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "AB",
+          "label": "ADMINISTRATION GENERALE ET TERRITORIALE DE L'ETAT",
+          "executed": {
+            "value": 3479,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "AC",
+          "label": "AGRICULTURE, ALIMENTATION, FORÊT ET AFFAIRES RURALES",
+          "executed": {
+            "value": 2593,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "AD",
+          "label": "AIDE PUBLIQUE AU DEVELOPPEMENT",
+          "executed": {
+            "value": 2340,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "VA",
+          "label": "COHESION DES TERRITOIRES",
+          "executed": {
+            "value": 20139,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "CA",
+          "label": "CONSEIL ET CONTRÔLE DE L'ETAT",
+          "executed": {
+            "value": 607,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "PC",
+          "label": "CREDITS NON REPARTIS",
+          "executed": {
+            "value": 0,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "CB",
+          "label": "CULTURE",
+          "executed": {
+            "value": 2948,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "DA",
+          "label": "DEFENSE",
+          "executed": {
+            "value": 49191,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "DC",
+          "label": "DIRECTION DE L'ACTION DU GOUVERNEMENT",
+          "executed": {
+            "value": 808,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "TA",
+          "label": "ECOLOGIE, DEVELOPPEMENT ET MOBILITE DURABLES",
+          "executed": {
+            "value": 20269,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "DB",
+          "label": "ECONOMIE",
+          "executed": {
+            "value": 3383,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "EB",
+          "label": "ENGAGEMENTS FINANCIERS DE L'ETAT",
+          "executed": {
+            "value": 48928,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "EC",
+          "label": "ENSEIGNEMENT SCOLAIRE",
+          "executed": {
+            "value": 67321,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "GA",
+          "label": "GESTION DES FINANCES PUBLIQUES",
+          "executed": {
+            "value": 7986,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "IA",
+          "label": "IMMIGRATION, ASILE ET INTEGRATION",
+          "executed": {
+            "value": 1370,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "AV",
+          "label": "INVESTIR POUR LA FRANCE DE 2030",
+          "executed": {
+            "value": -1063,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "JA",
+          "label": "JUSTICE",
+          "executed": {
+            "value": 8809,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "MA",
+          "label": "MEDIAS, LIVRE ET INDUSTRIES CULTURELLES",
+          "executed": {
+            "value": 566,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "MB",
+          "label": "MONDE COMBATTANT, MEMOIRE ET LIENS AVEC LA NATION",
+          "executed": {
+            "value": 1408,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "OA",
+          "label": "OUTRE-MER",
+          "executed": {
+            "value": 2358,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "PB",
+          "label": "POUVOIRS PUBLICS",
+          "executed": {
+            "value": 1140,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "RA",
+          "label": "RECHERCHE ET ENSEIGNEMENT SUPERIEUR",
+          "executed": {
+            "value": 30229,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "RB",
+          "label": "REGIMES SOCIAUX ET DE RETRAITE",
+          "executed": {
+            "value": 5523,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "RC",
+          "label": "RELATIONS AVEC LES COLLECTIVITES TERRITORIALES",
+          "executed": {
+            "value": 2689,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "RD",
+          "label": "REMBOURSEMENTS ET DEGREVEMENTS",
+          "executed": {
+            "value": 116158,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "SA",
+          "label": "SANTE",
+          "executed": {
+            "value": 1735,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "SB",
+          "label": "SECURITES",
+          "executed": {
+            "value": 19386,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "SE",
+          "label": "SOLIDARITE, INSERTION ET EGALITE DES CHANCES",
+          "executed": {
+            "value": 30523,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "SF",
+          "label": "SPORT, JEUNESSE ET VIE ASSOCIATIVE",
+          "executed": {
+            "value": 1296,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "TR",
+          "label": "TRANSFORMATION ET FONCTION PUBLIQUES",
+          "executed": {
+            "value": 305,
+            "unit": "MEUR"
+          }
+        },
+        {
+          "mission": "TB",
+          "label": "TRAVAIL, EMPLOI ET ADMINISTRATION DES MINISTERES SOCIAUX",
+          "executed": {
+            "value": 16066,
+            "unit": "MEUR"
+          }
+        }
+      ],
+      "origin": "pdf",
+      "extraction": {
+        "id": "ext-sme-2026-09-depenses-mission-ae",
+        "sourceId": "src-sme-2026-09",
+        "page": 9,
+        "table": "Dépenses du budget général par mission et programme",
+        "columns": [
+          "Cumul à fin septembre 2026 : AE consommées"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": 471064,
+            "unit": "MEUR"
+          },
+          "linesSum": {
+            "value": 471067,
+            "unit": "MEUR"
+          },
+          "tolerance": {
+            "value": 32,
+            "unit": "MEUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Deux lectures indépendantes du PDF (texte mis en page et coordonnées des mots) concordent sur les 174 lignes du tableau.",
+            "Les lignes « AUDIOVISUEL PUBLIC » et « PLAN DE RELANCE », absentes de la nomenclature 2026, valent 0 dans toutes les colonnes de 2026 et ne sont pas reprises ; le total n'en dépend pas.",
+            "La mission « RÉGIMES SOCIAUX ET DE RETRAITE » n'a pas de ligne par programme dans ce tableau : son montant est repris au niveau de la mission.",
+            "Le total publié est celui des dépenses brutes du budget général ; le total net du même tableau (348 194 M€) concorde avec la série ouverte de la situation mensuelle."
+          ]
+        },
+        "extractedAt": "2026-11-22T12:37:26Z"
+      }
+    }
+  ],
   "revenues": [],
   "balance": [
     {
