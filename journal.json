@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T17:30:44Z",
+  "updatedAt": "2026-11-22T06:10:38Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -119,6 +119,22 @@
         "src-senat-odsen-general-2026-11-21",
         "src-senat-odsen-histogroupes-2026-11-21"
       ]
+    },
+    {
+      "id": "jrn-2026-11-22-01",
+      "date": "2026-11-22",
+      "kind": "extraction-rejetee",
+      "target": "budget/etat-2026.json",
+      "note": "Situation mensuelle de l'État à fin septembre 2026 (dernière publiée au catalogue de data.economie.gouv.fr, vérifié le 22 novembre 2026 à 6 h 05 UTC ; aucune situation à fin octobre 2026 n'y figure) : nouvel essai de téléchargement refusé par le site economie.gouv.fr (HTTP 403, https://www.economie.gouv.fr/files/files/directions_services/dgfip/media-document/SME_2026-09.pdf). Aucune extraction de la colonne execution ; aucune copie n'a été cherchée ailleurs. Nouvel essai à la prochaine exécution.",
+      "sourceIds": []
+    },
+    {
+      "id": "jrn-2026-11-22-02",
+      "date": "2026-11-22",
+      "kind": "ajout-source",
+      "target": "annonces.json",
+      "note": "Synthèse du 22 novembre 2026 (période de recherche : depuis le 21 novembre 2026, date de la dernière entrée du journal). Aucun changement relevé : aucun tableau extrait, aucun chiffrage, aucune annonce, aucune suite, aucun résumé ni rattachement ajouté. Exécutif : index des discours publics de la DILA (fichier du 22 novembre 2026, aucune entrée mise en ligne après le 20 novembre 2026), flux de la Présidence de la République (dernière publication le 20 novembre 2026, aucun compte rendu de Conseil des ministres publié depuis celui du 10 novembre 2026). Suites : dossiers législatifs des cinq mesures suivies, aucun acte nouveau publié depuis le 21 novembre 2026 ; les conclusions de la commission mixte paritaire sur le projet de loi de finances de fin de gestion pour 2026 sont inscrites à l'ordre du jour du 24 novembre 2026. Chiffrages : aucun projet de loi déposé depuis le 21 novembre 2026. Présidents des assemblées et présidents de groupe : les 2 présidents d'assemblée et les 20 présidents de groupe (11 à l'Assemblée nationale, 9 au Sénat) ont été passés en revue le 21 novembre 2026 ; prochaine revue au plus tard le 28 novembre 2026. Aucune séance publique postérieure à cette revue n'est publiée : dernière séance de l'Assemblée nationale le 20 novembre 2026, lue le 21 novembre 2026 ; au Sénat, seul le compte rendu analytique du 20 novembre 2026, lu le 21 novembre 2026, est publié ; le compte rendu intégral n'est pas publié ce jour. Sources inaccessibles : vie-publique.fr (contrôle d'accès automatisé), economie.gouv.fr (HTTP 403).",
+      "sourceIds": []
     }
   ]
 }
