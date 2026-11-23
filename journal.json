@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T19:23:00Z",
+  "updatedAt": "2026-11-22T19:25:14Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -507,6 +507,31 @@
       "target": "budget/etat-2026.json",
       "note": "Changement de règle (méthodologie §6) : les crédits ouverts comptent désormais les fonds de concours et attributions de produits, à la date de publication de chaque arrêté au Journal officiel. Les montants ouverts de 2025 et 2026 et les taux d'exécution sont recalculés. Les arrêtés rectificatifs sont comptés pour le seul écart.",
       "sourceIds": []
+    },
+    {
+      "id": "jrn-2026-11-22-11",
+      "date": "2026-11-22",
+      "kind": "ajout-source",
+      "target": "budget/etat-2025.json",
+      "note": "Mouvements de crédits de 2025 publiés au Journal officiel : 1 loi de finances rectificative ou de fin de gestion, 0 décret d'avance, 4 décret d'annulation, 7 décret de virement, 4 décret de transfert, 50 arrêté de report, 23 arrêté de report de fonds de concours, 42 arrêté de fonds de concours, 40 arrêté d'attributions de produits. Les fonds de concours et attributions de produits sont repris (méthodologie §6). Chaque tableau est recoupé avec ses sous-totaux, son total et le montant de l'article.",
+      "sourceIds": [
+        "src-jorf-jorftext000053000900",
+        "src-jorf-jorftext000053000890",
+        "src-jorf-jorftext000053000635",
+        "src-jorf-jorftext000053036272",
+        "src-jorf-jorftext000053036278",
+        "src-jorf-jorftext000053036284",
+        "src-jorf-jorftext000053043685",
+        "src-jorf-jorftext000053043693",
+        "src-jorf-jorftext000053143458",
+        "src-jorf-jorftext000053159685",
+        "src-jorf-jorftext000053159691",
+        "src-jorf-jorftext000053159728",
+        "src-jorf-jorftext000053230055",
+        "src-jorf-jorftext000053230081",
+        "src-jorf-jorftext000053230061",
+        "src-jorf-jorftext000053230087"
+      ]
     }
   ]
 }
