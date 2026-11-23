@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T07:12:21Z",
+  "updatedAt": "2026-11-23T07:19:51Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -3641,6 +3641,15 @@
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128284/file/PAP%202027%20-%20Travail%2C%20emploi%20et%20administration%20des%20minist%C3%A8res%20sociaux.pdf",
       "retrievedAt": "2026-11-23T07:12:21Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-dpt-2027-immigration-integration": {
+      "title": "Document de politique transversale 2027, Politique française de l'immigration et de l'intégration",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1129685/file/DPT%202027%20-%20Politique%20fran%C3%A7aise%20de%20l'immigration%20et%20de%20l'int%C3%A9gration.pdf",
+      "retrievedAt": "2026-11-23T07:19:51Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     }

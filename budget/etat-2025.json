@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T19:25:14Z",
+  "updatedAt": "2026-11-23T07:19:51Z",
   "year": 2025,
   "regime": [
     {
@@ -4812,6 +4812,721 @@
           ]
         },
         "extractedAt": "2026-11-22T18:08:00Z"
+      }
+    }
+  ],
+  "crossPolicies": [
+    {
+      "id": "ext-dpt27-immigration-integration-2025",
+      "key": "immigration-integration",
+      "title": "Politique française de l'immigration et de l'intégration",
+      "missions": [
+        "IA"
+      ],
+      "column": {
+        "kind": "execution",
+        "label": "Exécution 2025"
+      },
+      "lines": [
+        {
+          "mission": "IA",
+          "programme": "303",
+          "label": "Immigration et asile",
+          "ae": {
+            "value": 1532063370,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 1712080310,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "303-01",
+              "label": "Circulation des étrangers et politique des visas",
+              "ae": {
+                "value": 132805,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 132805,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "303-02",
+              "label": "Garantie de l'exercice du droit d'asile",
+              "ae": {
+                "value": 1127094208,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 1440169280,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "303-03",
+              "label": "Lutte contre l'immigration irrégulière",
+              "ae": {
+                "value": 330336038,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 196202926,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "303-04",
+              "label": "Soutien",
+              "ae": {
+                "value": 74500319,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 75575299,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "IA",
+          "programme": "104",
+          "label": "Intégration et accès à la nationalité française",
+          "ae": {
+            "value": 345150926,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 346063275,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "104-11",
+              "label": "Accueil des étrangers primo arrivants",
+              "ae": {
+                "value": 238902843,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 238902843,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "104-12",
+              "label": "Intégration des étrangers primo- arrivants",
+              "ae": {
+                "value": 104116248,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 104919598,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "104-14",
+              "label": "Accès à la nationalité française",
+              "ae": {
+                "value": 1124835,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 1172551,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "104-16",
+              "label": "Accompagnement des résidents des foyers de travailleurs migrants",
+              "ae": {
+                "value": 1007000,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 1068283,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "AA",
+          "programme": "151",
+          "label": "Français à l'étranger et affaires consulaires",
+          "ae": {
+            "value": 1495906,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 1495392,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "151-03",
+              "label": "Instruction des demandes de visa",
+              "ae": {
+                "value": 1495906,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 1495392,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "AA",
+          "programme": "105",
+          "label": "Action de la France en Europe et dans le monde",
+          "ae": {
+            "value": 61304970,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 61304970,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "105-10",
+              "label": "Personnel concourant à l'action \"Instruction des demandes de visa\"",
+              "ae": {
+                "value": 61304970,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 61304970,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "AB",
+          "programme": "216",
+          "label": "Conduite et pilotage des politiques de l'intérieur",
+          "ae": {
+            "value": 80849061,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 83993253,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "216-01",
+              "label": "État-major et services centraux",
+              "ae": {
+                "value": 879226,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 918442,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "216-05",
+              "label": "Affaires immobilières",
+              "ae": {
+                "value": 900101,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 4413756,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "216-06",
+              "label": "Affaires juridiques et contentieuses",
+              "ae": {
+                "value": 38202902,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 37794223,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "216-08",
+              "label": "Immigration, asile et intégration",
+              "ae": {
+                "value": 40866832,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 40866832,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "EC",
+          "programme": "140",
+          "label": "Enseignement scolaire public du premier degré",
+          "ae": {
+            "value": 136654177,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 136654177,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "140-03",
+              "label": "Besoins éducatifs particuliers",
+              "ae": {
+                "value": 136654177,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 136654177,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "EC",
+          "programme": "141",
+          "label": "Enseignement scolaire public du second degré",
+          "ae": {
+            "value": 85294291,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 85294291,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "141-06",
+              "label": "Besoins éducatifs particuliers",
+              "ae": {
+                "value": 85294291,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 85294291,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "EC",
+          "programme": "230",
+          "label": "Vie de l'élève",
+          "ae": {
+            "value": 1991575,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 1991575,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "230-06",
+              "label": "Actions éducatives complémentaires aux enseignements",
+              "ae": {
+                "value": 1991575,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 1991575,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "RA",
+          "programme": "150",
+          "label": "Formations supérieures et recherche universitaire",
+          "ae": {
+            "value": 1752286047,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 1758534829,
+            "unit": "EUR"
+          },
+          "method": "Estimation du document : part des étudiants internationaux appliquée aux crédits du programme, hors enseignement supérieur privé",
+          "actions": []
+        },
+        {
+          "mission": "CA",
+          "programme": "165",
+          "label": "Conseil d'État et autres juridictions administratives",
+          "ae": {
+            "value": 59340634,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 104887106,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "165-07",
+              "label": "Cour nationale du droit d'asile",
+              "ae": {
+                "value": 59340634,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 104887106,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "JA",
+          "programme": "101",
+          "label": "Accès au droit et à la justice",
+          "ae": {
+            "value": 50931211,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 50931211,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "101-01",
+              "label": "Aide juridictionnelle",
+              "ae": {
+                "value": 50141422,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 50141422,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "101-02",
+              "label": "Développement de l'accès au droit et du réseau judiciaire de proximité",
+              "ae": {
+                "value": 789789,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 789789,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "AB",
+          "programme": "354",
+          "label": "Administration territoriale de l'État",
+          "ae": {
+            "value": 271246010,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 271246010,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "354-02",
+              "label": "Réglementation générale, garantie de l'identité et de la nationalité et délivrance des titres",
+              "ae": {
+                "value": 271246010,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 271246010,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "SB",
+          "programme": "176",
+          "label": "Police nationale",
+          "ae": {
+            "value": 1375083588,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 1520044565,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "176-04",
+              "label": "Police des étrangers et sûreté des transports internationaux",
+              "ae": {
+                "value": 1258223979,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 1258223979,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "176-06",
+              "label": "Commandement, ressources humaines et logistique",
+              "ae": {
+                "value": 116859609,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 261820586,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "SB",
+          "programme": "152",
+          "label": "Gendarmerie nationale",
+          "ae": {
+            "value": 160281800,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 154995735,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "152-01",
+              "label": "Ordre et sécurité publics",
+              "ae": {
+                "value": 159439899,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 154172847,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "152-03",
+              "label": "Missions de police judiciaire et concours à la justice",
+              "ae": {
+                "value": 168380,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 164578,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "152-04",
+              "label": "Commandement, ressources humaines et logistique",
+              "ae": {
+                "value": 673521,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 658310,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "SA",
+          "programme": "183",
+          "label": "Protection maladie",
+          "ae": {
+            "value": 1208740000,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 1208740000,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "183-02",
+              "label": "Aide médicale de l'Etat",
+              "ae": {
+                "value": 1208740000,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 1208740000,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "VA",
+          "programme": "147",
+          "label": "Politique de la ville",
+          "ae": {
+            "value": 123991628,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 123991628,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "147-01",
+              "label": "Actions territorialisées et Dispositifs spécifiques de la politique de la ville",
+              "ae": {
+                "value": 123991628,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 123991628,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "VA",
+          "programme": "177",
+          "label": "Hébergement, parcours vers le logement et insertion des personnes vulnérables",
+          "ae": {
+            "value": 15737169,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 15604169,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "177-12",
+              "label": "Hébergement et logement adapté",
+              "ae": {
+                "value": 15737169,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 15604169,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "TB",
+          "programme": "155",
+          "label": "Soutien des ministères sociaux",
+          "ae": {
+            "value": 13315375,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 13315375,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "155-21",
+              "label": "Personnels mettant en œuvre les politiques sociales et de la santé",
+              "ae": {
+                "value": 13315375,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 13315375,
+                "unit": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "mission": "SE",
+          "programme": "304",
+          "label": "Inclusion sociale et protection des personnes",
+          "ae": {
+            "value": 60369689,
+            "unit": "EUR"
+          },
+          "cp": {
+            "value": 60369689,
+            "unit": "EUR"
+          },
+          "actions": [
+            {
+              "code": "304-17",
+              "label": "Protection et accompagnement des enfants, des jeunes et des familles vulnérables",
+              "ae": {
+                "value": 59216719,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 59216719,
+                "unit": "EUR"
+              }
+            },
+            {
+              "code": "304-18",
+              "label": "Aide à la vie familiale et sociale des anciens migrants dans leur pays d'origine (AVFS)",
+              "ae": {
+                "value": 1152970,
+                "unit": "EUR"
+              },
+              "cp": {
+                "value": 1152970,
+                "unit": "EUR"
+              }
+            }
+          ]
+        }
+      ],
+      "origin": "pdf",
+      "extraction": {
+        "id": "ext-dpt27-immigration-integration-2025",
+        "sourceId": "src-dpt-2027-immigration-integration",
+        "page": 16,
+        "table": "Récapitulation des crédits par programme",
+        "columns": [
+          "Exécution 2025 : autorisations d'engagement",
+          "Exécution 2025 : crédits de paiement"
+        ],
+        "check": {
+          "publishedTotal": {
+            "value": 7711537560,
+            "unit": "EUR"
+          },
+          "linesSum": {
+            "value": 7711537560,
+            "unit": "EUR"
+          },
+          "tolerance": {
+            "value": 0,
+            "unit": "EUR"
+          },
+          "status": "ok",
+          "notes": [
+            "Somme des actions égale à chaque programme et somme des programmes égale au total publié, à l'euro près, pour les trois périodes, en autorisations d'engagement et en crédits de paiement."
+          ]
+        },
+        "extractedAt": "2026-11-23T07:19:51Z"
       }
     }
   ],

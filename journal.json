@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T07:12:21Z",
+  "updatedAt": "2026-11-23T07:19:51Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -581,6 +581,16 @@
         "src-pap-2027-securites",
         "src-pap-2027-transformation-et-fonction-publiques",
         "src-pap-2027-travail-emploi-et-administration-des-ministeres-so"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-23-03",
+      "date": "2026-11-23",
+      "kind": "ajout-source",
+      "target": "budget/etat-2027.json",
+      "note": "Crédits de la politique transversale « Politique française de l'immigration et de l'intégration » par programme, pour 3 années, recoupés à l'euro près avec le total publié.",
+      "sourceIds": [
+        "src-dpt-2027-immigration-integration"
       ]
     }
   ]
