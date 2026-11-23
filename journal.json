@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T07:19:51Z",
+  "updatedAt": "2026-11-23T13:23:41Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -591,6 +591,48 @@
       "note": "Crédits de la politique transversale « Politique française de l'immigration et de l'intégration » par programme, pour 3 années, recoupés à l'euro près avec le total publié.",
       "sourceIds": [
         "src-dpt-2027-immigration-integration"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-23-04",
+      "date": "2026-11-23",
+      "kind": "ajout-source",
+      "target": "operateurs.json",
+      "note": "Opérateurs de l'État : 187 organismes ou catégories, crédits 2026 et 2027, versements réels et comptes financiers 2025 lus dans 30 rapports annuels de performances.",
+      "sourceIds": [
+        "src-bercy-plf2027-operateurs-liste",
+        "src-bercy-plf2027-operateurs-credits",
+        "src-bercy-plf2027-operateurs-emplois",
+        "src-rap-2025-1109795",
+        "src-rap-2025-1109796",
+        "src-rap-2025-1109799",
+        "src-rap-2025-1109801",
+        "src-rap-2025-1109807",
+        "src-rap-2025-1109813",
+        "src-rap-2025-1109832",
+        "src-rap-2025-1109835",
+        "src-rap-2025-1109840",
+        "src-rap-2025-1109843",
+        "src-rap-2025-1109844",
+        "src-rap-2025-1109846",
+        "src-rap-2025-1109849",
+        "src-rap-2025-1109859",
+        "src-rap-2025-1109862",
+        "src-rap-2025-1109864",
+        "src-rap-2025-1109894",
+        "src-rap-2025-1109897",
+        "src-rap-2025-1109900",
+        "src-rap-2025-1109904",
+        "src-rap-2025-1109921",
+        "src-rap-2025-1109922",
+        "src-rap-2025-1109928",
+        "src-rap-2025-1109931",
+        "src-rap-2025-1109934",
+        "src-rap-2025-1109936",
+        "src-rap-2025-1109937",
+        "src-rap-2025-1109940",
+        "src-rap-2025-1109943",
+        "src-rap-2025-1109945"
       ]
     }
   ]

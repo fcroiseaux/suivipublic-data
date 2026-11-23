@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T07:19:51Z",
+  "updatedAt": "2026-11-23T13:23:41Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -3650,6 +3650,303 @@
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1129685/file/DPT%202027%20-%20Politique%20fran%C3%A7aise%20de%20l'immigration%20et%20de%20l'int%C3%A9gration.pdf",
       "retrievedAt": "2026-11-23T07:19:51Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-bercy-plf2027-operateurs-liste": {
+      "title": "Projet de loi de finances 2027, liste des opérateurs par programme et ministère",
+      "publisher": "Ministère de l'Économie et des Finances",
+      "kind": "budget",
+      "url": "https://data.economie.gouv.fr/explore/dataset/plf-2027-liste-d-operateurs-par-programme-et-ministere/",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "json"
+    },
+    "src-bercy-plf2027-operateurs-credits": {
+      "title": "Projet de loi de finances 2027, subventions aux opérateurs",
+      "publisher": "Ministère de l'Économie et des Finances",
+      "kind": "budget",
+      "url": "https://data.economie.gouv.fr/explore/dataset/plf-2027-pap-operateurs-subventions-lfi-n-1-et-plf-n/",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "json"
+    },
+    "src-bercy-plf2027-operateurs-emplois": {
+      "title": "Projet de loi de finances 2027, emplois des opérateurs",
+      "publisher": "Ministère de l'Économie et des Finances",
+      "kind": "budget",
+      "url": "https://data.economie.gouv.fr/explore/dataset/plf-2027-operateurs-emplois-des-operateurs/",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "json"
+    },
+    "src-rap-2025-1109795": {
+      "title": "Rapport annuel de performances 2025, Action extérieure de l'État",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109795/file/RAP%202025%20-%20Action%20ext%C3%A9rieure%20de%20l'%C3%89tat.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109796": {
+      "title": "Rapport annuel de performances 2025, Administration générale et territoriale de l'État",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109796/file/RAP%202025%20-%20Administration%20g%C3%A9n%C3%A9rale%20et%20territoriale%20de%20l'%C3%89tat.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109799": {
+      "title": "Rapport annuel de performances 2025, Agriculture, alimentation, forêt et affaires rurales",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109799/file/RAP%202025%20-%20Agriculture%2C%20alimentation%2C%20for%C3%AAt%20et%20affaires%20rurales.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109801": {
+      "title": "Rapport annuel de performances 2025, Aide publique au développement",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109801/file/RAP%202025%20-%20Aide%20publique%20au%20d%C3%A9veloppement.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109807": {
+      "title": "Rapport annuel de performances 2025, Anciens combattants, mémoire et liens avec la Nation",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109807/file/RAP%202025%20-%20Anciens%20combattants%2C%20m%C3%A9moire%20et%20liens%20avec%20la%20Nation.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109813": {
+      "title": "Rapport annuel de performances 2025, Cohésion des territoires",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109813/file/RAP%202025%20-%20Coh%C3%A9sion%20des%20territoires.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109832": {
+      "title": "Rapport annuel de performances 2025, Contrôle de la circulation et du stationnement routiers",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109832/file/RAP%202025%20-%20Contr%C3%B4le%20de%20la%20circulation%20et%20du%20stationnement%20routiers.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109835": {
+      "title": "Rapport annuel de performances 2025, Contrôle et exploitation aériens",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109835/file/RAP%202025%20-%20Contr%C3%B4le%20et%20exploitation%20a%C3%A9riens.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109840": {
+      "title": "Rapport annuel de performances 2025, Culture",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109840/file/RAP%202025%20-%20Culture.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109843": {
+      "title": "Rapport annuel de performances 2025, Direction de l'action du Gouvernement",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109843/file/RAP%202025%20-%20Direction%20de%20l'action%20du%20Gouvernement.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109844": {
+      "title": "Rapport annuel de performances 2025, Économie",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109844/file/RAP%202025%20-%20%C3%89conomie.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109846": {
+      "title": "Rapport annuel de performances 2025, Engagements financiers de l'État",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109846/file/RAP%202025%20-%20Engagements%20financiers%20de%20l'%C3%89tat.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109849": {
+      "title": "Rapport annuel de performances 2025, Enseignement scolaire",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109849/file/RAP%202025%20-%20Enseignement%20scolaire.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109859": {
+      "title": "Rapport annuel de performances 2025, Gestion des finances publiques",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109859/file/RAP%202025%20-%20Gestion%20des%20finances%20publiques.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109862": {
+      "title": "Rapport annuel de performances 2025, Gestion du patrimoine immobilier de l'État",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109862/file/RAP%202025%20-%20Gestion%20du%20patrimoine%20immobilier%20de%20l'%C3%89tat.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109864": {
+      "title": "Rapport annuel de performances 2025, Immigration, asile et intégration",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109864/file/RAP%202025%20-%20Immigration%2C%20asile%20et%20int%C3%A9gration.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109894": {
+      "title": "Rapport annuel de performances 2025, Justice",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109894/file/RAP%202025%20-%20Justice.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109897": {
+      "title": "Rapport annuel de performances 2025, Médias, livre et industries culturelles",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109897/file/RAP%202025%20-%20M%C3%A9dias%2C%20livre%20et%20industries%20culturelles.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109900": {
+      "title": "Rapport annuel de performances 2025, Outre-mer",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109900/file/RAP%202025%20-%20Outre-mer.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109904": {
+      "title": "Rapport annuel de performances 2025, Participations financières de l'État",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109904/file/RAP%202025%20-%20Participations%20financi%C3%A8res%20de%20l'%C3%89tat.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109921": {
+      "title": "Rapport annuel de performances 2025, Recherche et enseignement supérieur",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109921/file/RAP%202025%20-%20Recherche%20et%20enseignement%20sup%C3%A9rieur.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109922": {
+      "title": "Rapport annuel de performances 2025, Régimes sociaux et de retraite",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109922/file/RAP%202025%20-%20R%C3%A9gimes%20sociaux%20et%20de%20retraite.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109928": {
+      "title": "Rapport annuel de performances 2025, Relations avec les collectivités territoriales",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109928/file/RAP%202025%20-%20Relations%20avec%20les%20collectivit%C3%A9s%20territoriales.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109931": {
+      "title": "Rapport annuel de performances 2025, Remboursements et dégrèvements",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109931/file/RAP%202025%20-%20Remboursements%20et%20d%C3%A9gr%C3%A8vements.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109934": {
+      "title": "Rapport annuel de performances 2025, Santé",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109934/file/RAP%202025%20-%20Sant%C3%A9.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109936": {
+      "title": "Rapport annuel de performances 2025, Sécurités",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109936/file/RAP%202025%20-%20S%C3%A9curit%C3%A9s.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109937": {
+      "title": "Rapport annuel de performances 2025, Solidarité, insertion et égalité des chances",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109937/file/RAP%202025%20-%20Solidarit%C3%A9%2C%20insertion%20et%20%C3%A9galit%C3%A9%20des%20chances.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109940": {
+      "title": "Rapport annuel de performances 2025, Sport, jeunesse et vie associative",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109940/file/RAP%202025%20-%20Sport%2C%20jeunesse%20et%20vie%20associative.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109943": {
+      "title": "Rapport annuel de performances 2025, Transformation et fonction publiques",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109943/file/RAP%202025%20-%20Transformation%20et%20fonction%20publiques.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-rap-2025-1109945": {
+      "title": "Rapport annuel de performances 2025, Travail, emploi et administration des ministères sociaux",
+      "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109945/file/RAP%202025%20-%20Travail%2C%20emploi%20et%20administration%20des%20minist%C3%A8res%20sociaux.pdf",
+      "retrievedAt": "2026-11-23T13:23:41Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     }
