@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T06:30:00Z",
+  "updatedAt": "2026-11-23T07:12:21Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -541,6 +541,46 @@
       "note": "Synthèse du 23 novembre 2026 (période de recherche : depuis le 22 novembre 2026, date de la dernière entrée du journal). Aucun changement relevé : aucun tableau extrait, aucun chiffrage, aucune annonce, aucune suite, aucun résumé ni rattachement ajouté. Budget de l'État : le catalogue de la situation mensuelle de l'État sur data.economie.gouv.fr, consulté le 23 novembre 2026 à 6 h 10 UTC, ne publie pas de situation à fin octobre 2026 ; la situation à fin septembre 2026, extraite le 22 novembre 2026, reste la dernière reprise dans la colonne execution de 2026. Exécutif : index des discours publics de la DILA (fichier du 23 novembre 2026, aucune entrée mise en ligne après le 20 novembre 2026), flux de la Présidence de la République (dernière publication le 20 novembre 2026 ; aucun compte rendu de Conseil des ministres publié depuis celui du 10 novembre 2026). Suites : dossiers législatifs de l'Assemblée nationale (export du 22 novembre 2026, 23 h 16 UTC) pour les cinq mesures suivies, aucun acte nouveau daté d'après le 20 novembre 2026. Chiffrages : aucun projet de loi déposé à l'Assemblée nationale depuis le 21 novembre 2026 dans le même export ; flux des textes et des rapports du Sénat : aucune étude d'impact ni rapport de la commission des finances ou de la commission des affaires sociales mis en ligne depuis le 22 novembre 2026 ; flux des publications de la Cour des comptes : une publication du 21 novembre 2026 intitulée « Département de la Meuse », dont l'intitulé ne désigne aucun texte, non retenue. Présidents des assemblées et présidents de groupe : les 2 présidents d'assemblée et les 20 présidents de groupe (11 à l'Assemblée nationale, 9 au Sénat) ont été passés en revue le 21 novembre 2026 ; prochaine revue complète au plus tard le 28 novembre 2026. Complément du jour : le compte rendu intégral provisoire de la séance du Sénat du 20 novembre 2026, non publié lors de la revue du 21 novembre 2026, a été lu selon la même méthode pour les dix acteurs suivis du Sénat ; résultat « aucune annonce répondant aux critères » pour Maryse Carrère (Groupe du RDSE), Cécile Cukierman (Groupe CRCE - Kanaky), Mathieu Darnaud (Groupe Les Républicains), Edwige Diaz (Groupe Union Nationale pour les Territoires), Xavier Iacovelli (Groupe Rassemblement des démocrates, progressistes et indépendants), Patrick Kanner (Groupe Socialiste, Écologiste et Républicain), Gérard Larcher (président du Sénat), Claude Malhuret (Groupe Les Indépendants - République et Territoires), Hervé Marseille (Groupe Union Centriste et Indépendants), Mélanie Vogel (Groupe Écologiste - Solidarité et Territoires). Propos écartés, selon la même règle pour tous : opinions sans mesure précise, questions adressées au Gouvernement, amendements présentés en séance. Assemblée nationale : aucune séance publique postérieure au 20 novembre 2026 n'est publiée ; Sénat : aucun compte rendu publié pour les 21 et 22 novembre 2026. Sources inaccessibles : vie-publique.fr (contrôle d'accès automatisé), info.gouv.fr (HTTP 403).",
       "sourceIds": [
         "src-senat-cri-2026-11-20"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-23-02",
+      "date": "2026-11-23",
+      "kind": "ajout-source",
+      "target": "budget/etat-2027.json",
+      "note": "Répartition par action des crédits de 2026 (loi votée) et 2027 (projet de loi), lue dans les projets annuels de performances 2027 : 31 documents. Chaque programme est recoupé à l'euro près avec les crédits publiés.",
+      "sourceIds": [
+        "src-pap-2027-action-exterieure-de-l-etat",
+        "src-pap-2027-administration-generale-et-territoriale-de-l-etat",
+        "src-pap-2027-agriculture-et-alimentation",
+        "src-pap-2027-aide-publique-au-developpement",
+        "src-pap-2027-conseil-et-controle-de-l-etat",
+        "src-pap-2027-cohesion-des-territoires",
+        "src-pap-2027-credits-non-repartis",
+        "src-pap-2027-direction-de-l-action-du-gouvernement",
+        "src-pap-2027-culture",
+        "src-pap-2027-economie",
+        "src-pap-2027-engagements-financiers-de-l-etat",
+        "src-pap-2027-ecologie-developpement-et-mobilite-durables",
+        "src-pap-2027-defense",
+        "src-pap-2027-enseignement-scolaire",
+        "src-pap-2027-immigration-asile-et-integration",
+        "src-pap-2027-investir-pour-la-france-de-2030",
+        "src-pap-2027-medias-livre-et-industries-culturelles",
+        "src-pap-2027-monde-combattant-memoire-et-liens-avec-la-nation",
+        "src-pap-2027-justice",
+        "src-pap-2027-outre-mer",
+        "src-pap-2027-pouvoirs-publics",
+        "src-pap-2027-regimes-sociaux-et-de-retraite",
+        "src-pap-2027-recherche-et-enseignement-superieur",
+        "src-pap-2027-relations-avec-les-collectivites-territoriales",
+        "src-pap-2027-remboursements-et-degrevements",
+        "src-pap-2027-sante",
+        "src-pap-2027-solidarite-insertion-et-egalite-des-chances",
+        "src-pap-2027-sport-jeunesse-et-vie-associative",
+        "src-pap-2027-securites",
+        "src-pap-2027-transformation-et-fonction-publiques",
+        "src-pap-2027-travail-emploi-et-administration-des-ministeres-so"
       ]
     }
   ]
