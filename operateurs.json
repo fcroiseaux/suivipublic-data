@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-11-23T13:39:29Z",
+ "updatedAt": "2026-11-23T13:42:50Z",
  "listYear": 2027,
  "executionYear": 2025,
  "operators": [
@@ -628,7 +628,7 @@
      "year": 2024,
      "kind": "realisation",
      "ae": 265778980,
-     "cp": 179271928,
+     "cp": 179289928,
      "programmes": [
       {
        "code": "149",
@@ -685,6 +685,20 @@
        },
        "sourceId": "src-rap-2025-1109937",
        "page": 71
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 0,
+       "cp": 18000,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 18000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
@@ -692,7 +706,7 @@
      "year": 2025,
      "kind": "realisation",
      "ae": 1412268528,
-     "cp": 66805070,
+     "cp": 66842967,
      "programmes": [
       {
        "code": "149",
@@ -777,6 +791,20 @@
        },
        "sourceId": "src-rap-2025-1109937",
        "page": 71
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 0,
+       "cp": 37897,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 37897
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
@@ -4277,9 +4305,14 @@
        "label": "Équipement des forces",
        "ae": 40000,
        "cp": 0,
-       "sourceId": "src-rap-2025-1109813",
-       "page": 207,
-       "fromSheet": true
+       "natures": {
+        "transferts": {
+         "ae": 40000,
+         "cp": 0
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
       },
       {
        "code": "380",
@@ -5046,8 +5079,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 1260101239,
-     "cp": 2214652239,
+     "ae": 1260101642,
+     "cp": 2214651884,
      "programmes": [
       {
        "code": "361",
@@ -5102,11 +5135,16 @@
       {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 13511000,
-       "cp": 14898000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 283,
-       "fromSheet": true
+       "ae": 13511403,
+       "cp": 14897645,
+       "natures": {
+        "transferts": {
+         "ae": 13511403,
+         "cp": 14897645
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "421",
@@ -5211,8 +5249,8 @@
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 1421375956,
-     "cp": 1670520956,
+     "ae": 1421375867,
+     "cp": 1670520461,
      "programmes": [
       {
        "code": "131",
@@ -5263,11 +5301,16 @@
       {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 20890000,
-       "cp": 15407000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 283,
-       "fromSheet": true
+       "ae": 20889911,
+       "cp": 15406505,
+       "natures": {
+        "transferts": {
+         "ae": 20889911,
+         "cp": 15406505
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "421",
@@ -10954,8 +10997,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 976974709,
-     "cp": 972111013,
+     "ae": 976974369,
+     "cp": 972111062,
      "programmes": [
       {
        "code": "105",
@@ -11515,19 +11558,29 @@
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
        "ae": 500000,
-       "cp": 433000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 136,
-       "fromSheet": true
+       "cp": 433179,
+       "natures": {
+        "transferts": {
+         "ae": 500000,
+         "cp": 433179
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
-       "ae": 439000,
-       "cp": 95000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 136,
-       "fromSheet": true
+       "ae": 438660,
+       "cp": 94870,
+       "natures": {
+        "transferts": {
+         "ae": 438660,
+         "cp": 94870
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       },
       {
        "code": "203",
@@ -11690,8 +11743,8 @@
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 982864816,
-     "cp": 993789960,
+     "ae": 982865343,
+     "cp": 993789826,
      "programmes": [
       {
        "code": "105",
@@ -12204,28 +12257,38 @@
        "page": 302
       },
       {
-       "code": "362",
-       "label": "Ecologie",
-       "ae": 0,
-       "cp": 5556000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 136,
-       "fromSheet": true
-      },
-      {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 1270000,
-       "cp": 538000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 136,
-       "fromSheet": true
+       "ae": 1270181,
+       "cp": 537650,
+       "natures": {
+        "transferts": {
+         "ae": 1270181,
+         "cp": 537650
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
-       "ae": 48000,
-       "cp": 169000,
+       "ae": 48346,
+       "cp": 169216,
+       "natures": {
+        "transferts": {
+         "ae": 48346,
+         "cp": 169216
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      },
+      {
+       "code": "362",
+       "label": "Ecologie",
+       "ae": 0,
+       "cp": 5556000,
        "sourceId": "src-rap-2025-1109921",
        "page": 136,
        "fromSheet": true
@@ -15701,8 +15764,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 2172645144,
-     "cp": 2186975532,
+     "ae": 2172645171,
+     "cp": 2186975474,
      "programmes": [
       {
        "code": "185",
@@ -15857,37 +15920,52 @@
        "page": 37
       },
       {
-       "code": "362",
-       "label": "Ecologie",
-       "ae": 0,
-       "cp": 7520000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 293,
-       "fromSheet": true
-      },
-      {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 2432000,
-       "cp": 2660000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 293,
-       "fromSheet": true
+       "ae": 2431759,
+       "cp": 2660074,
+       "natures": {
+        "transferts": {
+         "ae": 2431759,
+         "cp": 2660074
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
-       "ae": 10762000,
-       "cp": 7949000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 293,
-       "fromSheet": true
+       "ae": 10762268,
+       "cp": 7949268,
+       "natures": {
+        "scsp": {
+         "ae": 10762268,
+         "cp": 7949268
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       },
       {
        "code": "146",
        "label": "Équipement des forces",
        "ae": 23481000,
-       "cp": 29573000,
+       "cp": 29572600,
+       "natures": {
+        "transferts": {
+         "ae": 23481000,
+         "cp": 29572600
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
+      },
+      {
+       "code": "362",
+       "label": "Ecologie",
+       "ae": 0,
+       "cp": 7520000,
        "sourceId": "src-rap-2025-1109921",
        "page": 293,
        "fromSheet": true
@@ -15924,8 +16002,8 @@
     {
      "year": 2025,
      "kind": "lfi",
-     "ae": 1921316915,
-     "cp": 1921316915,
+     "ae": 1921317022,
+     "cp": 1921317022,
      "programmes": [
       {
        "code": "172",
@@ -15976,19 +16054,24 @@
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
-       "ae": 24743000,
-       "cp": 24743000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 293,
-       "fromSheet": true
+       "ae": 24743107,
+       "cp": 24743107,
+       "natures": {
+        "scsp": {
+         "ae": 24743107,
+         "cp": 24743107
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 2188273653,
-     "cp": 2160267974,
+     "ae": 2188274069,
+     "cp": 2160268119,
      "programmes": [
       {
        "code": "185",
@@ -16115,46 +16198,66 @@
        "page": 37
       },
       {
-       "code": "362",
-       "label": "Ecologie",
-       "ae": 0,
-       "cp": 2068000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 293,
-       "fromSheet": true
-      },
-      {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 8686000,
-       "cp": 5898000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 293,
-       "fromSheet": true
+       "ae": 8686203,
+       "cp": 5897932,
+       "natures": {
+        "transferts": {
+         "ae": 8686203,
+         "cp": 5897932
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "178",
        "label": "Préparation et emploi des forces",
        "ae": 385000,
        "cp": 0,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 293,
-       "fromSheet": true
+       "natures": {
+        "transferts": {
+         "ae": 385000,
+         "cp": 0
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
       },
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
-       "ae": 26685000,
-       "cp": 28082000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 293,
-       "fromSheet": true
+       "ae": 26685213,
+       "cp": 28082213,
+       "natures": {
+        "scsp": {
+         "ae": 26685213,
+         "cp": 28082213
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       },
       {
        "code": "146",
        "label": "Équipement des forces",
        "ae": 45040000,
        "cp": 19348000,
+       "natures": {
+        "transferts": {
+         "ae": 45040000,
+         "cp": 19348000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
+      },
+      {
+       "code": "362",
+       "label": "Ecologie",
+       "ae": 0,
+       "cp": 2068000,
        "sourceId": "src-rap-2025-1109921",
        "page": 293,
        "fromSheet": true
@@ -22300,7 +22403,7 @@
      "year": 2024,
      "kind": "realisation",
      "ae": 1675340901,
-     "cp": 1709043889,
+     "cp": 1709043539,
      "programmes": [
       {
        "code": "175",
@@ -22374,10 +22477,15 @@
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
        "ae": 195000,
-       "cp": 160000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 389,
-       "fromSheet": true
+       "cp": 159650,
+       "natures": {
+        "transferts": {
+         "ae": 195000,
+         "cp": 159650
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "363",
@@ -22438,7 +22546,7 @@
      "year": 2025,
      "kind": "realisation",
      "ae": 1700342842,
-     "cp": 1700578103,
+     "cp": 1700577603,
      "programmes": [
       {
        "code": "175",
@@ -22512,10 +22620,15 @@
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
        "ae": 0,
-       "cp": 141000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 389,
-       "fromSheet": true
+       "cp": 140500,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 140500
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "205",
@@ -23929,8 +24042,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 3165787110,
-     "cp": 3107583048,
+     "ae": 3165786893,
+     "cp": 3107582879,
      "programmes": [
       {
        "code": "185",
@@ -24383,19 +24496,24 @@
        "page": 302
       },
       {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 2570783,
+       "cp": 2322831,
+       "natures": {
+        "transferts": {
+         "ae": 2570783,
+         "cp": 2322831
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
        "code": "362",
        "label": "Ecologie",
        "ae": 0,
        "cp": 4600000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 304,
-       "fromSheet": true
-      },
-      {
-       "code": "144",
-       "label": "Environnement et prospective de la politique de défense",
-       "ae": 2571000,
-       "cp": 2323000,
        "sourceId": "src-rap-2025-1109921",
        "page": 304,
        "fromSheet": true
@@ -24540,8 +24658,8 @@
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 3102400293,
-     "cp": 3098047112,
+     "ae": 3102400074,
+     "cp": 3098047158,
      "programmes": [
       {
        "code": "185",
@@ -24948,20 +25066,30 @@
       {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 2338000,
-       "cp": 3032000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 304,
-       "fromSheet": true
+       "ae": 2337985,
+       "cp": 3032250,
+       "natures": {
+        "transferts": {
+         "ae": 2337985,
+         "cp": 3032250
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
-       "ae": 51000,
-       "cp": 51000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 304,
-       "fromSheet": true
+       "ae": 50796,
+       "cp": 50796,
+       "natures": {
+        "transferts": {
+         "ae": 50796,
+         "cp": 50796
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       },
       {
        "code": "113",
@@ -27360,7 +27488,6 @@
    "key": "ecole-de-l-air-et-de-l-espace",
    "label": "Ecole de l'air et de l'espace",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -27381,8 +27508,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 8500,
-     "cp": 8500,
+     "ae": 29038927,
+     "cp": 23530971,
      "programmes": [
       {
        "code": "169",
@@ -27411,14 +27538,72 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 196
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 0,
+       "cp": 233960,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 233960
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "178",
+       "label": "Préparation et emploi des forces",
+       "ae": 29030427,
+       "cp": 23288511,
+       "natures": {
+        "scsp": {
+         "ae": 28709578,
+         "cp": 22967662
+        },
+        "investissement": {
+         "ae": 320849,
+         "cp": 320849
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "lfi",
+     "ae": 29506843,
+     "cp": 29506843,
+     "programmes": [
+      {
+       "code": "178",
+       "label": "Préparation et emploi des forces",
+       "ae": 29506843,
+       "cp": 29506843,
+       "natures": {
+        "scsp": {
+         "ae": 29006843,
+         "cp": 29006843
+        },
+        "investissement": {
+         "ae": 500000,
+         "cp": 500000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 11500,
-     "cp": 11500,
+     "ae": 29611672,
+     "cp": 35289654,
      "programmes": [
       {
        "code": "169",
@@ -27461,6 +27646,38 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 196
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 391868,
+       "cp": 530434,
+       "natures": {
+        "transferts": {
+         "ae": 391868,
+         "cp": 530434
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "178",
+       "label": "Préparation et emploi des forces",
+       "ae": 29208304,
+       "cp": 34747720,
+       "natures": {
+        "scsp": {
+         "ae": 28735804,
+         "cp": 34477720
+        },
+        "investissement": {
+         "ae": 472500,
+         "cp": 270000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
       }
      ]
     },
@@ -27517,6 +27734,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 286,
+     "outsideCap": 12,
+     "state": 1,
+     "sourceId": "src-rap-2025-defense",
+     "page": 224
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 300,
+     "outsideCap": 19,
+     "state": 1,
+     "sourceId": "src-rap-2025-defense",
+     "page": 224
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 285,
+     "outsideCap": 12,
+     "state": 1,
+     "sourceId": "src-rap-2025-defense",
+     "page": 224
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 300,
@@ -27533,6 +27777,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 25500000,
+      "fonctionnement": 3800000,
+      "intervention": 20000,
+      "investissement": 2057000,
+      "total": 31377000
+     },
+     "cp": {
+      "personnel": 25500000,
+      "fonctionnement": 3980000,
+      "intervention": 20000,
+      "investissement": 2057000,
+      "total": 31557000
+     },
+     "revenue": {
+      "state": 34957000,
+      "earmarkedTax": 0,
+      "otherPublic": 1083000,
+      "own": 1310000,
+      "other": 0,
+      "total": 37350000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 26680000,
+      "fonctionnement": 3875000,
+      "intervention": 20000,
+      "investissement": 1448000,
+      "total": 32023000
+     },
+     "cp": {
+      "personnel": 26680000,
+      "fonctionnement": 4088000,
+      "intervention": 20000,
+      "investissement": 1040000,
+      "total": 31828000
+     },
+     "revenue": {
+      "state": 34748000,
+      "earmarkedTax": 0,
+      "otherPublic": 1176000,
+      "own": 1461000,
+      "other": 0,
+      "total": 37384000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 225
+   },
    "profile": {
     "missions": [
      "L’École de l’air et de l’espace (EAE) a pour mission historique et principale de former l’ensemble des officiers de l’armée de l’Air et de l’Espace. Elle accueille également des stagiaires de la formation professionnelle continue et des cadets étrangers, dans le cadre de partenariats validés par l’état-major des armées (EMA) et l’état-major de l’armée de l’Air et de l’Espace (EMAAE). Les enseignements portent sur la partie « formation militaire », sur le volet « formation académique » ainsi que dans le domaine aéronautique. Ces missions de formation sont complétées par un volet « recherche » en lien avec l’espace et le milieu aéronautique. Depuis sa transformation en 2019 en établissement public sous statut de grand établissement au sein des établissements publics à caractère scientifique, culturel et professionnel (EPSCP-GE), l’offre de formation s’est étoffée avec des mastères spécialisés développés en partenariat (l’institut supérieur aéronautique [ISAé], Centrale Marseille ou l’institut d’études politiques d’Aix-en-Provence) ou en propre, comme pour le mastère « Defense and Security in Space ». Enfin, des stages courts à destination des autres ministères ou de partenaires privés sont mis en place pour réaliser des recettes propres destinées à accroître les moyens de l’EAE et à valoriser les formations dispensées pour les militaires et agents du ministère des armées, notamment dans la formation « drone » et « formation au commandement ». L’EAE a également pour mission de contribuer au rayonnement de l’armée de l’Air et de l’Espace, notamment par la transmission de son patrimoine culturel."
@@ -27885,7 +28184,6 @@
    "key": "ecole-navale",
    "label": "Ecole navale",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -27906,8 +28204,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 5000,
-     "cp": 5000,
+     "ae": 36462400,
+     "cp": 36381112,
      "programmes": [
       {
        "code": "169",
@@ -27922,14 +28220,76 @@
        },
        "sourceId": "src-rap-2025-1109807",
        "page": 73
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 197400,
+       "cp": 116112,
+       "natures": {
+        "transferts": {
+         "ae": 197400,
+         "cp": 116112
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "178",
+       "label": "Préparation et emploi des forces",
+       "ae": 36260000,
+       "cp": 36260000,
+       "natures": {
+        "scsp": {
+         "ae": 35000000,
+         "cp": 35000000
+        },
+        "investissement": {
+         "ae": 1260000,
+         "cp": 1260000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "lfi",
+     "ae": 38181249,
+     "cp": 38181249,
+     "programmes": [
+      {
+       "code": "178",
+       "label": "Préparation et emploi des forces",
+       "ae": 38181249,
+       "cp": 38181249,
+       "natures": {
+        "scsp": {
+         "ae": 36425529,
+         "cp": 36425529
+        },
+        "investissement": {
+         "ae": 1455170,
+         "cp": 1455170
+        },
+        "transferts": {
+         "ae": 300550,
+         "cp": 300550
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 14400,
-     "cp": 14400,
+     "ae": 38872009,
+     "cp": 38472758,
      "programmes": [
       {
        "code": "169",
@@ -27958,6 +28318,52 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 196
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 563740,
+       "cp": 243549,
+       "natures": {
+        "transferts": {
+         "ae": 563740,
+         "cp": 243549
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "178",
+       "label": "Préparation et emploi des forces",
+       "ae": 38175869,
+       "cp": 38175869,
+       "natures": {
+        "scsp": {
+         "ae": 36720699,
+         "cp": 36720699
+        },
+        "investissement": {
+         "ae": 1455170,
+         "cp": 1455170
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
+      },
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 118000,
+       "cp": 38940,
+       "natures": {
+        "transferts": {
+         "ae": 118000,
+         "cp": 38940
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     },
@@ -28018,6 +28424,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 353,
+     "outsideCap": 23,
+     "state": 6,
+     "sourceId": "src-rap-2025-defense",
+     "page": 224
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 370,
+     "outsideCap": 40,
+     "state": 6,
+     "sourceId": "src-rap-2025-defense",
+     "page": 224
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 368,
+     "outsideCap": 25,
+     "state": 6,
+     "sourceId": "src-rap-2025-defense",
+     "page": 224
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 372,
@@ -28034,6 +28467,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 31401000,
+      "fonctionnement": 7172000,
+      "intervention": 0,
+      "investissement": 6320000,
+      "total": 44893000
+     },
+     "cp": {
+      "personnel": 31401000,
+      "fonctionnement": 6740000,
+      "intervention": 0,
+      "investissement": 2828000,
+      "total": 40969000
+     },
+     "revenue": {
+      "state": 38124000,
+      "earmarkedTax": 0,
+      "otherPublic": 1014000,
+      "own": 1833000,
+      "other": 0,
+      "total": 40970000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 31794000,
+      "fonctionnement": 6239000,
+      "intervention": 0,
+      "investissement": 1325000,
+      "total": 39358000
+     },
+     "cp": {
+      "personnel": 31794000,
+      "fonctionnement": 5909000,
+      "intervention": 0,
+      "investissement": 1742000,
+      "total": 39445000
+     },
+     "revenue": {
+      "state": 38671000,
+      "earmarkedTax": 0,
+      "otherPublic": 251000,
+      "own": 2131000,
+      "other": 0,
+      "total": 41053000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 230
+   },
    "profile": {
     "missions": [
      "Grande école militaire, implantée à Lanvéoc (Finistère), l’École navale, est constituée en établissement public à caractère scientifique, culturel et professionnel (EPCSP) sous la forme d’un grand établissement et placée sous la tutelle du ministère des armées. Elle dispense un enseignement supérieur ayant pour objet la formation d’officiers de marine au titre d’ingénieur ou à un diplôme de master ainsi que d’étudiants en master spécialisé, et des formations aux métiers du marin au profit du personnel militaire de la marine nationale. En outre, l’École navale dispense des formations aux personnels civils et militaires des administrations de l’État intervenant dans le domaine maritime. Elle assure également des formations dans le domaine scientifique, militaire et maritime au profit d’autres organismes publics ou d’organismes privés. Enfin, dans son domaine de compétence, l’École navale conduit des travaux de recherche scientifique et de développement technologique, via son institut de recherche et d’études navales (IRENav) et dispense des formations doctorales. Elle promeut et soutient l’innovation au sein de la marine nationale et des armées."
@@ -30649,8 +31137,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 927474614,
-     "cp": 925830957,
+     "ae": 927475012,
+     "cp": 925831274,
      "programmes": [
       {
        "code": "185",
@@ -31021,19 +31509,24 @@
        "page": 115
       },
       {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 494398,
+       "cp": 960317,
+       "natures": {
+        "transferts": {
+         "ae": 494398,
+         "cp": 960317
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
        "code": "362",
        "label": "Ecologie",
        "ae": 0,
        "cp": 3318000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 127,
-       "fromSheet": true
-      },
-      {
-       "code": "144",
-       "label": "Environnement et prospective de la politique de défense",
-       "ae": 494000,
-       "cp": 960000,
        "sourceId": "src-rap-2025-1109921",
        "page": 127,
        "fromSheet": true
@@ -31159,8 +31652,8 @@
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 936192624,
-     "cp": 933151069,
+     "ae": 936192239,
+     "cp": 933151156,
      "programmes": [
       {
        "code": "185",
@@ -31475,19 +31968,24 @@
        "page": 37
       },
       {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 1863615,
+       "cp": 1745087,
+       "natures": {
+        "transferts": {
+         "ae": 1863615,
+         "cp": 1745087
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
        "code": "362",
        "label": "Ecologie",
        "ae": 0,
        "cp": 1227000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 127,
-       "fromSheet": true
-      },
-      {
-       "code": "144",
-       "label": "Environnement et prospective de la politique de défense",
-       "ae": 1864000,
-       "cp": 1745000,
        "sourceId": "src-rap-2025-1109921",
        "page": 127,
        "fromSheet": true
@@ -32267,7 +32765,6 @@
    "key": "ecpad-etablissement-de-communication-et-de-production-audiovisuelle-de-la-defens",
    "label": "ECPAD - Etablissement de communication et de production audiovisuelle de la défense",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -32288,8 +32785,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 59500,
-     "cp": 59500,
+     "ae": 22850457,
+     "cp": 22941057,
      "programmes": [
       {
        "code": "214",
@@ -32318,14 +32815,62 @@
        },
        "sourceId": "src-rap-2025-1109943",
        "page": 74
+      },
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 22790957,
+       "cp": 22881557,
+       "natures": {
+        "scsp": {
+         "ae": 20830057,
+         "cp": 20830057
+        },
+        "dotation": {
+         "ae": 0,
+         "cp": 1403000
+        },
+        "investissement": {
+         "ae": 1960900,
+         "cp": 648500
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "lfi",
+     "ae": 24721583,
+     "cp": 22681583,
+     "programmes": [
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 24721583,
+       "cp": 22681583,
+       "natures": {
+        "scsp": {
+         "ae": 21221583,
+         "cp": 21221583
+        },
+        "investissement": {
+         "ae": 3500000,
+         "cp": 1460000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 5000,
-     "cp": 5326,
+     "ae": 24142523,
+     "cp": 22194049,
      "programmes": [
       {
        "code": "105",
@@ -32354,6 +32899,32 @@
        },
        "sourceId": "src-rap-2025-1109849",
        "page": 189
+      },
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 24137523,
+       "cp": 22188723,
+       "natures": {
+        "scsp": {
+         "ae": 20865273,
+         "cp": 20791773
+        },
+        "dotation": {
+         "ae": 0,
+         "cp": 97000
+        },
+        "investissement": {
+         "ae": 3255000,
+         "cp": 1282700
+        },
+        "transferts": {
+         "ae": 17250,
+         "cp": 17250
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     },
@@ -32410,6 +32981,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 248,
+     "outsideCap": 4,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 257,
+     "outsideCap": 6,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 253,
+     "outsideCap": 3,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 257,
@@ -32426,6 +33024,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 18350000,
+      "fonctionnement": 6965000,
+      "intervention": 0,
+      "investissement": 2944000,
+      "total": 28259000
+     },
+     "cp": {
+      "personnel": 18350000,
+      "fonctionnement": 7025000,
+      "intervention": 0,
+      "investissement": 4875000,
+      "total": 30250000
+     },
+     "revenue": {
+      "state": 23006000,
+      "earmarkedTax": 0,
+      "otherPublic": 60000,
+      "own": 2769000,
+      "other": 0,
+      "total": 25836000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 18941000,
+      "fonctionnement": 6640000,
+      "intervention": 0,
+      "investissement": 2538000,
+      "total": 28119000
+     },
+     "cp": {
+      "personnel": 18941000,
+      "fonctionnement": 6657000,
+      "intervention": 0,
+      "investissement": 5754000,
+      "total": 31352000
+     },
+     "revenue": {
+      "state": 22194000,
+      "earmarkedTax": 0,
+      "otherPublic": 58000,
+      "own": 3877000,
+      "other": 0,
+      "total": 26129000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 352
+   },
    "profile": {
     "missions": [
      "Placé sous la tutelle de la délégation à l’information et à la communication de la défense (DICoD), l’ECPAD, situé au fort d’Ivry-sur-Seine, a pour missions principales (articles R.3415-2 et suivants du code de la défense) :",
@@ -32500,7 +33153,7 @@
      "year": 2024,
      "kind": "realisation",
      "ae": 100930512,
-     "cp": 101104812,
+     "cp": 101104312,
      "programmes": [
       {
        "code": "185",
@@ -32622,10 +33275,15 @@
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
        "ae": 0,
-       "cp": 33000,
-       "sourceId": "src-rap-2025-1109835",
-       "page": 53,
-       "fromSheet": true
+       "cp": 32500,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 32500
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "217",
@@ -32744,9 +33402,14 @@
        "label": "Environnement et prospective de la politique de défense",
        "ae": 65000,
        "cp": 78000,
-       "sourceId": "src-rap-2025-1109835",
-       "page": 53,
-       "fromSheet": true
+       "natures": {
+        "transferts": {
+         "ae": 65000,
+         "cp": 78000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "217",
@@ -36885,7 +37548,6 @@
    "key": "ensta-ecole-nationale-superieure-de-techniques-avancees",
    "label": "ENSTA - Ecole nationale supérieure de techniques avancées",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -36906,8 +37568,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 18500,
-     "cp": 20500,
+     "ae": 43867522,
+     "cp": 46168006,
      "programmes": [
       {
        "code": "185",
@@ -36964,14 +37626,85 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 196
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 43833422,
+       "cp": 46092306,
+       "natures": {
+        "scsp": {
+         "ae": 38886850,
+         "cp": 38886850
+        },
+        "investissement": {
+         "ae": 4615543,
+         "cp": 4615543
+        },
+        "transferts": {
+         "ae": 331029,
+         "cp": 2589913
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "146",
+       "label": "Équipement des forces",
+       "ae": 15600,
+       "cp": 5200,
+       "natures": {
+        "transferts": {
+         "ae": 15600,
+         "cp": 5200
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
+      },
+      {
+       "code": "363",
+       "label": "Compétitivité",
+       "ae": 0,
+       "cp": 50000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 71,
+       "fromSheet": true
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "lfi",
+     "ae": 42313195,
+     "cp": 42313195,
+     "programmes": [
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 42313195,
+       "cp": 42313195,
+       "natures": {
+        "scsp": {
+         "ae": 40803706,
+         "cp": 40803706
+        },
+        "investissement": {
+         "ae": 1509489,
+         "cp": 1509489
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 13700,
-     "cp": 13700,
+     "ae": 51172198,
+     "cp": 48090331,
      "programmes": [
       {
        "code": "169",
@@ -37014,6 +37747,42 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 196
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 51143498,
+       "cp": 48061631,
+       "natures": {
+        "scsp": {
+         "ae": 41131724,
+         "cp": 41131724
+        },
+        "investissement": {
+         "ae": 5031629,
+         "cp": 5031629
+        },
+        "transferts": {
+         "ae": 4980145,
+         "cp": 1898278
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "146",
+       "label": "Équipement des forces",
+       "ae": 15000,
+       "cp": 15000,
+       "natures": {
+        "transferts": {
+         "ae": 15000,
+         "cp": 15000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
       }
      ]
     },
@@ -37070,6 +37839,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 374,
+     "outsideCap": 129,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 364,
+     "outsideCap": 158,
+     "state": 1,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 368,
+     "outsideCap": 149,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 368,
@@ -37086,6 +37882,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 41933000,
+      "fonctionnement": 16435000,
+      "intervention": 0,
+      "investissement": 8137000,
+      "total": 66505000
+     },
+     "cp": {
+      "personnel": 41933000,
+      "fonctionnement": 16435000,
+      "intervention": 0,
+      "investissement": 11513000,
+      "total": 69882000
+     },
+     "revenue": {
+      "state": 49006000,
+      "earmarkedTax": 70000,
+      "otherPublic": 3949000,
+      "own": 16709000,
+      "other": 0,
+      "total": 69734000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 40347000,
+      "fonctionnement": 18602000,
+      "intervention": 0,
+      "investissement": 6279000,
+      "total": 65228000
+     },
+     "cp": {
+      "personnel": 40347000,
+      "fonctionnement": 15444000,
+      "intervention": 0,
+      "investissement": 8532000,
+      "total": 64323000
+     },
+     "revenue": {
+      "state": 50831000,
+      "earmarkedTax": 69000,
+      "otherPublic": 5503000,
+      "own": 10274000,
+      "other": 0,
+      "total": 66678000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 71
+   },
    "profile": {
     "missions": [
      "L’École nationale supérieure de techniques avancées (ENSTA) procède de la fusion de l’ENSTA Bretagne et de l’ENSTA Paris et a été créée par le décret n° 2024-1081 du 29 novembre 2024 dont les dispositions sont entrées en vigueur le 1er janvier 2025. L’ENSTA est un établissement public à caractère scientifique, culturel et professionnel, placé sous la tutelle du ministre des Armées, constitué sous la forme d’un grand établissement au sens de l’article L. 717-1 du code de l’éducation. Elle dispose de l’autonomie statutaire et des délégations nécessaires pour conduire les missions qui lui sont confiées, sous la supervision de son conseil d’administration et des instances qui lui rendent des avis.",
@@ -45973,8 +46824,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 310594128,
-     "cp": 308807193,
+     "ae": 310594443,
+     "cp": 308806904,
      "programmes": [
       {
        "code": "185",
@@ -46199,19 +47050,24 @@
        "page": 115
       },
       {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 894315,
+       "cp": 170711,
+       "natures": {
+        "transferts": {
+         "ae": 894315,
+         "cp": 170711
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
        "code": "362",
        "label": "Ecologie",
        "ae": 0,
        "cp": 860000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 485,
-       "fromSheet": true
-      },
-      {
-       "code": "144",
-       "label": "Environnement et prospective de la politique de défense",
-       "ae": 894000,
-       "cp": 171000,
        "sourceId": "src-rap-2025-1109921",
        "page": 485,
        "fromSheet": true
@@ -46292,8 +47148,8 @@
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 283986856,
-     "cp": 290963777,
+     "ae": 283987315,
+     "cp": 290963822,
      "programmes": [
       {
        "code": "185",
@@ -46440,11 +47296,16 @@
       {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 316000,
-       "cp": 445000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 485,
-       "fromSheet": true
+       "ae": 316459,
+       "cp": 445045,
+       "natures": {
+        "transferts": {
+         "ae": 316459,
+         "cp": 445045
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "203",
@@ -47661,8 +48522,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 208519293,
-     "cp": 216311239,
+     "ae": 208519672,
+     "cp": 216311617,
      "programmes": [
       {
        "code": "206",
@@ -47763,11 +48624,16 @@
       {
        "code": "178",
        "label": "Préparation et emploi des forces",
-       "ae": 1456000,
-       "cp": 1456000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 316,
-       "fromSheet": true
+       "ae": 1456379,
+       "cp": 1456378,
+       "natures": {
+        "transferts": {
+         "ae": 1456379,
+         "cp": 1456378
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
       },
       {
        "code": "205",
@@ -47864,7 +48730,7 @@
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 252859115,
+     "ae": 252859518,
      "cp": 216863215,
      "programmes": [
       {
@@ -47944,11 +48810,16 @@
       {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 61000,
+       "ae": 61403,
        "cp": 0,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 316,
-       "fromSheet": true
+       "natures": {
+        "transferts": {
+         "ae": 61403,
+         "cp": 0
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "205",
@@ -48719,8 +49590,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 8096437,
-     "cp": 7915102,
+     "ae": 8096117,
+     "cp": 7914647,
      "programmes": [
       {
        "code": "105",
@@ -48767,11 +49638,16 @@
       {
        "code": "146",
        "label": "Équipement des forces",
-       "ae": 63000,
-       "cp": 70000,
-       "sourceId": "src-rap-2025-1109843",
-       "page": 107,
-       "fromSheet": true
+       "ae": 62680,
+       "cp": 69545,
+       "natures": {
+        "transferts": {
+         "ae": 62680,
+         "cp": 69545
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
       }
      ]
     },
@@ -48800,8 +49676,8 @@
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 7695043,
-     "cp": 7892227,
+     "ae": 7694620,
+     "cp": 7892151,
      "programmes": [
       {
        "code": "105",
@@ -48850,18 +49726,28 @@
        "label": "Environnement et prospective de la politique de défense",
        "ae": 14000,
        "cp": 14000,
-       "sourceId": "src-rap-2025-1109843",
-       "page": 107,
-       "fromSheet": true
+       "natures": {
+        "transferts": {
+         "ae": 14000,
+         "cp": 14000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "146",
        "label": "Équipement des forces",
-       "ae": 163000,
-       "cp": 196000,
-       "sourceId": "src-rap-2025-1109843",
-       "page": 107,
-       "fromSheet": true
+       "ae": 162577,
+       "cp": 195924,
+       "natures": {
+        "transferts": {
+         "ae": 162577,
+         "cp": 195924
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
       }
      ]
     },
@@ -50868,7 +51754,7 @@
      "year": 2025,
      "kind": "realisation",
      "ae": 21639000,
-     "cp": 26793000,
+     "cp": 26793450,
      "programmes": [
       {
        "code": "169",
@@ -50892,10 +51778,15 @@
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
        "ae": 0,
-       "cp": 64000,
-       "sourceId": "src-rap-2025-1109807",
-       "page": 76,
-       "fromSheet": true
+       "cp": 64450,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 64450
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
@@ -51989,19 +52880,24 @@
        "page": 302
       },
       {
-       "code": "362",
-       "label": "Ecologie",
-       "ae": 0,
-       "cp": 1122000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 328,
-       "fromSheet": true
-      },
-      {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
        "ae": 0,
        "cp": 72000,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 72000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "362",
+       "label": "Ecologie",
+       "ae": 0,
+       "cp": 1122000,
        "sourceId": "src-rap-2025-1109921",
        "page": 328,
        "fromSheet": true
@@ -53235,8 +54131,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 207797882,
-     "cp": 208814480,
+     "ae": 207798273,
+     "cp": 208814736,
      "programmes": [
       {
        "code": "185",
@@ -53397,20 +54293,30 @@
       {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 1007000,
-       "cp": 1339000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 334,
-       "fromSheet": true
+       "ae": 1007391,
+       "cp": 1339256,
+       "natures": {
+        "transferts": {
+         "ae": 1007391,
+         "cp": 1339256
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
        "ae": 20000,
        "cp": 10000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 334,
-       "fromSheet": true
+       "natures": {
+        "transferts": {
+         "ae": 20000,
+         "cp": 10000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       },
       {
        "code": "124",
@@ -53457,8 +54363,8 @@
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 251849952,
-     "cp": 212318732,
+     "ae": 251849736,
+     "cp": 212319007,
      "programmes": [
       {
        "code": "185",
@@ -53583,20 +54489,30 @@
       {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 943000,
-       "cp": 554000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 334,
-       "fromSheet": true
+       "ae": 942784,
+       "cp": 554275,
+       "natures": {
+        "transferts": {
+         "ae": 942784,
+         "cp": 554275
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
        "ae": 0,
        "cp": 10000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 334,
-       "fromSheet": true
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 10000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       },
       {
        "code": "424",
@@ -54214,7 +55130,7 @@
      "year": 2024,
      "kind": "realisation",
      "ae": 736103822,
-     "cp": 738253689,
+     "cp": 738253688,
      "programmes": [
       {
        "code": "185",
@@ -54369,19 +55285,24 @@
        "page": 302
       },
       {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 65000,
+       "cp": 207999,
+       "natures": {
+        "transferts": {
+         "ae": 65000,
+         "cp": 207999
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
        "code": "362",
        "label": "Ecologie",
        "ae": 0,
        "cp": 670000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 340,
-       "fromSheet": true
-      },
-      {
-       "code": "144",
-       "label": "Environnement et prospective de la politique de défense",
-       "ae": 65000,
-       "cp": 208000,
        "sourceId": "src-rap-2025-1109921",
        "page": 340,
        "fromSheet": true
@@ -54615,19 +55536,24 @@
        "page": 302
       },
       {
-       "code": "362",
-       "label": "Ecologie",
-       "ae": 0,
-       "cp": 500000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 340,
-       "fromSheet": true
-      },
-      {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
        "ae": 145000,
        "cp": 0,
+       "natures": {
+        "transferts": {
+         "ae": 145000,
+         "cp": 0
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "362",
+       "label": "Ecologie",
+       "ae": 0,
+       "cp": 500000,
        "sourceId": "src-rap-2025-1109921",
        "page": 340,
        "fromSheet": true
@@ -56317,7 +57243,6 @@
    "key": "ipp-institut-polytechnique-de-paris",
    "label": "IPP - Institut Polytechnique de Paris",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -56338,8 +57263,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 4409934,
-     "cp": 4409934,
+     "ae": 8979077,
+     "cp": 8979077,
      "programmes": [
       {
        "code": "147",
@@ -56410,14 +57335,28 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 478
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 4569143,
+       "cp": 4569143,
+       "natures": {
+        "scsp": {
+         "ae": 4569143,
+         "cp": 4569143
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
     {
      "year": 2025,
      "kind": "lfi",
-     "ae": 4218257,
-     "cp": 4218257,
+     "ae": 8683254,
+     "cp": 8683254,
      "programmes": [
       {
        "code": "150",
@@ -56446,14 +57385,28 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 478
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 4464997,
+       "cp": 4464997,
+       "natures": {
+        "scsp": {
+         "ae": 4464997,
+         "cp": 4464997
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 4144804,
-     "cp": 4144804,
+     "ae": 9795430,
+     "cp": 9795430,
      "programmes": [
       {
        "code": "147",
@@ -56514,6 +57467,20 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 478
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 5650626,
+       "cp": 5650626,
+       "natures": {
+        "scsp": {
+         "ae": 5650626,
+         "cp": 5650626
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
@@ -56614,6 +57581,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 28,
+     "outsideCap": 32,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 32,
+     "outsideCap": 71,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 31,
+     "outsideCap": 45,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 34,
@@ -56630,6 +57624,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 8638000,
+      "fonctionnement": 28430000,
+      "intervention": 0,
+      "investissement": 2010000,
+      "total": 39077000
+     },
+     "cp": {
+      "personnel": 8638000,
+      "fonctionnement": 28430000,
+      "intervention": 0,
+      "investissement": 1810000,
+      "total": 38877000
+     },
+     "revenue": {
+      "state": 9726000,
+      "earmarkedTax": 0,
+      "otherPublic": 24802000,
+      "own": 5369000,
+      "other": 0,
+      "total": 39897000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 6906000,
+      "fonctionnement": 23980000,
+      "intervention": 0,
+      "investissement": 143000,
+      "total": 31029000
+     },
+     "cp": {
+      "personnel": 6906000,
+      "fonctionnement": 22273000,
+      "intervention": 0,
+      "investissement": 99000,
+      "total": 29277000
+     },
+     "revenue": {
+      "state": 9791000,
+      "earmarkedTax": 174000,
+      "otherPublic": 15362000,
+      "own": 5297000,
+      "other": 0,
+      "total": 30625000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 95
+   },
    "profile": {
     "missions": [
      "À la demande du Président de la République et dans le prolongement de coopérations déjà étroites entre elles, l’École polytechnique, l’ENSTA, l’ENSAE Paris (groupe des écoles nationales d’économie et statistique), Télécom Paris, Télécom SudParis (membres de l’Institut Mines-Télécom) et l’École nationale des ponts et chaussées se sont rapprochées pour réaliser un projet partagé d’enseignement supérieur et de recherche. Elles forment ainsi l’établissement dénommé Institut polytechnique de Paris (IP Paris), créé par décret du 31 mai 2019, délivrant tous les niveaux de diplômes, intégrant profondément ses cursus, mutualisant ses forces et ses équipements, et qui doit trouver des voies originales pour évoluer vers un grand institut de sciences et de technologies de rang mondial.",
@@ -57654,8 +58703,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 193819962,
-     "cp": 193845962,
+     "ae": 198097845,
+     "cp": 198159245,
      "programmes": [
       {
        "code": "206",
@@ -57712,6 +58761,34 @@
        },
        "sourceId": "src-rap-2025-1109943",
        "page": 74
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 0,
+       "cp": 35400,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 35400
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 4277883,
+       "cp": 4277883,
+       "natures": {
+        "scsp": {
+         "ae": 4277883,
+         "cp": 4277883
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     }
@@ -57722,7 +58799,6 @@
    "key": "isae-institut-superieur-de-l-aeronautique-et-de-l-espace",
    "label": "ISAE - Institut supérieur de l'aéronautique et de l'espace",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -57743,8 +58819,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 491277,
-     "cp": 762547,
+     "ae": 51801831,
+     "cp": 52765362,
      "programmes": [
       {
        "code": "105",
@@ -57871,14 +58947,64 @@
        },
        "sourceId": "src-rap-2025-1109943",
        "page": 37
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 51218896,
+       "cp": 52002815,
+       "natures": {
+        "scsp": {
+         "ae": 44060518,
+         "cp": 44060518
+        },
+        "investissement": {
+         "ae": 5220572,
+         "cp": 5220572
+        },
+        "transferts": {
+         "ae": 1937806,
+         "cp": 2721725
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "178",
+       "label": "Préparation et emploi des forces",
+       "ae": 82058,
+       "cp": 0,
+       "natures": {
+        "transferts": {
+         "ae": 82058,
+         "cp": 0
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
+      },
+      {
+       "code": "146",
+       "label": "Équipement des forces",
+       "ae": 9600,
+       "cp": 0,
+       "natures": {
+        "transferts": {
+         "ae": 9600,
+         "cp": 0
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
       }
      ]
     },
     {
      "year": 2025,
      "kind": "lfi",
-     "ae": 201458,
-     "cp": 201458,
+     "ae": 54421130,
+     "cp": 54421130,
      "programmes": [
       {
        "code": "150",
@@ -57893,14 +59019,32 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 108
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 54219672,
+       "cp": 54219672,
+       "natures": {
+        "scsp": {
+         "ae": 45500231,
+         "cp": 45500231
+        },
+        "investissement": {
+         "ae": 8719441,
+         "cp": 8719441
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 179012,
-     "cp": 189012,
+     "ae": 56329548,
+     "cp": 56532706,
      "programmes": [
       {
        "code": "185",
@@ -57971,6 +59115,51 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 108
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 56118436,
+       "cp": 56195094,
+       "natures": {
+        "scsp": {
+         "ae": 45340758,
+         "cp": 45340758
+        },
+        "investissement": {
+         "ae": 8719441,
+         "cp": 8719441
+        },
+        "transferts": {
+         "ae": 2058237,
+         "cp": 2134895
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "146",
+       "label": "Équipement des forces",
+       "ae": 32100,
+       "cp": 9600,
+       "natures": {
+        "transferts": {
+         "ae": 32100,
+         "cp": 9600
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
+      },
+      {
+       "code": "424",
+       "label": "Financement des investissements stratégiques",
+       "ae": 0,
+       "cp": 139000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 77,
+       "fromSheet": true
       }
      ]
     },
@@ -58053,6 +59242,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 412,
+     "outsideCap": 212,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 412,
+     "outsideCap": 237,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 411,
+     "outsideCap": 218,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 412,
@@ -58069,6 +59285,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "certifie",
+    "note": "Le compte financier de l’opérateur a été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 46720000,
+      "fonctionnement": 23213000,
+      "intervention": 0,
+      "investissement": 9833000,
+      "total": 79766000
+     },
+     "cp": {
+      "personnel": 46720000,
+      "fonctionnement": 20827000,
+      "intervention": 0,
+      "investissement": 10870000,
+      "total": 78417000
+     },
+     "revenue": {
+      "state": 56335000,
+      "earmarkedTax": 85000,
+      "otherPublic": 4895000,
+      "own": 19383000,
+      "other": 0,
+      "total": 80698000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 46236000,
+      "fonctionnement": 21770000,
+      "intervention": 0,
+      "investissement": 8139000,
+      "total": 76145000
+     },
+     "cp": {
+      "personnel": 46236000,
+      "fonctionnement": 20826000,
+      "intervention": 0,
+      "investissement": 9569000,
+      "total": 76631000
+     },
+     "revenue": {
+      "state": 56413000,
+      "earmarkedTax": 128000,
+      "otherPublic": 4771000,
+      "own": 21743000,
+      "other": 0,
+      "total": 83055000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 77
+   },
    "profile": {
     "missions": [
      "L’Institut supérieur de l’aéronautique et de l’espace (ISAE) est une école d’ingénieur d’aéronautique et de spatial qui recrute et diplôme chaque année près de 800 ingénieurs, masters et docteurs, dont 40 % d’étrangers, pour nourrir l’industrie aérospatiale française et européenne et la maintenir à la pointe mondiale. Son cursus d’ingénieur généraliste est classé dans les premiers choix des étudiants en classes préparatoires aux grandes écoles. L’Institut dispense également un enseignement supérieur au titre de la formation continue, destinée au personnel civil et militaire des administrations de l’État intervenant dans le domaine aéronautique ou spatial. À la rentrée 2026, l’ISAE a initié un nouveau cursus d’ingénieur de spécialité « défense et sécurité » co-porté avec l’ENSTA, au profit des ingénieurs civils et des ingénieurs des études et techniques de l’armement (IETA).",
@@ -60673,7 +61944,6 @@
    "key": "musee-de-l-air-et-de-l-espace",
    "label": "Musée de l'air et de l'espace",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -60694,8 +61964,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 4000,
-     "cp": 0,
+     "ae": 11482763,
+     "cp": 11478763,
      "programmes": [
       {
        "code": "148",
@@ -60710,14 +61980,58 @@
        },
        "sourceId": "src-rap-2025-1109943",
        "page": 115
+      },
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 11478763,
+       "cp": 11478763,
+       "natures": {
+        "scsp": {
+         "ae": 10678763,
+         "cp": 10678763
+        },
+        "dotation": {
+         "ae": 800000,
+         "cp": 800000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "lfi",
+     "ae": 21946760,
+     "cp": 21210640,
+     "programmes": [
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 21946760,
+       "cp": 21210640,
+       "natures": {
+        "scsp": {
+         "ae": 11390702,
+         "cp": 11390702
+        },
+        "investissement": {
+         "ae": 10556058,
+         "cp": 9819938
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 11512,
-     "cp": 15512,
+     "ae": 15523563,
+     "cp": 16192230,
      "programmes": [
       {
        "code": "361",
@@ -60746,6 +62060,28 @@
        },
        "sourceId": "src-rap-2025-1109943",
        "page": 115
+      },
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 15512051,
+       "cp": 16176718,
+       "natures": {
+        "scsp": {
+         "ae": 11390702,
+         "cp": 11390702
+        },
+        "dotation": {
+         "ae": 4101391,
+         "cp": 4766058
+        },
+        "transferts": {
+         "ae": 19958,
+         "cp": 19958
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     },
@@ -60798,6 +62134,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 101,
+     "outsideCap": 5,
+     "state": 3,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 104,
+     "outsideCap": 7,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 102,
+     "outsideCap": 4,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 104,
@@ -60814,6 +62177,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 7000000,
+      "fonctionnement": 8220000,
+      "intervention": 0,
+      "investissement": 5670000,
+      "total": 20891000
+     },
+     "cp": {
+      "personnel": 7000000,
+      "fonctionnement": 8873000,
+      "intervention": 0,
+      "investissement": 7022000,
+      "total": 22895000
+     },
+     "revenue": {
+      "state": 20327000,
+      "earmarkedTax": 0,
+      "otherPublic": 316000,
+      "own": 3780000,
+      "other": 0,
+      "total": 24422000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 6452000,
+      "fonctionnement": 6806000,
+      "intervention": 0,
+      "investissement": 4058000,
+      "total": 17316000
+     },
+     "cp": {
+      "personnel": 6452000,
+      "fonctionnement": 6642000,
+      "intervention": 0,
+      "investissement": 3798000,
+      "total": 16893000
+     },
+     "revenue": {
+      "state": 16435000,
+      "earmarkedTax": 0,
+      "otherPublic": 339000,
+      "own": 3941000,
+      "other": 0,
+      "total": 20714000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 357
+   },
    "profile": {
     "missions": [
      "Le musée de l’Air et de l’Espace est un établissement public administratif (EPA) placé sous la tutelle du ministère des Armées et des Anciens combattants (art. R3413-62 et suivant du code de la défense). Il est doté de l’appellation « musée de France ». Implanté depuis 1986 dans l’ancienne aérogare du Bourget (Seine-Saint-Denis) et à Dugny où sont localisées ses réserves, il a pour mission de conserver et d’enrichir les collections de l’État dans les domaines de l’aéronautique et de l’astronautique. Il présente, notamment, plus de 200 avions originaux, emblématiques de l’évolution des techniques de l’aviation militaire mais également civile. Il propose un panorama complet de l’épopée aérospatiale depuis les premières montgolfières de 1783 jusqu’aux fusées Ariane 1 et 5. Il contribue ainsi au développement de l’esprit de défense et au renforcement du lien entre la Nation et ses armées."
@@ -60860,7 +62278,6 @@
    "key": "musee-de-l-armee",
    "label": "Musée de l'armée",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -60878,6 +62295,88 @@
     }
    ],
    "payments": [
+    {
+     "year": 2024,
+     "kind": "realisation",
+     "ae": 12542964,
+     "cp": 18092964,
+     "programmes": [
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 12542964,
+       "cp": 18092964,
+       "natures": {
+        "scsp": {
+         "ae": 10001577,
+         "cp": 10001577
+        },
+        "dotation": {
+         "ae": 2541387,
+         "cp": 8091387
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "lfi",
+     "ae": 23864934,
+     "cp": 23864934,
+     "programmes": [
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 23864934,
+       "cp": 23864934,
+       "natures": {
+        "scsp": {
+         "ae": 11364684,
+         "cp": 11364684
+        },
+        "investissement": {
+         "ae": 12500250,
+         "cp": 12500250
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "ae": 15491043,
+     "cp": 15491043,
+     "programmes": [
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 15491043,
+       "cp": 15491043,
+       "natures": {
+        "scsp": {
+         "ae": 11814684,
+         "cp": 11814684
+        },
+        "dotation": {
+         "ae": 3589359,
+         "cp": 3589359
+        },
+        "transferts": {
+         "ae": 87000,
+         "cp": 87000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      }
+     ]
+    },
     {
      "year": 2026,
      "kind": "lfi",
@@ -60931,6 +62430,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 165,
+     "outsideCap": 7,
+     "state": 1,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 168,
+     "outsideCap": 10,
+     "state": 3,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 168,
+     "outsideCap": 2,
+     "state": 8,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 168,
@@ -60947,6 +62473,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 14098000,
+      "fonctionnement": 10274000,
+      "intervention": 0,
+      "investissement": 13894000,
+      "total": 38266000
+     },
+     "cp": {
+      "personnel": 14098000,
+      "fonctionnement": 10434000,
+      "intervention": 0,
+      "investissement": 13875000,
+      "total": 38407000
+     },
+     "revenue": {
+      "state": 22978000,
+      "earmarkedTax": 0,
+      "otherPublic": 89000,
+      "own": 14235000,
+      "other": 0,
+      "total": 37301000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 14785000,
+      "fonctionnement": 9195000,
+      "intervention": 0,
+      "investissement": 3009000,
+      "total": 26989000
+     },
+     "cp": {
+      "personnel": 14785000,
+      "fonctionnement": 9017000,
+      "intervention": 0,
+      "investissement": 3770000,
+      "total": 27571000
+     },
+     "revenue": {
+      "state": 15491000,
+      "earmarkedTax": 0,
+      "otherPublic": 8000,
+      "own": 15202000,
+      "other": 0,
+      "total": 30701000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 362
+   },
    "profile": {
     "missions": [
      "Le musée de l’armée est un établissement public administratif (EPA) placé sous la tutelle du ministère des Armées et des Anciens combattants (articles R3413-1 et suivants du code de la défense). Il est doté de l’appellation « musée de France ». Implanté au sein de l’hôtel national des Invalides, ses réserves sont quant à elles situées sur le plateau de Satory. Centré sur l’histoire de l’armée terrestre française et européenne, il présente celle-ci en cinq départements : le département ancien, le département moderne, le département des deux guerres mondiales, le département artillerie et l’historial Charles de Gaulle. Il assure la gestion de la cathédrale Saint-Louis et l’église du Dôme où se situe le tombeau de Napoléon Ier."
@@ -62408,7 +63989,6 @@
    "key": "musee-national-de-la-marine",
    "label": "Musée national de la marine",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -62427,10 +64007,62 @@
    ],
    "payments": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "ae": 11683515,
+     "cp": 13083737,
+     "programmes": [
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 11683515,
+       "cp": 13083737,
+       "natures": {
+        "scsp": {
+         "ae": 11683515,
+         "cp": 11683515
+        },
+        "dotation": {
+         "ae": 0,
+         "cp": 1400222
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "lfi",
+     "ae": 21040722,
+     "cp": 21040722,
+     "programmes": [
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 21040722,
+       "cp": 21040722,
+       "natures": {
+        "scsp": {
+         "ae": 11510972,
+         "cp": 11510972
+        },
+        "investissement": {
+         "ae": 9529750,
+         "cp": 9529750
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      }
+     ]
+    },
+    {
      "year": 2025,
      "kind": "realisation",
-     "ae": 67500,
-     "cp": 67500,
+     "ae": 12087722,
+     "cp": 15355472,
      "programmes": [
       {
        "code": "147",
@@ -62445,6 +64077,28 @@
        },
        "sourceId": "src-rap-2025-1109813",
        "page": 245
+      },
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 12020222,
+       "cp": 15287972,
+       "natures": {
+        "scsp": {
+         "ae": 11960972,
+         "cp": 11960972
+        },
+        "dotation": {
+         "ae": 0,
+         "cp": 3267750
+        },
+        "transferts": {
+         "ae": 59250,
+         "cp": 59250
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     },
@@ -62501,6 +64155,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 119,
+     "outsideCap": 5,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 120,
+     "outsideCap": 10,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 118,
+     "outsideCap": 7,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 120,
@@ -62517,6 +64198,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 8500000,
+      "fonctionnement": 15794000,
+      "intervention": 0,
+      "investissement": 7120000,
+      "total": 31414000
+     },
+     "cp": {
+      "personnel": 8500000,
+      "fonctionnement": 14764000,
+      "intervention": 0,
+      "investissement": 6720000,
+      "total": 29984000
+     },
+     "revenue": {
+      "state": 20175000,
+      "earmarkedTax": 0,
+      "otherPublic": 0,
+      "own": 5175000,
+      "other": 0,
+      "total": 25350000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 8635000,
+      "fonctionnement": 11814000,
+      "intervention": 0,
+      "investissement": 2622000,
+      "total": 23070000
+     },
+     "cp": {
+      "personnel": 8635000,
+      "fonctionnement": 12325000,
+      "intervention": 0,
+      "investissement": 2498000,
+      "total": 23458000
+     },
+     "revenue": {
+      "state": 15369000,
+      "earmarkedTax": 0,
+      "otherPublic": 26000,
+      "own": 5626000,
+      "other": 0,
+      "total": 21021000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 368
+   },
    "profile": {
     "missions": [
      "Le musée national de la marine est un établissement public administratif placé sous la tutelle du ministère des Armées et des Anciens combattants (articles R3413-35 et suivants du code de la défense) et doté de l’appellation « musée de France ». Il est installé au Palais de Chaillot (Paris) depuis 1943 ainsi que dans cinq autres sites localisés à Brest, Port-Louis, Rochefort (deux sites) et Toulon. Le centre de conservation et de ressources du musée est situé à Dugny. Créé à partir d’une collection offerte en 1748 au roi Louis XV, l’établissement constitue le plus ancien musée maritime du monde. Il a pour missions d’assurer la conservation, la présentation, l’enrichissement et l’accroissement de ses collections dans tous les domaines de la marine, notamment ceux de la Marine nationale, des marines de commerce, de la pêche, de la recherche océanographique, du sport nautique et de plaisance. Il organise et apporte son concours à l’organisation des expositions et manifestations susceptibles de développer le goût de l’histoire maritime."
@@ -65211,7 +66947,6 @@
    "key": "onera-office-national-d-etudes-et-de-recherches-aerospatiales",
    "label": "ONERA - Office national d'études et de recherches aérospatiales",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -65232,8 +66967,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 1215540,
-     "cp": 12763529,
+     "ae": 136355938,
+     "cp": 157842991,
      "programmes": [
       {
        "code": "218",
@@ -65276,14 +67011,80 @@
        },
        "sourceId": "src-rap-2025-1109943",
        "page": 37
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 130348398,
+       "cp": 130967462,
+       "natures": {
+        "scsp": {
+         "ae": 121336135,
+         "cp": 121336135
+        },
+        "investissement": {
+         "ae": 7424763,
+         "cp": 7424763
+        },
+        "transferts": {
+         "ae": 1587500,
+         "cp": 2206564
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "363",
+       "label": "Compétitivité",
+       "ae": 0,
+       "cp": 50000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 83,
+       "fromSheet": true
+      },
+      {
+       "code": "424",
+       "label": "Financement des investissements stratégiques",
+       "ae": 4792000,
+       "cp": 14062000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 83,
+       "fromSheet": true
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "lfi",
+     "ae": 129422314,
+     "cp": 129422314,
+     "programmes": [
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 129422314,
+       "cp": 129422314,
+       "natures": {
+        "scsp": {
+         "ae": 118245719,
+         "cp": 118245719
+        },
+        "investissement": {
+         "ae": 11176595,
+         "cp": 11176595
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 1000000,
-     "cp": 6742222,
+     "ae": 141156905,
+     "cp": 155678210,
      "programmes": [
       {
        "code": "112",
@@ -65312,6 +67113,37 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 447
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 137055905,
+       "cp": 135363988,
+       "natures": {
+        "scsp": {
+         "ae": 117998177,
+         "cp": 117998177
+        },
+        "investissement": {
+         "ae": 14176595,
+         "cp": 14176595
+        },
+        "transferts": {
+         "ae": 4881133,
+         "cp": 3189216
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "424",
+       "label": "Financement des investissements stratégiques",
+       "ae": 3101000,
+       "cp": 13572000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 83,
+       "fromSheet": true
       }
      ]
     },
@@ -65368,6 +67200,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 1815,
+     "outsideCap": 263,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 1815,
+     "outsideCap": 295,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 1815,
+     "outsideCap": 291,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 1815,
@@ -65384,6 +67243,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 201819000,
+      "fonctionnement": 109278000,
+      "intervention": 50000,
+      "investissement": 86468000,
+      "total": 397615000
+     },
+     "cp": {
+      "personnel": 201819000,
+      "fonctionnement": 92764000,
+      "intervention": 50000,
+      "investissement": 82536000,
+      "total": 377168000
+     },
+     "revenue": {
+      "state": 136234000,
+      "earmarkedTax": 0,
+      "otherPublic": 4130000,
+      "own": 199519000,
+      "other": 0,
+      "total": 339883000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 198579000,
+      "fonctionnement": 86509000,
+      "intervention": 24000,
+      "investissement": 35600000,
+      "total": 320713000
+     },
+     "cp": {
+      "personnel": 198579000,
+      "fonctionnement": 71805000,
+      "intervention": 28000,
+      "investissement": 53085000,
+      "total": 323497000
+     },
+     "revenue": {
+      "state": 132921000,
+      "earmarkedTax": 0,
+      "otherPublic": 1967000,
+      "own": 156026000,
+      "other": 0,
+      "total": 290914000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 83
+   },
    "profile": {
     "missions": [
      "L’ONERA (l’Office national d’études et de recherches aérospatiales) a pour missions :",
@@ -68168,9 +70082,14 @@
        "label": "Soutien de la politique de la défense",
        "ae": 11030000,
        "cp": 3500000,
-       "sourceId": "src-rap-2025-1109840",
-       "page": 471,
-       "fromSheet": true
+       "natures": {
+        "transferts": {
+         "ae": 11030000,
+         "cp": 3500000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     },
@@ -68200,7 +70119,7 @@
      "year": 2025,
      "kind": "realisation",
      "ae": 17415576,
-     "cp": 25390576,
+     "cp": 25390526,
      "programmes": [
       {
        "code": "224",
@@ -68252,10 +70171,15 @@
        "code": "212",
        "label": "Soutien de la politique de la défense",
        "ae": 0,
-       "cp": 10384000,
-       "sourceId": "src-rap-2025-1109840",
-       "page": 471,
-       "fromSheet": true
+       "cp": 10383950,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 10383950
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
       }
      ]
     },
@@ -71465,7 +73389,6 @@
    "key": "shom-service-hydrographique-et-oceanographique-de-la-marine",
    "label": "SHOM - Service hydrographique et océanographique de la marine",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -71486,8 +73409,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 50000,
-     "cp": 50000,
+     "ae": 49670446,
+     "cp": 47637741,
      "programmes": [
       {
        "code": "161",
@@ -71502,14 +73425,85 @@
        },
        "sourceId": "src-rap-2025-1109936",
        "page": 254
+      },
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 47285446,
+       "cp": 45468741,
+       "natures": {
+        "scsp": {
+         "ae": 45287851,
+         "cp": 45287851
+        },
+        "dotation": {
+         "ae": 1997595,
+         "cp": 180890
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      },
+      {
+       "code": "113",
+       "label": "Paysages, eau et biodiversité",
+       "ae": 785000,
+       "cp": 393000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 372,
+       "fromSheet": true
+      },
+      {
+       "code": "181",
+       "label": "Prévention des risques",
+       "ae": 1550000,
+       "cp": 1726000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 372,
+       "fromSheet": true
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "kind": "lfi",
+     "ae": 50600351,
+     "cp": 50825951,
+     "programmes": [
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 49815351,
+       "cp": 50040951,
+       "natures": {
+        "scsp": {
+         "ae": 46500351,
+         "cp": 46500351
+        },
+        "investissement": {
+         "ae": 3315000,
+         "cp": 3540600
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      },
+      {
+       "code": "113",
+       "label": "Paysages, eau et biodiversité",
+       "ae": 785000,
+       "cp": 785000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 372,
+       "fromSheet": true
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 130935,
-     "cp": 131644,
+     "ae": 54924996,
+     "cp": 60234042,
      "programmes": [
       {
        "code": "105",
@@ -71552,6 +73546,79 @@
        },
        "sourceId": "src-rap-2025-1109936",
        "page": 254
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 230855,
+       "cp": 0,
+       "natures": {
+        "transferts": {
+         "ae": 230855,
+         "cp": 0
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "212",
+       "label": "Soutien de la politique de la défense",
+       "ae": 48852206,
+       "cp": 49065398,
+       "natures": {
+        "scsp": {
+         "ae": 45719531,
+         "cp": 45719531
+        },
+        "dotation": {
+         "ae": 3132675,
+         "cp": 3345867
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      },
+      {
+       "code": "146",
+       "label": "Équipement des forces",
+       "ae": 5000000,
+       "cp": 10000000,
+       "natures": {
+        "transferts": {
+         "ae": 5000000,
+         "cp": 10000000
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
+      },
+      {
+       "code": "205",
+       "label": "Mer, pêche et aquaculture",
+       "ae": 45000,
+       "cp": 28000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 372,
+       "fromSheet": true
+      },
+      {
+       "code": "113",
+       "label": "Paysages, eau et biodiversité",
+       "ae": 204000,
+       "cp": 403000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 372,
+       "fromSheet": true
+      },
+      {
+       "code": "181",
+       "label": "Prévention des risques",
+       "ae": 462000,
+       "cp": 606000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 372,
+       "fromSheet": true
       }
      ]
     },
@@ -71634,6 +73701,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 504,
+     "outsideCap": 51,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 505,
+     "outsideCap": 60,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 503,
+     "outsideCap": 50,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 349
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 505,
@@ -71650,6 +73744,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "non-certifie",
+    "note": "Le compte financier de l’opérateur n’a pas été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 46862000,
+      "fonctionnement": 15312000,
+      "intervention": 0,
+      "investissement": 11701000,
+      "total": 73875000
+     },
+     "cp": {
+      "personnel": 46862000,
+      "fonctionnement": 15406000,
+      "intervention": 0,
+      "investissement": 23989000,
+      "total": 86257000
+     },
+     "revenue": {
+      "state": 66118000,
+      "earmarkedTax": 0,
+      "otherPublic": 1625000,
+      "own": 15624000,
+      "other": 0,
+      "total": 83366000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 46332000,
+      "fonctionnement": 13689000,
+      "intervention": 0,
+      "investissement": 9215000,
+      "total": 69236000
+     },
+     "cp": {
+      "personnel": 46332000,
+      "fonctionnement": 11916000,
+      "intervention": 0,
+      "investissement": 16625000,
+      "total": 74873000
+     },
+     "revenue": {
+      "state": 64248000,
+      "earmarkedTax": 0,
+      "otherPublic": 1207000,
+      "own": 13321000,
+      "other": 0,
+      "total": 78776000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 372
+   },
    "profile": {
     "missions": [
      "Créé par décret n° 2007-800 du 11 mai 2007, l’établissement public administratif service hydrographique et océanographique de la marine (SHOM) a pour mission principale d’appuyer l’engagement des forces armées, et tout particulièrement la Force océanique stratégique dans le domaine de la connaissance de l’environnement physique marin. Le SHOM produit l’information géographique maritime et littorale de référence. Sa recherche permanente d’excellence et de progrès répond aux attentes de ses différents donneurs d’ordre et aux trois finalités découlant de sa mission générale :",
@@ -73894,8 +76043,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 13107337671,
-     "cp": 12790537614,
+     "ae": 13107337977,
+     "cp": 12790537183,
      "programmes": [
       {
        "code": "105",
@@ -74700,28 +76849,38 @@
        "page": 302
       },
       {
-       "code": "362",
-       "label": "Ecologie",
-       "ae": 0,
-       "cp": 56600000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 115,
-       "fromSheet": true
-      },
-      {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 3987000,
-       "cp": 4377000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 115,
-       "fromSheet": true
+       "ae": 3986986,
+       "cp": 4377009,
+       "natures": {
+        "transferts": {
+         "ae": 3986986,
+         "cp": 4377009
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
-       "ae": 222000,
-       "cp": 209000,
+       "ae": 222320,
+       "cp": 208560,
+       "natures": {
+        "transferts": {
+         "ae": 222320,
+         "cp": 208560
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      },
+      {
+       "code": "362",
+       "label": "Ecologie",
+       "ae": 0,
+       "cp": 56600000,
        "sourceId": "src-rap-2025-1109921",
        "page": 115,
        "fromSheet": true
@@ -74938,8 +77097,8 @@
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 12877836819,
-     "cp": 12949475066,
+     "ae": 12877836181,
+     "cp": 12949475693,
      "programmes": [
       {
        "code": "105",
@@ -75732,37 +77891,52 @@
        "page": 302
       },
       {
-       "code": "362",
-       "label": "Ecologie",
-       "ae": 0,
-       "cp": 25827000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 115,
-       "fromSheet": true
-      },
-      {
        "code": "144",
        "label": "Environnement et prospective de la politique de défense",
-       "ae": 13873000,
-       "cp": 5359000,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 115,
-       "fromSheet": true
+       "ae": 13872722,
+       "cp": 5359472,
+       "natures": {
+        "transferts": {
+         "ae": 13872722,
+         "cp": 5359472
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       },
       {
        "code": "178",
        "label": "Préparation et emploi des forces",
-       "ae": 165000,
+       "ae": 165025,
        "cp": 0,
-       "sourceId": "src-rap-2025-1109921",
-       "page": 115,
-       "fromSheet": true
+       "natures": {
+        "transferts": {
+         "ae": 165025,
+         "cp": 0
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 223
       },
       {
        "code": "212",
        "label": "Soutien de la politique de la défense",
-       "ae": 301000,
-       "cp": 268000,
+       "ae": 300615,
+       "cp": 268155,
+       "natures": {
+        "transferts": {
+         "ae": 300615,
+         "cp": 268155
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 348
+      },
+      {
+       "code": "362",
+       "label": "Ecologie",
+       "ae": 0,
+       "cp": 25827000,
        "sourceId": "src-rap-2025-1109921",
        "page": 115,
        "fromSheet": true
@@ -76561,7 +78735,6 @@
    "key": "x-ecole-polytechnique",
    "label": "X - Ecole polytechnique",
    "inCurrentList": true,
-   "paidIncomplete": true,
    "mission": {
     "code": "DA",
     "label": "Défense"
@@ -76582,8 +78755,8 @@
     {
      "year": 2024,
      "kind": "realisation",
-     "ae": 7568951,
-     "cp": 7642951,
+     "ae": 155211989,
+     "cp": 139685658,
      "programmes": [
       {
        "code": "169",
@@ -76696,14 +78869,59 @@
        },
        "sourceId": "src-rap-2025-1109943",
        "page": 37
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 147638238,
+       "cp": 132016707,
+       "natures": {
+        "scsp": {
+         "ae": 107250709,
+         "cp": 107250709
+        },
+        "investissement": {
+         "ae": 23552458,
+         "cp": 23552458
+        },
+        "transferts": {
+         "ae": 16835071,
+         "cp": 1213540
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "146",
+       "label": "Équipement des forces",
+       "ae": 4800,
+       "cp": 0,
+       "natures": {
+        "transferts": {
+         "ae": 4800,
+         "cp": 0
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
+      },
+      {
+       "code": "124",
+       "label": "Programme 124",
+       "ae": 0,
+       "cp": 26000,
+       "sourceId": "src-rap-2025-defense",
+       "page": 88,
+       "fromSheet": true
       }
      ]
     },
     {
      "year": 2025,
      "kind": "lfi",
-     "ae": 5647359,
-     "cp": 5647359,
+     "ae": 141408412,
+     "cp": 141408412,
      "programmes": [
       {
        "code": "150",
@@ -76718,14 +78936,32 @@
        },
        "sourceId": "src-rap-2025-1109921",
        "page": 108
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 135761053,
+       "cp": 135761053,
+       "natures": {
+        "scsp": {
+         "ae": 110602914,
+         "cp": 110602914
+        },
+        "investissement": {
+         "ae": 25158139,
+         "cp": 25158139
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
       }
      ]
     },
     {
      "year": 2025,
      "kind": "realisation",
-     "ae": 6211297,
-     "cp": 6229297,
+     "ae": 140999152,
+     "cp": 138787279,
      "programmes": [
       {
        "code": "169",
@@ -76824,6 +79060,42 @@
        },
        "sourceId": "src-rap-2025-1109943",
        "page": 115
+      },
+      {
+       "code": "144",
+       "label": "Environnement et prospective de la politique de défense",
+       "ae": 134787855,
+       "cp": 132553182,
+       "natures": {
+        "scsp": {
+         "ae": 109604864,
+         "cp": 109604864
+        },
+        "investissement": {
+         "ae": 15158139,
+         "cp": 15158139
+        },
+        "transferts": {
+         "ae": 10024852,
+         "cp": 7790179
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 67
+      },
+      {
+       "code": "146",
+       "label": "Équipement des forces",
+       "ae": 0,
+       "cp": 4800,
+       "natures": {
+        "transferts": {
+         "ae": 0,
+         "cp": 4800
+        }
+       },
+       "sourceId": "src-rap-2025-defense",
+       "page": 660
       }
      ]
     },
@@ -76906,6 +79178,33 @@
    ],
    "jobs": [
     {
+     "year": 2024,
+     "kind": "realisation",
+     "underCap": 2679,
+     "outsideCap": 503,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "prevision",
+     "underCap": 2694,
+     "outsideCap": 577,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
+     "year": 2025,
+     "kind": "realisation",
+     "underCap": 2681,
+     "outsideCap": 530,
+     "state": 0,
+     "sourceId": "src-rap-2025-defense",
+     "page": 69
+    },
+    {
      "year": 2026,
      "kind": "lfi",
      "underCap": 2692,
@@ -76922,6 +79221,61 @@
      "sourceId": "src-bercy-plf2027-operateurs-emplois"
     }
    ],
+   "account": {
+    "year": 2025,
+    "status": "certifie",
+    "note": "Le compte financier de l’opérateur a été certifié par un commissaire aux comptes.",
+    "budget": {
+     "ae": {
+      "personnel": 127950000,
+      "fonctionnement": 51774000,
+      "intervention": 0,
+      "investissement": 56270000,
+      "total": 235994000
+     },
+     "cp": {
+      "personnel": 127950000,
+      "fonctionnement": 50019000,
+      "intervention": 0,
+      "investissement": 39560000,
+      "total": 217529000
+     },
+     "revenue": {
+      "state": 137461000,
+      "earmarkedTax": 132000,
+      "otherPublic": 6676000,
+      "own": 76950000,
+      "other": 0,
+      "total": 221219000
+     }
+    },
+    "actual": {
+     "ae": {
+      "personnel": 122354000,
+      "fonctionnement": 48992000,
+      "intervention": 0,
+      "investissement": 132515000,
+      "total": 303861000
+     },
+     "cp": {
+      "personnel": 122354000,
+      "fonctionnement": 45956000,
+      "intervention": 0,
+      "investissement": 31230000,
+      "total": 199539000
+     },
+     "revenue": {
+      "state": 130919000,
+      "earmarkedTax": 208000,
+      "otherPublic": 269000,
+      "own": 81554000,
+      "other": 0,
+      "total": 212949000
+     }
+    },
+    "sourceId": "src-rap-2025-defense",
+    "page": 88
+   },
    "profile": {
     "missions": [
      "L’École polytechnique (l’X) est un établissement d’enseignement supérieur et de recherche de rang mondial. Elle est en tête des écoles d’ingénieurs françaises. Elle diplôme plus de 550 ingénieurs par an dont 430 élèves français (élèves officiers), parmi lesquels autour de 60 intègrent un grand corps technique de l’État (ingénieurs des mines, ingénieurs des ponts, des eaux et forêts, ingénieurs de l’armement, administrateurs de l’institut national de la statistique et des études économiques collecte), quelques-uns entrent dans les forces armées, les autres rejoignent le secteur public ou privé, ou poursuivent des études doctorales.",
@@ -76984,14 +79338,13 @@
   }
  ],
  "check": {
-  "tables": 79,
-  "publishedTotalCp": 52353305305,
-  "linesSumCp": 52353305306,
-  "toleranceEur": 1106,
-  "sheetCp": 2207012000,
+  "tables": 83,
+  "publishedTotalCp": 53024926908,
+  "linesSumCp": 53024926910,
+  "toleranceEur": 1157,
+  "sheetCp": 2129977000,
   "unreadMissions": [
    "Audiovisuel public",
-   "Défense",
    "Ecologie, développement et mobilité durables",
    "Investir pour la France de 2030",
    "Plan de relance"
