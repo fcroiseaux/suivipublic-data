@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T13:23:41Z",
+  "updatedAt": "2026-11-23T13:39:29Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -3658,7 +3658,7 @@
       "publisher": "Ministère de l'Économie et des Finances",
       "kind": "budget",
       "url": "https://data.economie.gouv.fr/explore/dataset/plf-2027-liste-d-operateurs-par-programme-et-ministere/",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Licence Ouverte 2.0",
       "format": "json"
     },
@@ -3667,7 +3667,7 @@
       "publisher": "Ministère de l'Économie et des Finances",
       "kind": "budget",
       "url": "https://data.economie.gouv.fr/explore/dataset/plf-2027-pap-operateurs-subventions-lfi-n-1-et-plf-n/",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Licence Ouverte 2.0",
       "format": "json"
     },
@@ -3676,7 +3676,7 @@
       "publisher": "Ministère de l'Économie et des Finances",
       "kind": "budget",
       "url": "https://data.economie.gouv.fr/explore/dataset/plf-2027-operateurs-emplois-des-operateurs/",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Licence Ouverte 2.0",
       "format": "json"
     },
@@ -3685,7 +3685,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109795/file/RAP%202025%20-%20Action%20ext%C3%A9rieure%20de%20l'%C3%89tat.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3694,7 +3694,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109796/file/RAP%202025%20-%20Administration%20g%C3%A9n%C3%A9rale%20et%20territoriale%20de%20l'%C3%89tat.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3703,7 +3703,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109799/file/RAP%202025%20-%20Agriculture%2C%20alimentation%2C%20for%C3%AAt%20et%20affaires%20rurales.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3712,7 +3712,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109801/file/RAP%202025%20-%20Aide%20publique%20au%20d%C3%A9veloppement.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3721,7 +3721,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109807/file/RAP%202025%20-%20Anciens%20combattants%2C%20m%C3%A9moire%20et%20liens%20avec%20la%20Nation.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3730,7 +3730,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109813/file/RAP%202025%20-%20Coh%C3%A9sion%20des%20territoires.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3739,7 +3739,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109832/file/RAP%202025%20-%20Contr%C3%B4le%20de%20la%20circulation%20et%20du%20stationnement%20routiers.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3748,7 +3748,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109835/file/RAP%202025%20-%20Contr%C3%B4le%20et%20exploitation%20a%C3%A9riens.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3757,7 +3757,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109840/file/RAP%202025%20-%20Culture.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3766,7 +3766,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109843/file/RAP%202025%20-%20Direction%20de%20l'action%20du%20Gouvernement.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3775,7 +3775,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109844/file/RAP%202025%20-%20%C3%89conomie.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3784,7 +3784,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109846/file/RAP%202025%20-%20Engagements%20financiers%20de%20l'%C3%89tat.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3793,7 +3793,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109849/file/RAP%202025%20-%20Enseignement%20scolaire.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3802,7 +3802,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109859/file/RAP%202025%20-%20Gestion%20des%20finances%20publiques.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3811,7 +3811,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109862/file/RAP%202025%20-%20Gestion%20du%20patrimoine%20immobilier%20de%20l'%C3%89tat.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3820,7 +3820,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109864/file/RAP%202025%20-%20Immigration%2C%20asile%20et%20int%C3%A9gration.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3829,7 +3829,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109894/file/RAP%202025%20-%20Justice.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3838,7 +3838,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109897/file/RAP%202025%20-%20M%C3%A9dias%2C%20livre%20et%20industries%20culturelles.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3847,7 +3847,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109900/file/RAP%202025%20-%20Outre-mer.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3856,7 +3856,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109904/file/RAP%202025%20-%20Participations%20financi%C3%A8res%20de%20l'%C3%89tat.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3865,7 +3865,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109921/file/RAP%202025%20-%20Recherche%20et%20enseignement%20sup%C3%A9rieur.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3874,7 +3874,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109922/file/RAP%202025%20-%20R%C3%A9gimes%20sociaux%20et%20de%20retraite.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3883,7 +3883,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109928/file/RAP%202025%20-%20Relations%20avec%20les%20collectivit%C3%A9s%20territoriales.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3892,7 +3892,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109931/file/RAP%202025%20-%20Remboursements%20et%20d%C3%A9gr%C3%A8vements.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3901,7 +3901,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109934/file/RAP%202025%20-%20Sant%C3%A9.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3910,7 +3910,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109936/file/RAP%202025%20-%20S%C3%A9curit%C3%A9s.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3919,7 +3919,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109937/file/RAP%202025%20-%20Solidarit%C3%A9%2C%20insertion%20et%20%C3%A9galit%C3%A9%20des%20chances.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3928,7 +3928,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109940/file/RAP%202025%20-%20Sport%2C%20jeunesse%20et%20vie%20associative.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3937,7 +3937,7 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109943/file/RAP%202025%20-%20Transformation%20et%20fonction%20publiques.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     },
@@ -3946,7 +3946,232 @@
       "publisher": "Gouvernement, annexe au projet de loi relative aux résultats de la gestion publiée par l'Assemblée nationale",
       "kind": "budget",
       "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109945/file/RAP%202025%20-%20Travail%2C%20emploi%20et%20administration%20des%20minist%C3%A8res%20sociaux.pdf",
-      "retrievedAt": "2026-11-23T13:23:41Z",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-bercy-plf2027-operateurs-actions": {
+      "title": "Projet de loi de finances 2027, subventions par opérateur et par action",
+      "publisher": "Ministère de l'Économie et des Finances",
+      "kind": "budget",
+      "url": "https://data.economie.gouv.fr/explore/dataset/plf-2027-pap-operateurs-details-des-subventions-par-operateur/",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Licence Ouverte 2.0",
+      "format": "json"
+    },
+    "src-pap-2027-1128194": {
+      "title": "Projet annuel de performances 2027, Contrôle et exploitation aériens",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128194/file/PAP%202027%20-%20Contr%C3%B4le%20et%20exploitation%20a%C3%A9riens.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128200": {
+      "title": "Projet annuel de performances 2027, Action extérieure de l'État",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128200/file/PAP%202027%20-%20Action%20ext%C3%A9rieure%20de%20l'%C3%89tat.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128203": {
+      "title": "Projet annuel de performances 2027, Administration générale et territoriale de l'État",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128203/file/PAP%202027%20-%20Administration%20g%C3%A9n%C3%A9rale%20et%20territoriale%20de%20l'%C3%89tat.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128206": {
+      "title": "Projet annuel de performances 2027, Agriculture et alimentation",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128206/file/PAP%202027%20-%20Agriculture%20et%20alimentation.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128212": {
+      "title": "Projet annuel de performances 2027, Cohésion des territoires",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128212/file/PAP%202027%20-%20Coh%C3%A9sion%20des%20territoires.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128219": {
+      "title": "Projet annuel de performances 2027, Culture",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128219/file/PAP%202027%20-%20Culture.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128221": {
+      "title": "Projet annuel de performances 2027, Défense",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128221/file/PAP%202027%20-%20D%C3%A9fense.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128222": {
+      "title": "Projet annuel de performances 2027, Direction de l'action du Gouvernement",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128222/file/PAP%202027%20-%20Direction%20de%20l'action%20du%20Gouvernement.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128225": {
+      "title": "Projet annuel de performances 2027, Écologie, développement et mobilité durables",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128225/file/PAP%202027%20-%20%C3%89cologie%2C%20d%C3%A9veloppement%20et%20mobilit%C3%A9%20durables.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128228": {
+      "title": "Projet annuel de performances 2027, Économie",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128228/file/PAP%202027%20-%20%C3%89conomie.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128234": {
+      "title": "Projet annuel de performances 2027, Enseignement scolaire",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128234/file/PAP%202027%20-%20Enseignement%20scolaire.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128237": {
+      "title": "Projet annuel de performances 2027, Immigration, asile et intégration",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128237/file/PAP%202027%20-%20Immigration%2C%20asile%20et%20int%C3%A9gration.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128243": {
+      "title": "Projet annuel de performances 2027, Justice",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128243/file/PAP%202027%20-%20Justice.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128246": {
+      "title": "Projet annuel de performances 2027, Médias, livre et industries culturelles",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128246/file/PAP%202027%20-%20M%C3%A9dias%2C%20livre%20et%20industries%20culturelles.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128248": {
+      "title": "Projet annuel de performances 2027, Monde combattant, mémoire et liens avec la Nation",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128248/file/PAP%202027%20-%20Monde%20combattant%2C%20m%C3%A9moire%20et%20liens%20avec%20la%20Nation.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128249": {
+      "title": "Projet annuel de performances 2027, Outre-mer",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128249/file/PAP%202027%20-%20Outre-mer.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128257": {
+      "title": "Projet annuel de performances 2027, Recherche et enseignement supérieur",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128257/file/PAP%202027%20-%20Recherche%20et%20enseignement%20sup%C3%A9rieur.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128260": {
+      "title": "Projet annuel de performances 2027, Régimes sociaux et de retraite",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128260/file/PAP%202027%20-%20R%C3%A9gimes%20sociaux%20et%20de%20retraite.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128269": {
+      "title": "Projet annuel de performances 2027, Santé",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128269/file/PAP%202027%20-%20Sant%C3%A9.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128275": {
+      "title": "Projet annuel de performances 2027, Sécurités",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128275/file/PAP%202027%20-%20S%C3%A9curit%C3%A9s.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128279": {
+      "title": "Projet annuel de performances 2027, Sport, jeunesse et vie associative",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128279/file/PAP%202027%20-%20Sport%2C%20jeunesse%20et%20vie%20associative.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128281": {
+      "title": "Projet annuel de performances 2027, Transformation et fonction publiques",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128281/file/PAP%202027%20-%20Transformation%20et%20fonction%20publiques.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128284": {
+      "title": "Projet annuel de performances 2027, Travail, emploi et administration des ministères sociaux",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128284/file/PAP%202027%20-%20Travail%2C%20emploi%20et%20administration%20des%20minist%C3%A8res%20sociaux.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
+      "licence": "Information publique (CRPA, art. L. 321-1)",
+      "format": "pdf"
+    },
+    "src-pap-2027-1128287": {
+      "title": "Projet annuel de performances 2027, Contrôle de la circulation et du stationnement routiers",
+      "publisher": "Gouvernement, annexe au projet de loi de finances publiée par l'Assemblée nationale",
+      "kind": "budget",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1128287/file/PAP%202027%20-%20Contr%C3%B4le%20de%20la%20circulation%20et%20du%20stationnement%20routiers.pdf",
+      "retrievedAt": "2026-11-23T13:39:29Z",
       "licence": "Information publique (CRPA, art. L. 321-1)",
       "format": "pdf"
     }
