@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T19:25:30Z",
+  "updatedAt": "2026-11-23T06:30:00Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -3354,6 +3354,15 @@
       "publishedOn": "2025-12-31",
       "retrievedAt": "2026-11-22T19:25:14Z",
       "licence": "Licence Ouverte 2.0",
+      "format": "html"
+    },
+    "src-senat-cri-2026-11-20": {
+      "title": "Compte rendu intégral de la séance du 20 novembre 2026 (version provisoire)",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://www.senat.fr/seances/s202611/s20261120/s20261120_mono.html",
+      "retrievedAt": "2026-11-23T06:20:00Z",
+      "licence": "Licence du Sénat",
       "format": "html"
     }
   }
