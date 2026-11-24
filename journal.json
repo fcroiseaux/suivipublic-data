@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T13:56:55Z",
+  "updatedAt": "2026-11-24T06:17:00Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -837,6 +837,17 @@
         "src-pap-2027-1128281",
         "src-pap-2027-1128284",
         "src-pap-2027-1128287"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-24-01",
+      "date": "2026-11-24",
+      "kind": "ajout-source",
+      "target": "annonces.json",
+      "note": "Synthèse du 24 novembre 2026 (période de recherche : depuis le 23 novembre 2026, date de la dernière entrée du journal). Tableaux extraits : aucun. Budget de l'État : le catalogue de la situation mensuelle de l'État sur data.economie.gouv.fr, consulté le 24 novembre 2026 à 6 h 07 UTC, ne publie pas de situation à fin octobre 2026 ; la situation à fin septembre 2026, extraite le 22 novembre 2026, reste la dernière reprise dans la colonne execution de 2026. Chiffrages ajoutés : aucun. L'étude d'impact du projet de loi visant à renforcer l'investissement publicitaire dans les services de presse en ligne d'information politique et générale (texte n° 165 du Sénat) a été lue : elle ne chiffre pas d'effet sur les dépenses ou les recettes de l'État, de la Sécurité sociale ou des collectivités territoriales ; ses montants portent sur le marché publicitaire et ne sont pas repris. Aucun projet de loi déposé à l'Assemblée nationale depuis le 23 novembre 2026 dans l'export des dossiers législatifs (23 novembre 2026, 23 h 16 UTC). Les rapports budgétaires du Sénat mis en ligne le 23 novembre 2026 (rapports spéciaux n° 156, avis n° 159 tome III, rapport n° 186 sur le projet de loi de finances de fin de gestion pour 2026) n'ont pas été lus ce jour. Flux des publications de la Cour des comptes : deux publications du 23 novembre 2026 portant sur des organismes locaux, dont l'intitulé ne désigne aucun texte, non retenues. Annonces ajoutées : aucune. Exécutif : index des discours publics de la DILA (fichier du 24 novembre 2026, aucune entrée prononcée après le 20 novembre 2026), flux de la Présidence de la République (dernière publication le 20 novembre 2026 ; aucun compte rendu de Conseil des ministres publié depuis celui du 10 novembre 2026). Les déclarations du 19 novembre 2026 listées par l'index (Emmanuel Macron, Catherine Pégard, Serge Papin) n'ont pas pu être lues, la page vie-publique.fr renvoyant un contrôle d'accès automatisé ; aucune annonce n'en est tirée. Aucun entretien n'est repris, le panel de médias n'étant pas publié. Suites ajoutées : 1, dépôt au Sénat le 10 novembre 2026 du projet de loi visant à renforcer l'investissement publicitaire dans les services de presse en ligne d'information politique et générale (texte n° 165, mis en ligne le 23 novembre 2026), rattaché à la mesure annoncée par Catherine Pégard au Conseil des ministres du 10 novembre 2026. Projet de loi de finances de fin de gestion pour 2026 : la commission mixte paritaire a conclu à un accord le 23 novembre 2026 ; cette étape ne correspond à aucun type de suite et n'est pas enregistrée. Aucun acte nouveau pour les quatre autres mesures suivies. Résumés ajoutés : aucun dans resumes.json, aucune nouvelle version adoptée depuis le 23 novembre 2026. Rattrapage : 2 résumés écrits dans a-relire/resumes.json pour relecture (projets de loi autorisant l'approbation des accords relatifs aux services aériens avec Antigua-et-Barbuda et avec la Tanzanie, textes définitifs du 20 novembre 2026). Rattachements : aucun ; aucun scrutin de l'Assemblée nationale le 23 novembre 2026, et les 21 scrutins du 20 novembre 2026 (n° 10081 à 10101) sont liés au dossier du projet de loi visant la relance et la décentralisation du logement, conformément à leur intitulé. Présidents des assemblées et présidents de groupe : aucune séance publique tenue depuis le 20 novembre 2026 à l'Assemblée nationale (séances de l'après-midi et du soir du 20 novembre supprimées selon l'agenda) ni au Sénat (aucun compte rendu publié après celui du 20 novembre 2026) ; même constat, aucune annonce, pour Gabriel Attal, Yaël Braun-Pivet, Maryse Carrère, Cyrielle Chatelain, Sébastien Chenu, Éric Ciotti, Cécile Cukierman, Mathieu Darnaud, Edwige Diaz, Marc Fesneau, Xavier Iacovelli, Patrick Kanner, Gérard Larcher, Claude Malhuret, Laurent Marcangeli, Hervé Marseille, Christophe Naegelen, Mathilde Panot, Stéphane Peu, Boris Vallaud, Mélanie Vogel, Laurent Wauquiez. Aucune autre source n'a été consultée ce jour pour ces acteurs ; dernière revue complète le 21 novembre 2026, prochaine au plus tard le 28 novembre 2026. Sources inaccessibles : vie-publique.fr (contrôle d'accès automatisé), info.gouv.fr (HTTP 403), economie.gouv.fr (HTTP 403).",
+      "sourceIds": [
+        "src-senat-dossier-pjl26-165",
+        "src-senat-pjl26-165-ei"
       ]
     }
   ]

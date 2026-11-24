@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T16:56:31Z",
+  "updatedAt": "2026-11-24T06:17:00Z",
   "actors": [
     {
       "id": "act-amiel-david",
@@ -333,6 +333,22 @@
       },
       "sourceIds": [
         "src-senat-dossier-pjl26-164"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "sui-2026-11-10-depot-pjl-investissement-publicitaire-presse-en-ligne",
+      "measureId": "mes-pjl-investissement-publicitaire-presse-en-ligne",
+      "date": "2026-11-10",
+      "kind": "projet-loi-depose",
+      "description": "Dépôt du projet de loi au Sénat (texte n° 165, 2026-2027).",
+      "refs": {
+        "anDossier": "DLR5L17N55285",
+        "senatDossier": "pjl26-165",
+        "anDocument": "PRJLSNR5S499B0165"
+      },
+      "sourceIds": [
+        "src-senat-dossier-pjl26-165"
       ],
       "origin": "redaction"
     }
