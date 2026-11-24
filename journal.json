@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T06:17:00Z",
+  "updatedAt": "2026-11-24T19:42:12Z",
   "entries": [
     {
       "id": "jrn-2026-11-20-01",
@@ -848,6 +848,46 @@
       "sourceIds": [
         "src-senat-dossier-pjl26-165",
         "src-senat-pjl26-165-ei"
+      ]
+    },
+    {
+      "id": "jrn-2026-11-24-02",
+      "date": "2026-11-24",
+      "kind": "ajout-source",
+      "target": "budget/etat-2027.json",
+      "note": "Répartition par action des crédits de 2026 (loi votée) et 2027 (projet de loi), avec les dépenses de personnel de chaque action, et plafonds d'emplois des programmes par catégorie et par action, lus dans les projets annuels de performances 2027 : 31 documents. Chaque programme est recoupé à l'euro près avec les crédits publiés.",
+      "sourceIds": [
+        "src-pap-2027-administration-generale-et-territoriale-de-l-etat",
+        "src-pap-2027-action-exterieure-de-l-etat",
+        "src-pap-2027-agriculture-et-alimentation",
+        "src-pap-2027-cohesion-des-territoires",
+        "src-pap-2027-aide-publique-au-developpement",
+        "src-pap-2027-credits-non-repartis",
+        "src-pap-2027-conseil-et-controle-de-l-etat",
+        "src-pap-2027-culture",
+        "src-pap-2027-defense",
+        "src-pap-2027-ecologie-developpement-et-mobilite-durables",
+        "src-pap-2027-direction-de-l-action-du-gouvernement",
+        "src-pap-2027-economie",
+        "src-pap-2027-engagements-financiers-de-l-etat",
+        "src-pap-2027-immigration-asile-et-integration",
+        "src-pap-2027-investir-pour-la-france-de-2030",
+        "src-pap-2027-enseignement-scolaire",
+        "src-pap-2027-justice",
+        "src-pap-2027-medias-livre-et-industries-culturelles",
+        "src-pap-2027-outre-mer",
+        "src-pap-2027-monde-combattant-memoire-et-liens-avec-la-nation",
+        "src-pap-2027-pouvoirs-publics",
+        "src-pap-2027-regimes-sociaux-et-de-retraite",
+        "src-pap-2027-recherche-et-enseignement-superieur",
+        "src-pap-2027-relations-avec-les-collectivites-territoriales",
+        "src-pap-2027-remboursements-et-degrevements",
+        "src-pap-2027-sante",
+        "src-pap-2027-securites",
+        "src-pap-2027-solidarite-insertion-et-egalite-des-chances",
+        "src-pap-2027-sport-jeunesse-et-vie-associative",
+        "src-pap-2027-travail-emploi-et-administration-des-ministeres-so",
+        "src-pap-2027-transformation-et-fonction-publiques"
       ]
     }
   ]
