@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T19:42:12Z",
+  "updatedAt": "2026-11-25T06:19:00Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -4228,6 +4228,15 @@
       "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17BTA0370.html",
       "publishedOn": "2026-11-20",
       "retrievedAt": "2026-11-24T06:14:00Z",
+      "licence": "Licence Ouverte 1.0",
+      "format": "html"
+    },
+    "src-an-scrutin-10106": {
+      "title": "Analyse du scrutin n° 10106 : ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire)",
+      "publisher": "Assemblée nationale",
+      "kind": "assemblee",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10106",
+      "retrievedAt": "2026-11-25T06:12:00Z",
       "licence": "Licence Ouverte 1.0",
       "format": "html"
     }

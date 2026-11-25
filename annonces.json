@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T06:17:00Z",
+  "updatedAt": "2026-11-25T06:19:00Z",
   "actors": [
     {
       "id": "act-amiel-david",
@@ -349,6 +349,23 @@
       },
       "sourceIds": [
         "src-senat-dossier-pjl26-165"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "sui-2026-11-24-adoption-plfg-2026",
+      "measureId": "mes-plfg-2026",
+      "date": "2026-11-24",
+      "kind": "texte-adopte",
+      "description": "Adoption du texte de la commission mixte paritaire par le Sénat et par l'Assemblée nationale (scrutin public n° 10106 à l'Assemblée nationale).",
+      "refs": {
+        "anDossier": "DLR5L17N55223",
+        "anDocument": "PRJLANR5L17BTA0373",
+        "anScrutin": "VTANR5L17V10106"
+      },
+      "sourceIds": [
+        "src-an-dossier-plffg-2026",
+        "src-an-scrutin-10106"
       ],
       "origin": "redaction"
     }
