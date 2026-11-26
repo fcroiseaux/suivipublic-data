@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T06:19:00Z",
+  "updatedAt": "2026-11-26T06:30:00Z",
   "actors": [
     {
       "id": "act-amiel-david",
@@ -27,6 +27,22 @@
         {
           "kind": "membre-gouvernement",
           "label": "Ministre de l’Europe et des affaires étrangères",
+          "from": "2026-02-26",
+          "sourceIds": [
+            "src-dila-protocole-2026-04-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "act-farandou-jean-pierre",
+      "firstName": "Jean-Pierre",
+      "lastName": "Farandou",
+      "sortName": "Farandou, Jean-Pierre",
+      "roles": [
+        {
+          "kind": "membre-gouvernement",
+          "label": "Ministre du travail et des solidarités",
           "from": "2026-02-26",
           "sourceIds": [
             "src-dila-protocole-2026-04-16"
@@ -123,6 +139,30 @@
       "themeKey": "ent",
       "announcementIds": [
         "ann-2026-11-10-pegard-presse-en-ligne"
+      ]
+    },
+    {
+      "id": "mes-pjl-ddadue-economique-financiere-energetique-consommation-sante-travail",
+      "title": "Dépôt d'un projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, énergétique, de consommation, de santé et de travail",
+      "themeKey": "eur",
+      "announcementIds": [
+        "ann-2026-11-25-lescure-ddadue"
+      ]
+    },
+    {
+      "id": "mes-decret-relevement-smic-1er-decembre-2026",
+      "title": "Publication d'un décret portant relèvement du salaire minimum de croissance au 1er décembre 2026",
+      "themeKey": "eco",
+      "announcementIds": [
+        "ann-2026-11-25-farandou-decret-smic"
+      ]
+    },
+    {
+      "id": "mes-decret-organisation-ecole-polytechnique",
+      "title": "Publication d'un décret relatif à l'organisation et au régime administratif et financier de l'École polytechnique",
+      "themeKey": "edu",
+      "announcementIds": [
+        "ann-2026-11-25-lecornu-decret-ecole-polytechnique"
       ]
     }
   ],
@@ -254,6 +294,55 @@
         "src-cm-2026-11-10"
       ],
       "origin": "redaction"
+    },
+    {
+      "id": "ann-2026-11-25-lescure-ddadue",
+      "actorId": "act-lescure-roland",
+      "roleLabel": "Ministre de l’économie, des finances et de la souveraineté industrielle et énergétique et numérique",
+      "date": "2026-11-25",
+      "place": "Paris, Conseil des ministres",
+      "channel": "conseil-des-ministres",
+      "quote": "Le ministre de l’économie, des finances et de la souveraineté industrielle et énergétique et numérique a présenté un projet de loi portant diverses dispositions d’adaptation au droit de l’Union européenne (DDADUE) en matière économique, financière, énergétique, de consommation, de santé et de travail.",
+      "nature": "legislative",
+      "themeKey": "eur",
+      "measureId": "mes-pjl-ddadue-economique-financiere-energetique-consommation-sante-travail",
+      "sourceIds": [
+        "src-cm-2026-11-25"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "ann-2026-11-25-lecornu-decret-ecole-polytechnique",
+      "actorId": "act-lecornu-sebastien",
+      "roleLabel": "Premier ministre",
+      "date": "2026-11-25",
+      "place": "Paris, Conseil des ministres",
+      "channel": "conseil-des-ministres",
+      "quote": "Le Premier ministre a présenté un décret relatif à l’organisation et au régime administratif et financier de l’École polytechnique.",
+      "nature": "reglementaire",
+      "themeKey": "edu",
+      "measureId": "mes-decret-organisation-ecole-polytechnique",
+      "sourceIds": [
+        "src-cm-2026-11-25"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "ann-2026-11-25-farandou-decret-smic",
+      "actorId": "act-farandou-jean-pierre",
+      "roleLabel": "Ministre du travail et des solidarités",
+      "date": "2026-11-25",
+      "place": "Paris, Conseil des ministres",
+      "channel": "conseil-des-ministres",
+      "quote": "Comme annoncé par le Premier ministre lors de la conférence sociale du 9 novembre dernier, le ministre du travail et des solidarités a présenté un décret portant relèvement du salaire minimum de croissance (SMIC) de manière anticipée au 1er décembre 2026.",
+      "nature": "reglementaire",
+      "themeKey": "eco",
+      "measureId": "mes-decret-relevement-smic-1er-decembre-2026",
+      "announcedSchedule": "Relèvement au 1er décembre 2026",
+      "sourceIds": [
+        "src-cm-2026-11-25"
+      ],
+      "origin": "redaction"
     }
   ],
   "followUps": [
@@ -366,6 +455,36 @@
       "sourceIds": [
         "src-an-dossier-plffg-2026",
         "src-an-scrutin-10106"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "sui-2026-11-26-publication-decret-ecole-polytechnique",
+      "measureId": "mes-decret-organisation-ecole-polytechnique",
+      "date": "2026-11-26",
+      "kind": "decret-publie",
+      "description": "Publication au Journal officiel du décret n° 2026-1081 du 25 novembre 2026 relatif à l'organisation et au régime administratif et financier de l'Ecole polytechnique.",
+      "refs": {
+        "jorf": "JORFTEXT000055143761",
+        "nor": "ARMD2626573D"
+      },
+      "sourceIds": [
+        "src-jorf-decret-2026-1081"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "sui-2026-11-26-publication-decret-smic",
+      "measureId": "mes-decret-relevement-smic-1er-decembre-2026",
+      "date": "2026-11-26",
+      "kind": "decret-publie",
+      "description": "Publication au Journal officiel du décret n° 2026-1082 du 25 novembre 2026 portant relèvement du salaire minimum de croissance.",
+      "refs": {
+        "jorf": "JORFTEXT000055143987",
+        "nor": "TRSX2630843D"
+      },
+      "sourceIds": [
+        "src-jorf-decret-2026-1082"
       ],
       "origin": "redaction"
     }

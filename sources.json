@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T06:19:00Z",
+  "updatedAt": "2026-11-26T06:30:00Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -4239,6 +4239,36 @@
       "retrievedAt": "2026-11-25T06:12:00Z",
       "licence": "Licence Ouverte 1.0",
       "format": "html"
+    },
+    "src-cm-2026-11-25": {
+      "title": "Compte rendu du Conseil des ministres du 25 novembre 2026",
+      "publisher": "Présidence de la République",
+      "kind": "presidence",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/11/25/compte-rendu-du-conseil-des-ministres-du-25-novembre-2026",
+      "publishedOn": "2026-11-25",
+      "retrievedAt": "2026-11-26T06:06:00Z",
+      "licence": "Conditions de réutilisation du site elysee.fr non vérifiées",
+      "format": "html"
+    },
+    "src-jorf-decret-2026-1081": {
+      "title": "Décret n° 2026-1081 du 25 novembre 2026 relatif à l'organisation et au régime administratif et financier de l'Ecole polytechnique (JORF n° 0276 du 26 novembre 2026), flux JORF de la DILA, fichier JORF_20261126-003020",
+      "publisher": "Direction de l'information légale et administrative (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://echanges.dila.gouv.fr/OPENDATA/JORF/JORF_20261126-003020.tar.gz",
+      "publishedOn": "2026-11-26",
+      "retrievedAt": "2026-11-26T06:14:00Z",
+      "licence": "Licence Ouverte",
+      "format": "xml"
+    },
+    "src-jorf-decret-2026-1082": {
+      "title": "Décret n° 2026-1082 du 25 novembre 2026 portant relèvement du salaire minimum de croissance (JORF n° 0276 du 26 novembre 2026), flux JORF de la DILA, fichier JORF_20261126-003020",
+      "publisher": "Direction de l'information légale et administrative (DILA)",
+      "kind": "journal-officiel",
+      "url": "https://echanges.dila.gouv.fr/OPENDATA/JORF/JORF_20261126-003020.tar.gz",
+      "publishedOn": "2026-11-26",
+      "retrievedAt": "2026-11-26T06:14:00Z",
+      "licence": "Licence Ouverte",
+      "format": "xml"
     }
   }
 }
