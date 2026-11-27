@@ -923,6 +923,16 @@
         "src-an-scrutin-10173",
         "src-elysee-2026-11-25-reunion-monde-agricole"
       ]
+    },
+    {
+      "id": "jrn-2026-11-27-02",
+      "date": "2026-11-27",
+      "kind": "correction",
+      "target": "jrn-2026-11-27-01",
+      "note": "Précision sur la synthèse du 27 novembre 2026 : le document du projet de loi de financement de la sécurité sociale pour 2027 enregistré le 26 novembre 2026 (n° 195 au Sénat, n° 3537 à l'Assemblée nationale) n'est pas un texte de la commission mixte paritaire ; il constate que la commission mixte paritaire, réunie le 26 novembre 2026, n'a pas pu élaborer de texte commun. Il ne contient aucun chiffrage.",
+      "sourceIds": [
+        "src-senat-pjl26-195-cmp"
+      ]
     }
   ]
 }

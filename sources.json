@@ -4289,6 +4289,16 @@
       "retrievedAt": "2026-11-27T06:05:00Z",
       "licence": "Conditions de réutilisation du site elysee.fr non vérifiées",
       "format": "html"
+    },
+    "src-senat-pjl26-195-cmp": {
+      "title": "Projet de loi de financement de la sécurité sociale pour 2027 : résultat des travaux de la commission mixte paritaire (texte n° 195, 2026-2027)",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://www.senat.fr/leg/pjl26-195.html",
+      "publishedOn": "2026-11-26",
+      "retrievedAt": "2026-11-27T06:19:00Z",
+      "licence": "Licence du Sénat",
+      "format": "html"
     }
   }
 }
