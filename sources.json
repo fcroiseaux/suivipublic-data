@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T06:30:00Z",
+  "updatedAt": "2026-11-27T06:20:00Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -4269,6 +4269,26 @@
       "retrievedAt": "2026-11-26T06:14:00Z",
       "licence": "Licence Ouverte",
       "format": "xml"
+    },
+    "src-an-scrutin-10173": {
+      "title": "Analyse du scrutin n° 10173 : demande de suspension de séance formulée en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler)",
+      "publisher": "Assemblée nationale",
+      "kind": "assemblee",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10173",
+      "publishedOn": "2026-11-26",
+      "retrievedAt": "2026-11-27T06:15:00Z",
+      "licence": "Licence Ouverte 1.0",
+      "format": "html"
+    },
+    "src-elysee-2026-11-25-reunion-monde-agricole": {
+      "title": "Réunion avec les représentants du monde agricole : propos introductifs du Président de la République",
+      "publisher": "Présidence de la République",
+      "kind": "presidence",
+      "url": "https://www.elysee.fr/emmanuel-macron/2026/11/25/reunion-avec-les-representants-du-monde-agricole",
+      "publishedOn": "2026-11-25",
+      "retrievedAt": "2026-11-27T06:05:00Z",
+      "licence": "Conditions de réutilisation du site elysee.fr non vérifiées",
+      "format": "html"
     }
   }
 }

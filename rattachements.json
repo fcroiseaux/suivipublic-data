@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-27T06:20:00Z",
+  "links": [
+    {
+      "scrutin": {
+        "anScrutin": "VTANR5L17V10173"
+      },
+      "text": {
+        "anDossier": "DLR5L17N53339"
+      },
+      "publishedRef": {
+        "anDossier": "DLR5L17N53870"
+      },
+      "basis": "Intitulé du scrutin et page officielle du scrutin n° 10173, qui désignent la proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler ; l'export des scrutins le lie au dossier de la proposition de loi instaurant la responsabilité pénale des mineurs à 16 ans et renforçant la responsabilité pénale des parents.",
+      "sourceIds": [
+        "src-an-scrutin-10173"
+      ]
+    }
+  ]
+}
