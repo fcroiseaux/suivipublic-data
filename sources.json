@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T06:20:00Z",
+  "updatedAt": "2026-11-28T06:30:00Z",
   "sources": {
     "src-lfi-2026-texte-adopte-an": {
       "title": "Loi de finances pour 2026 : texte adopté en lecture définitive par l'Assemblée nationale (PRJLANR5L17BTA0227)",
@@ -4297,6 +4297,15 @@
       "url": "https://www.senat.fr/leg/pjl26-195.html",
       "publishedOn": "2026-11-26",
       "retrievedAt": "2026-11-27T06:19:00Z",
+      "licence": "Licence du Sénat",
+      "format": "html"
+    },
+    "src-senat-dossier-pjl26-192": {
+      "title": "Dossier législatif : Diverses dispositions d'adaptation au droit de l'Union européenne",
+      "publisher": "Sénat",
+      "kind": "senat",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl26-192.html",
+      "retrievedAt": "2026-11-28T06:16:00Z",
       "licence": "Licence du Sénat",
       "format": "html"
     }

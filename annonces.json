@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T06:30:00Z",
+  "updatedAt": "2026-11-28T06:30:00Z",
   "actors": [
     {
       "id": "act-amiel-david",
@@ -485,6 +485,22 @@
       },
       "sourceIds": [
         "src-jorf-decret-2026-1082"
+      ],
+      "origin": "redaction"
+    },
+    {
+      "id": "sui-2026-11-25-depot-pjl-ddadue",
+      "measureId": "mes-pjl-ddadue-economique-financiere-energetique-consommation-sante-travail",
+      "date": "2026-11-25",
+      "kind": "projet-loi-depose",
+      "description": "Dépôt du projet de loi au Sénat (texte n° 192, 2026-2027).",
+      "refs": {
+        "anDossier": "DLR5L17N55318",
+        "senatDossier": "pjl26-192",
+        "anDocument": "PRJLSNR5S499B0192"
+      },
+      "sourceIds": [
+        "src-senat-dossier-pjl26-192"
       ],
       "origin": "redaction"
     }
